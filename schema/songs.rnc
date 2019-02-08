@@ -1,0 +1,2 @@
+start = placeholder
+placeholder = element placeholder { text }
