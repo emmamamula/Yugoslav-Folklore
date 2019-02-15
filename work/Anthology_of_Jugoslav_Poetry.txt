@@ -1,9 +1,8 @@
-﻿<line><poem><number>I</number></line>
+﻿<poem><number>I</number>
 
-<line><t>  THE CURSE[1]</t></line>
+<title>THE CURSE[1]</title>
 
-<s>
-<line>I heard a sprightly swallow say</line>
+<stanza><line>I heard a sprightly swallow say</line>
 <line>To a gray cuckoo t'other day,--</line>
 <line>"Thou art a happy bird indeed;</line>
 <line>Thou dost not in the chimney breed,</line>
@@ -39,18 +38,15 @@
 <line>Where it was bleach'd thy son lies under;</line>
 <line>With it cover his hot wounds o'er.</line>
 <line>Rend it, mother; and send it, mother!</line>
-<line>May it thy suffering son restore!"</s></line>
+<line>May it thy suffering son restore!"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>II</number>
 
+<title>FAREWELL[3]</title>
 
-<line></poem><poem><number>II</number></line>
-
-<line><t>  FAREWELL[3]</t></line>
-
-<s>
-<line>Against white Buda's walls, a vine</line>
+<stanza><line>Against white Buda's walls, a vine</line>
 <line>Doth its white branches fondly twine;</line>
 <line>O, no! it was no vine-tree there;</line>
 <line>It was a fond, a faithful pair,</line>
@@ -74,18 +70,15 @@
 <line>Love! take that ball of snow to rest</line>
 <line>Upon thine heart within thy breast.</line>
 <line>And as it melts unnoticed there,</line>
-<line>So melts my heart in thine, my dear!"</s></line>
+<line>So melts my heart in thine, my dear!"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>III</number>
 
+<title>THE VIOLET[4]</title>
 
-<line></poem><poem><number>III</number></line>
-
-<line><t>  THE VIOLET[4]</t></line>
-
-<s>
-<line>How captivating is to me,</line>
+<stanza><line>How captivating is to me,</line>
 <line>Sweet flower! thine own young modesty!</line>
 <line>Though did I pluck thee from thy stem,</line>
 <line>There's none would wear thy purple gem.</line>
@@ -94,18 +87,15 @@
 <line>He would not prize thee--would not wear</line>
 <line>A flower so feeble though so fair:</line>
 <line>His turban for its decorations</line>
-<line>Had full blown roses and carnations.</s></line>
+<line>Had full blown roses and carnations.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>IV</number>
 
+<title>SMILIA[5]</title>
 
-<line></poem><poem><number>IV</number></line>
-
-<line><t>  SMILIA[5]</t></line>
-
-<s>
-<line>Sweet Smilia-flowers did Smilia pull,</line>
+<stanza><line>Sweet Smilia-flowers did Smilia pull,</line>
 <line>Her sleevelets and her bosom full;</line>
 <line>By the cool stream she gather'd them,</line>
 <line>And twined her many a diadem--</line>
@@ -119,18 +109,15 @@
 <line>O whisper in his mother's ear:</line>
 <line>'Say, wilt thou not thy Juris wed?--</line>
 <line>Then give him not a widow's bed;</line>
-<line>But some sweet maiden, young and fair.'"</s></line>
+<line>But some sweet maiden, young and fair.'"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>V</number>
 
+<title>HARVEST SONG</title>
 
-<line></poem><poem><number>V</number></line>
-
-<line><t>  HARVEST SONG</t></line>
-
-<s>
-<line>Take hold of your reeds, youths and maidens! and see</line>
+<stanza><line>Take hold of your reeds, youths and maidens! and see</line>
 <line>Who the kissers and kiss'd of the reapers shall be.</line>
 <line>Take hold of your reeds, till the secret be told,</line>
 <line>If the old shall kiss young, and the young shall kiss old</line>
@@ -139,18 +126,15 @@
 <line>And if any refuse, may God smite them--may they</line>
 <line>Be cursed by Paraskeva, the saint of to-day!</line>
 <line>Now loosen your hands--now loosen, and see</line>
-<line>Who the kissers and kiss'd of the reapers shall be.[6]</s></line>
+<line>Who the kissers and kiss'd of the reapers shall be.[6]</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>VI</number>
 
+<title>MAIDEN'S PRAYER</title>
 
-<line></poem><poem><number>VI</number></line>
-
-<line><t>  MAIDEN'S PRAYER</t></line>
-
-<s>
-<line>Beauty's maiden thus invoked the Heavens:</line>
+<stanza><line>Beauty's maiden thus invoked the Heavens:</line>
 <line>"Send me down a whirlwind! let it scatter</line>
 <line>Yonder stony tower--its halls lay open!</line>
 <line>Let me look on Ger[vc]i['c] Manoilo.</line>
@@ -163,18 +147,15 @@
 <line>And she look'd on Ger[vc]i['c] Manoilo:</line>
 <line>Saw the otter on his knees disporting:</line>
 <line>Saw the falcon sitting on his shoulder:</line>
-<line>Saw the rose upon his kalpak blooming.</s></line>
+<line>Saw the rose upon his kalpak blooming.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>VII</number>
 
+<title>KISSES</title>
 
-<line></poem><poem><number>VII</number></line>
-
-<line><t>  KISSES</t></line>
-
-<s>
-<line>What's the time of night, my dear?</line>
+<stanza><line>What's the time of night, my dear?</line>
 <line>For my maiden said, "I'll come"--</line>
 <line>Said "I'll come,"--but is not here:</line>
 <line>And 'tis now the midnight's gloom.</line>
@@ -186,33 +167,27 @@
 <line>And upon my lips there grew,</line>
 <line>From that hour, a honey-dew,</line>
 <line>As if sugar were my meat,</line>
-<line>And my drink metheglin sweet.</s></line>
+<line>And my drink metheglin sweet.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>VIII</number>
 
+<title>HARVEST SONG</title>
 
-<line></poem><poem><number>VIII</number></line>
-
-<line><t>  HARVEST SONG</t></line>
-
-<s>
-<line>Lord and master! let us homewards, let us homewards haste:</line>
+<stanza><line>Lord and master! let us homewards, let us homewards haste:</line>
 <line>Far, far distant are our dwellings--far across the waste.[8]</line>
 <line>Some have aged mothers threat'ning--"Ne'er allow another:"</line>
 <line>Some male-children[9] in the cradle, crying for their mother;</line>
-<line>Some impatient lovers chiding;--dearer they than brother.</s></line>
+<line>Some impatient lovers chiding;--dearer they than brother.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>IX</number>
 
+<title>CURSE</title>
 
-<line></poem><poem><number>IX</number></line>
-
-<line><t>  CURSE</t></line>
-
-<s>
-<line>The maiden cursed her raven eyes,</line>
+<stanza><line>The maiden cursed her raven eyes,</line>
 <line>She cursed them for their treacheries.</line>
 <line>"Be blinded now, to you if heaven</line>
 <line>All that is visible has given!</line>
@@ -227,25 +202,24 @@
 <line>May every branch embroidered there,</line>
 <line>A miserable heart-wound bear;--</line>
 <line>Upon each branch, may every leaf</line>
-<line>Bring and betoken toil and grief."</s></line>
+<line>Bring and betoken toil and grief."</line></stanza>
 
 
 
-<line></poem><poem><number>X</number></line>
+</poem><poem><number>X</number>
 
-<line><t>  SALUTATION OF THE MORNING STAR</t></line>
+<title>SALUTATION OF THE MORNING STAR</title>
 
-<s>
-<line>Lo! the maiden greets the day-star! "Sister!</line>
+<stanza><line>Lo! the maiden greets the day-star! "Sister!</line>
 <line>Sister star of morning! well I greet thee;</line>
 <line>Thou dost watch the world from thine uprising</line>
 <line>To thy sinking hour.  In Hercegovina,</line>
 <line>Tell me didst thou see the princely Stephan?</line>
 <line>Tell me, was his snowy palace open,</line>
 <line>Were his steeds caparisoned, and ready;</line>
-<line>And was he equipp'd his bride to visit?"</s></line>
+<line>And was he equipp'd his bride to visit?"</line></stanza>
 
-<line><s>  Gently then the morning star responded:</line>
+<stanza><line>Gently then the morning star responded:</line>
 <line>"Lovely sister! beautiful young maiden,</line>
 <line>True, I watch the world from my uprising</line>
 <line>To my setting;--and in Hercegovina</line>
@@ -257,9 +231,9 @@
 <line>False tongues three have whisper'd evil of thee;</line>
 <line>One has said--thine origin is lowly;</line>
 <line>One, that thou art treacherous as a serpent;</line>
-<line>And the third, that thou art dull and dreamy."</s></line>
+<line>And the third, that thou art dull and dreamy."</line></stanza>
 
-<line><s>  Then the maiden pour'd her imprecations:</line>
+<stanza><line>Then the maiden pour'd her imprecations:</line>
 <line>"He who said my origin was lowly,</line>
 <line>Never let a child of love be born him;</line>
 <line>He who called me treacherous as a serpent,</line>
@@ -268,18 +242,15 @@
 <line>Through cold winters in his bosom nestle;</line>
 <line>He who dar'd to call me dull and dreamy,</line>
 <line>Nine long years may he be worn by sickness,</line>
-<line>And no sleep renew his strength to bear it."</s></line>
+<line>And no sleep renew his strength to bear it."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XI</number>
 
+<title>THE KNITTER</title>
 
-<line></poem><poem><number>XI</number></line>
-
-<line><t>  THE KNITTER</t></line>
-
-<s>
-<line>The maiden sat upon the hill,</line>
+<stanza><line>The maiden sat upon the hill,</line>
 <line>Upon the hill and far away,</line>
 <line>Her fingers wove a silken cord,</line>
 <line>And thus I heard the maiden say:</line>
@@ -292,43 +263,39 @@
 <line>That an old man[11] should wear thee, I</line>
 <line>The coarsest worsted would inweave,</line>
 <line>Thy finest silk for dog-grass leave,</line>
-<line>And all thy knots with nettles tie."</s></line>
+<line>And all thy knots with nettles tie."</line></stanza>
 
 
 
-<line></poem><poem><number>XII</number></line>
+</poem><poem><number>XII</number>
 
-<line><t>  ROYAL CONVERSE</t></line>
+<title>ROYAL CONVERSE</title>
 
-<s>
-<line>The king from the queen an answer craves;</line>
+<stanza><line>The king from the queen an answer craves;</line>
 <line>"How shall we now employ our slaves?"</line>
 <line>The maidens in fine embroidery,</line>
 <line>The widows shall spin flax-yarn for me,</line>
-<line>And the men shall dig in the fields for thee.</s></line>
+<line>And the men shall dig in the fields for thee.</line></stanza>
 
-<line><s>  The king from the queen an answer craves,</line>
+<stanza><line>The king from the queen an answer craves,</line>
 <line>"How shall we, lady, feed our slaves?"</line>
 <line>The maidens shall have the honey-comb sweet,</line>
 <line>The widows shall feed on the finest wheat,</line>
-<line>And the men of maize-meal bread shall eat.</s></line>
+<line>And the men of maize-meal bread shall eat.</line></stanza>
 
-<line><s>  The king from the queen an answer craves;</line>
+<stanza><line>The king from the queen an answer craves;</line>
 <line>"Where for the night shall rest our slaves?"</line>
 <line>The maidens shall sleep in the chambers high,</line>
 <line>The widows on mattress'd beds shall lie,</line>
-<line>And the men on the nettles under the sky.</s></line>
+<line>And the men on the nettles under the sky.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XIII</number>
 
+<title>ROSA</title>
 
-<line></poem><poem><number>XIII</number></line>
-
-<line><t>  ROSA</t></line>
-
-<s>
-<line>Under roses slept the maiden Rosa,</line>
+<stanza><line>Under roses slept the maiden Rosa,</line>
 <line>And a rose fell down and waken'd Rosa;</line>
 <line>To the flower-rose, said the maiden Rosa--</line>
 <line>"Rose of mine! O fall, not on the maiden,</line>
@@ -341,18 +308,15 @@
 <line>But a young bride, is a roselet budding;</line>
 <line>When the wind is up, its fair leaves open,</line>
 <line>When the rain descends, it shines in beauty,--</line>
-<line>When the sun comes forth, it smiles and glories."</s></line>
+<line>When the sun comes forth, it smiles and glories."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XIV</number>
 
+<title>THE MAIDEN AND THE SUN</title>
 
-<line></poem><poem><number>XIV</number></line>
-
-<line><t>  THE MAIDEN AND THE SUN</t></line>
-
-<s>
-<line>A maiden proudly thus the sun accosted:</line>
+<stanza><line>A maiden proudly thus the sun accosted:</line>
 <line>"Sun! I am fairer far than thou,--far fairer;</line>
 <line>Fairer than is thy sister[12] or thy brethren,--</line>
 <line>Fairer than yon bright moon at midnight shining,</line>
@@ -369,18 +333,15 @@
 <line>But I a gloomier dowry yet will give her;</line>
 <line>Evil to her shall be her husband's brother;</line>
 <line>Evil to her shall be her husband's father.</line>
-<line>Then shall she think upon the affront she gave thee."</s></line>
+<line>Then shall she think upon the affront she gave thee."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XV</number>
 
+<title>THE MAIDEN'S WISH</title>
 
-<line></poem><poem><number>XV</number></line>
-
-<line><t>  THE MAIDEN'S WISH</t></line>
-
-<s>
-<line>If I had, ah Laso!</line>
+<stanza><line>If I had, ah Laso!</line>
 <line>All the emp'ror's treasures,</line>
 <line>Well I know, ah Laso!</line>
 <line>What with these I'd purchase;</line>
@@ -397,18 +358,15 @@
 <line>I would buy, ah Laso!</line>
 <line>I would purchase Laso,</line>
 <line>He should be, ah Laso!</line>
-<line>Gardener in my Garden.</s></line>
+<line>Gardener in my Garden.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XVI</number>
 
+<title>THE FALCON</title>
 
-<line></poem><poem><number>XVI</number></line>
-
-<line><t>  THE FALCON</t></line>
-
-<s>
-<line>The falcon soars both far and high,</line>
+<stanza><line>The falcon soars both far and high,</line>
 <line>He spreads his pinions in the sky,</line>
 <line>Then from his cloudy heights he lowers,</line>
 <line>And seats him on the city's towers:</line>
@@ -421,18 +379,15 @@
 <line>His tale of love.--"Now bend thy head</line>
 <line>Upon thy snowy neck," he said;</line>
 <line>"Its whiteness is too bright for me:</line>
-<line>And 'neath it sorrowing heart may be."</s></line>
+<line>And 'neath it sorrowing heart may be."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XVII</number>
 
+<title>DEER AND VILA</title>
 
-<line></poem><poem><number>XVII</number></line>
-
-<line><t>  DEER AND VILA</t></line>
-
-<s>
-<line>A young deer tracked his way through the green forest,</line>
+<stanza><line>A young deer tracked his way through the green forest,</line>
 <line>One lonely day--another came in sadness;</line>
 <line>And the third dawn'd, and brought him sighs and sorrow:</line>
 <line>Then he address'd him to the forest Vila:</line>
@@ -440,9 +395,9 @@
 <line>Now tell me what great sorrow has oppress'd thee?</line>
 <line>Why wanderest thou thus in the forest lonely:</line>
 <line>Lonely one day,--another day in sadness,--</line>
-<line>And the third day with sighs and anguish groaning?"</s></line>
+<line>And the third day with sighs and anguish groaning?"</line></stanza>
 
-<line><s>  And thus the young deer to the Vila answer'd:</line>
+<stanza><line>And thus the young deer to the Vila answer'd:</line>
 <line>"O thou sweet sister! Vila of the forest!</line>
 <line>Me has indeed a heavy grief befallen;</line>
 <line>For I had once a fawn, mine own beloved,</line>
@@ -458,18 +413,15 @@
 <line>Then may a fate as sad as mine await him.</line>
 <line>But if she has forsaken me--if, faithless,</line>
 <line>She loves another deer--and I forgotten--</line>
-<line>Then may the huntsman speedily o'er take her."</s></line>
+<line>Then may the huntsman speedily o'er take her."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XVIII</number>
 
+<title>VIRGIN AND WIDOW</title>
 
-<line></poem><poem><number>XVIII</number></line>
-
-<line><t>  VIRGIN AND WIDOW</t></line>
-
-<s>
-<line>Over Sarajevo flies a falcon,</line>
+<stanza><line>Over Sarajevo flies a falcon,</line>
 <line>Looking round for cooling shade to cool him.</line>
 <line>Then he finds a pine on Sarajevo;</line>
 <line>Under it a well of sparkling water;</line>
@@ -487,24 +439,21 @@
 <line>"Sarajevo! let a ban be on thee!</line>
 <line>Cursed be thy strange and evil customs!</line>
 <line>For thy youths they love the bygone widows,</line>
-<line>And thy aged men the untried virgins."</s></line>
+<line>And thy aged men the untried virgins."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XIX</number>
 
+<title>NIGHTINGALES</title>
 
-<line></poem><poem><number>XIX</number></line>
-
-<line><t>  NIGHTINGALES</t></line>
-
-<s>
-<line>All the night two nightingales were singing</line>
+<stanza><line>All the night two nightingales were singing</line>
 <line>At the window of th'affianced maiden;</line>
 <line>And th'affianced maiden thus address'd them:</line>
 <line>"Tell me, ye two nightingales, O tell me!</line>
-<line>Are ye brothers? are ye brothers' children?"</s></line>
+<line>Are ye brothers? are ye brothers' children?"</line></stanza>
 
-<line><s>  Thus the nightingales made speedy answer:</line>
+<stanza><line>Thus the nightingales made speedy answer:</line>
 <line>"Brothers are we not, nor brothers' children:</line>
 <line>We are friends--friends of the verdant forest.</line>
 <line>Once we had another friend--another--</line>
@@ -512,66 +461,60 @@
 <line>We have heard that nuptial bliss awaits him;</line>
 <line>And we came the youthful bride to look on,</line>
 <line>And to offer her a golden spindle,</line>
-<line>With the flax of Egypt bound around it."</s></line>
+<line>With the flax of Egypt bound around it."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XX</number>
 
+<title>THE RING</title>
 
-<line></poem><poem><number>XX</number></line>
-
-<line><t>  THE RING</t></line>
-
-<s>
-<line>The streamlet ripples through the mead, beneath the maple tree;</line>
+<stanza><line>The streamlet ripples through the mead, beneath the maple tree;</line>
 <line>There came a maiden that stream to draw--a lovely maid was she;</line>
-<line>From the white walls of old Belgrade that maid came smilingly.</s></line>
+<line>From the white walls of old Belgrade that maid came smilingly.</line></stanza>
 
-<line><s>  Young Mirko saw, and offer'd her a golden fruit and said:</line>
+<stanza><line>Young Mirko saw, and offer'd her a golden fruit and said:</line>
 <line>"O take this apple, damsel fair! and be mine own sweet maid!"</line>
 <line>She took the apple--flung it back--and said, in angry tone,</line>
-<line>"Neither thine apple, Sir! nor thee--presumptuous boy, be gone!"</s></line>
+<line>"Neither thine apple, Sir! nor thee--presumptuous boy, be gone!"</line></stanza>
 
-<line><s>  The streamlet ripples through the mead, beneath the maple tree;</line>
+<stanza><line>The streamlet ripples through the mead, beneath the maple tree;</line>
 <line>There came a maid that stream to draw--a lovely maid was she;</line>
-<line>From the white walls of old Belgrade that maid came smilingly.</s></line>
+<line>From the white walls of old Belgrade that maid came smilingly.</line></stanza>
 
-<line><s>  Young Mirko saw, and proffer'd her a golden brooch, and said:</line>
+<stanza><line>Young Mirko saw, and proffer'd her a golden brooch, and said:</line>
 <line>"O take this brooch, thou damsel fair! and be mine own sweet maid!"</line>
 <line>She took the brooch, and flung it back and said, in peevish tone,</line>
-<line>"I'll neither have thee nor thy brooch--presumptuous boy, be gone!"</s></line>
+<line>"I'll neither have thee nor thy brooch--presumptuous boy, be gone!"</line></stanza>
 
-<line><s>  The streamlet ripples through the mead, beneath the maple tree;</line>
+<stanza><line>The streamlet ripples through the mead, beneath the maple tree;</line>
 <line>There came a maid that stream to draw--the loveliest maid was she;</line>
-<line>From the white walls of old Belgrade that maid came smilingly.</s></line>
+<line>From the white walls of old Belgrade that maid came smilingly.</line></stanza>
 
-<line><s>  Young Mirko saw, and proffer'd her a golden-ring, and said:</line>
+<stanza><line>Young Mirko saw, and proffer'd her a golden-ring, and said:</line>
 <line>"O take this ring, my damsel fair! and be mine own sweet maid!"</line>
 <line>She took the ring--she slipp'd it on--and said, in sprightliest tone,</line>
-<line>"I'll have thee and thy golden ring, and be thy faithful one."</s></line>
+<line>"I'll have thee and thy golden ring, and be thy faithful one."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXI</number>
 
+<title>THE FRATRICIDE</title>
 
-<line></poem><poem><number>XXI</number></line>
-
-<line><t>  THE FRATRICIDE</t></line>
-
-<s>
-<line>Between two mountains sank the sun--</line>
+<stanza><line>Between two mountains sank the sun--</line>
 <line>Between two maids the enamour'd one.</line>
 <line>He gave his kiss to one alone;</line>
 <line>The other maid grew jealous then:</line>
-<line>"Most faithless thou of faithless men!"</s></line>
+<line>"Most faithless thou of faithless men!"</line></stanza>
 
-<line><s>  She said--and he replied--"Fair maid!</line>
+<stanza><line>She said--and he replied--"Fair maid!</line>
 <line>I fain would kiss thy cheeks of red,</line>
 <line>But thou hast got a bickering brother,</line>
 <line>Who loves to quarrel with another,</line>
-<line>And I no quarrel seek, my love!"</s></line>
+<line>And I no quarrel seek, my love!"</line></stanza>
 
-<line><s>  She hied her to the darksome grove--</line>
+<stanza><line>She hied her to the darksome grove--</line>
 <line>Silent--she turn'd o'er many a rock,</line>
 <line>And look'd 'neath many a broken stock;</line>
 <line>Probed weeds and briars, till she found</line>
@@ -580,57 +523,51 @@
 <line>Tore from its mouth the venomy fang;</line>
 <line>Its poisonous juice her hands did wring</line>
 <line>Into a wine cup--and she sprang</line>
-<line>On swiftest feet to Raduli--</s></line>
+<line>On swiftest feet to Raduli--</line></stanza>
 
-<line><s>  Her own--her only brother he--</line>
+<stanza><line>Her own--her only brother he--</line>
 <line>Her hands the fatal cup supplied--</line>
-<line>He drank the poison--and he died.</s></line>
+<line>He drank the poison--and he died.</line></stanza>
 
-<line><s>  Then sped she to the youth--"A kiss--</line>
+<stanza><line>Then sped she to the youth--"A kiss--</line>
 <line>At least one kiss of love for this--</line>
 <line>For this--for thee--I dress'd the cup</line>
 <line>With poison--and he drank it up--</line>
 <line>The brother that thou lov'st not--he</line>
-<line>I poison'd for a kiss from thee"--</s></line>
+<line>I poison'd for a kiss from thee"--</line></stanza>
 
-<line><s>  Away! away! thou murd'rous maid!</line>
+<stanza><line>Away! away! thou murd'rous maid!</line>
 <line>Avaunt! Avaunt!--the lover said:</line>
 <line>"What fame--what courage could confide</line>
-<line>In thee--a heartless fratricide."</s></line>
+<line>In thee--a heartless fratricide."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXII</number>
 
+<title>LOVE</title>
 
-<line></poem><poem><number>XXII</number></line>
-
-<line><t>  LOVE</t></line>
-
-<s>
-<line>The youth he struck on the tambourine,</line>
+<stanza><line>The youth he struck on the tambourine,</line>
 <line>And nought was so bright as its golden sheen;</line>
 <line>Of the hair of maidens twined together</line>
 <line>Its strings, which he struck with a falcon's feather.</line>
 <line>The maid look'd down from the balcony,</line>
-<line>And thus to her inner self said she:--</s></line>
+<line>And thus to her inner self said she:--</line></stanza>
 
-<line><s>  "O heaven! what a noble youth is he!</line>
+<stanza><line>"O heaven! what a noble youth is he!</line>
 <line>Would'st thou but give this youth to me,</line>
 <line>I would make of the garden-pinks his bed,</line>
 <line>I would lay fair roses under his head;</line>
 <line>And waked by perfume, with what delight</line>
-<line>Would he kiss the maiden's forehead white!"</s></line>
+<line>Would he kiss the maiden's forehead white!"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXIII</number>
 
+<title>MAPLE TREE</title>
 
-<line></poem><poem><number>XXIII</number></line>
-
-<line><t>  MAPLE TREE</t></line>
-
-<s>
-<line>O thou brotherly maple tree!</line>
+<stanza><line>O thou brotherly maple tree!</line>
 <line>Wilt thou be a friend to me?</line>
 <line>Be a brother, and a friend!</line>
 <line>To the green grass thy branches bend,</line>
@@ -646,18 +583,15 @@
 <line>I work'd for him, and now my eyes</line>
 <line>Would fain my absent lover see:</line>
 <line>Assist me, brotherly maple tree!</line>
-<line>And tell me, if he thinks of me!</s></line>
+<line>And tell me, if he thinks of me!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXIV</number>
 
+<title>SEMENDRIAN BEAUTY</title>
 
-<line></poem><poem><number>XXIV</number></line>
-
-<line><t>  SEMENDRIAN BEAUTY</t></line>
-
-<s>
-<line>Lovely maiden of Semendria!</line>
+<stanza><line>Lovely maiden of Semendria!</line>
 <line>Hail thee, youth! and health be with thee!</line>
 <line>Hast thou visited the markets?</line>
 <line>Saw'st thou there a sheet of paper?</line>
@@ -670,18 +604,15 @@
 <line>That black sloe my eyes will paint thee:</line>
 <line>Hast thou wandered near the ocean?</line>
 <line>Hast thou seen the _pijavica_?[14]</line>
-<line>Like it are the maiden's eye-brows.</s></line>
+<line>Like it are the maiden's eye-brows.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXV</number>
 
+<title>SELF-ADMIRATION</title>
 
-<line></poem><poem><number>XXV</number></line>
-
-<line><t>  SELF-ADMIRATION</t></line>
-
-<s>
-<line>A maiden to the fountain went;</line>
+<stanza><line>A maiden to the fountain went;</line>
 <line>I saw her overhang the place--</line>
 <line>And--she was young and innocent--</line>
 <line>I heard her say with simple grace,</line>
@@ -691,18 +622,15 @@
 <line>And she might hear the shepherd breathe,</line>
 <line>Yes! thou shalt be my maiden now!</line>
 <line>The shepherd--'midst his fleecy drove,</line>
-<line>Goes like a moon the stars above."</s></line>
+<line>Goes like a moon the stars above."</line></stanza>
 
-<line><s>                             S.J.B.</s></line>
+<translator>S.J.B.</translator></poem>
 
+<poem><number>XXVI</number>
 
+<title>ASSIGNATION</title>
 
-<line></poem><poem><number>XXVI</number></line>
-
-<line><t>  ASSIGNATION</t></line>
-
-<s>
-<line>Maiden! let us share each other's kisses!</line>
+<stanza><line>Maiden! let us share each other's kisses!</line>
 <line>Tell me, tell me, where shall be our meeting,</line>
 <line>In thy garden, or in mine, sweet maiden?</line>
 <line>Under thine, or under my green rose-tree;</line>
@@ -710,43 +638,37 @@
 <line>I to a fond butterfly will change me,</line>
 <line>Everlastingly o'er thee to flutter--</line>
 <line>On thy flowers untired I will suspend me,</line>
-<line>Living blest upon mine own love's kisses.</s></line>
+<line>Living blest upon mine own love's kisses.</line></stanza>
 
-<line><s>                             S.J.B.</s></line>
+<translator>S.J.B.</translator></poem>
 
+<poem><number>XXVII</number>
 
+<title>FOOLISH VOW</title>
 
-<line></poem><poem><number>XXVII</number></line>
-
-<line><t>  FOOLISH VOW</t></line>
-
-<s>
-<line>The maiden made a foolish vow:</line>
+<stanza><line>The maiden made a foolish vow:</line>
 <line>"I'll never wear a flow'ret now:--</line>
 <line>No flow'ret shall be ever mine--</line>
 <line>I'll never drink the proffer'd wine.</line>
 <line>No wine I'll drink--no friend I'll kiss</line>
 <line>No, never more--my vow is this."</line>
 <line>So rashly, rashly spoke the maid,</line>
-<line>But soon--ah, soon--repentance said:</s></line>
+<line>But soon--ah, soon--repentance said:</line></stanza>
 
-<line><s>    "A flowery garland o'er me,</line>
+<stanza><line>"A flowery garland o'er me,</line>
 <line>How beautiful 'twould be:</line>
 <line>And wine--it would restore me,</line>
 <line>My heart's own gaiety:</line>
 <line>And love might play before,</line>
-<line>If one sweet kiss were free."</s></line>
+<line>If one sweet kiss were free."</line></stanza>
 
-<line><s>                             S.J.B.</s></line>
+<translator>S.J.B.</translator></poem>
 
+<poem><number>XXVIII</number>
 
+<title>VILAS</title>
 
-<line></poem><poem><number>XXVIII</number></line>
-
-<line><t>  VILAS</t></line>
-
-<s>
-<line>Vi[vs]nja,[15] lovely vi[vs]nja!</line>
+<stanza><line>Vi[vs]nja,[15] lovely vi[vs]nja!</line>
 <line>Lift thy branches higher;</line>
 <line>For beneath thy branches,</line>
 <line>Vilas[16] dance delight:</line>
@@ -758,18 +680,15 @@
 <line>Thou, with mine own mother,</line>
 <line>In the shade shalt seat thee;</line>
 <line>Silken vestments spinning,</line>
-<line>Weaving golden garments."</s></line>
+<line>Weaving golden garments."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXIX</number>
 
+<title>LEPOTA[18]</title>
 
-<line></poem><poem><number>XXIX</number></line>
-
-<line><t>  LEPOTA[18]</t></line>
-
-<s>
-<line>Lepota went forth to the harvest--she held</line>
+<stanza><line>Lepota went forth to the harvest--she held</line>
 <line>A sickle of silver in fingers of gold:</line>
 <line>And the sun mounted high o'er the parched harvest field;</line>
 <line>And the maiden in song all her sympathies told,</line>
@@ -778,9 +697,9 @@
 <line>I'll give my black eyes to the friend who shall bring</line>
 <line>A drought of sweet waters just fresh from the spring;</line>
 <line>And to him who shall bear me to rest in the shade,</line>
-<line>I will be--and for aye--an affectionate maid."</s></line>
+<line>I will be--and for aye--an affectionate maid."</line></stanza>
 
-<line><s>  And she thought that her words were all wasted in air:</line>
+<stanza><line>And she thought that her words were all wasted in air:</line>
 <line>But a shepherd--just watching his sheepfold, was there;</line>
 <line>And he flew, and with sedges he bound all the sheaves;</line>
 <line>And he made her an arbor of hazelwood leaves;</line>
@@ -795,43 +714,37 @@
 <line>And if from the fountain the water thou beared'st,</line>
 <line>Its freshness and coolness thou equally shared'st;</line>
 <line>And if thou hast reared up an arbor of shade,</line>
-<line>For thyself as for me it refreshment has made."</s></line>
+<line>For thyself as for me it refreshment has made."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXX</number>
 
+<title>IMPRECATIONS</title>
 
-<line></poem><poem><number>XXX</number></line>
-
-<line><t>  IMPRECATIONS</t></line>
-
-<s>
-<line>Through the long night a falcon cried,</line>
+<stanza><line>Through the long night a falcon cried,</line>
 <line>"Awake, awake thee! youth! anon</line>
 <line>Thy maiden will become a bride:</line>
 <line>She puts her marriage garments on.</line>
 <line>Awake! awake thee, youth! and send</line>
-<line>A marriage blessing to thy friend."</s></line>
+<line>A marriage blessing to thy friend."</line></stanza>
 
-<line><s>  "What! shall I be a marriage guest?</line>
+<stanza><line>"What! shall I be a marriage guest?</line>
 <line>And shall I bid the maid be blest?</line>
 <line>Hear then my marriage blessing hear!</line>
 <line>No son her barren womb shall bear:</line>
 <line>May every bit of bread she breaks</line>
 <line>Bring with it wretchedness and woe,--</line>
 <line>For every drop her thirst that slakes</line>
-<line>May tears of bitter anguish flow!"</s></line>
+<line>May tears of bitter anguish flow!"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXI</number>
 
+<title>SECRETS DIVULGED</title>
 
-<line></poem><poem><number>XXXI</number></line>
-
-<line><t>  SECRETS DIVULGED</t></line>
-
-<s>
-<line>Two lovers kiss each other in the meadows;</line>
+<stanza><line>Two lovers kiss each other in the meadows;</line>
 <line>They think that no one sees the fond betrayal,</line>
 <line>But the green meadows see them, and are faithless;</line>
 <line>To the white flocks incontinent they say all;</line>
@@ -840,27 +753,24 @@
 <line>He to a sailor on the restless ocean tells it,</line>
 <line>The sailor to his spice-ship thoughtless sings it;</line>
 <line>The spice-ship whispers it upon the waters,</line>
-<line>The waters rush to tell the maiden's mother.</s></line>
+<line>The waters rush to tell the maiden's mother.</line></stanza>
 
-<line><s>  And thus impassioned spoke the lovely maiden--</line>
+<stanza><line>And thus impassioned spoke the lovely maiden--</line>
 <line>"Meadows! of spring-days never see another!</line>
 <line>Flocks! may the cruel ravenous wolves destroy ye.</line>
 <line>Thee, shepherd! may the cruel Moslem slaughter.</line>
 <line>Wanderer! may oft thy slippery footsteps stumble.</line>
 <line>Thee, sailor! may the ocean billows smother.</line>
 <line>Ship! may a fire unquenchable consume thee;</line>
-<line>And sink into the earth, thou treacherous water!"</s></line>
+<line>And sink into the earth, thou treacherous water!"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXII</number>
 
+<title>WISHES</title>
 
-<line></poem><poem><number>XXXII</number></line>
-
-<line><t>  WISHES</t></line>
-
-<s>
-<line>O that I were a little stream,</line>
+<stanza><line>O that I were a little stream,</line>
 <line>That I might flow to him--to him!</line>
 <line>How should I dance with joy, when knowing</line>
 <line>To whom my sparkling wave was flowing!</line>
@@ -873,34 +783,30 @@
 <line>Or baring there his bosom, lave</line>
 <line>That bosom in my rippling wave</line>
 <line>O what a bliss, if I could bear</line>
-<line>The cooling power of quiet there!</s></line>
+<line>The cooling power of quiet there!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXIII</number>
 
+<title>LOVER ASLEEP</title>
 
-<line></poem><poem><number>XXXIII</number></line>
-
-<line><t>  LOVER ASLEEP</t></line>
-
-<s>
-<line>O nightingale! thy warblings cease,</line>
+<stanza><line>O nightingale! thy warblings cease,</line>
 <line>And let my master sleep in peace:</line>
 <line>'Twas I who lull'd him to repose,</line>
 <line>And I will wake from his rest;</line>
 <line>I'll seek the sweetest flower that grows,</line>
 <line>And bear it to his presence blest;</line>
 <line>And gently touch his cheeks, and say,</line>
-<line>"Awake, my master! for 'tis day."</s></line>
+<line>"Awake, my master! for 'tis day."</line></stanza>
 
 
 
-<line></poem><poem><number>XXXIV</number></line>
+</poem><poem><number>XXXIV</number>
 
-<line><t>  EARLY SORROWS</t></line>
+<title>EARLY SORROWS</title>
 
-<s>
-<line>O nightingale! sweet bird--they say,</line>
+<stanza><line>O nightingale! sweet bird--they say,</line>
 <line>That peace abides with thee;</line>
 <line>But thou hast brought from day to day</line>
 <line>A triple woe to me.</line>
@@ -927,74 +833,68 @@
 <line>So when a youthful swain appears,</line>
 <line>The roses he shall wreathe;</line>
 <line>And when an old man bent with years,</line>
-<line>He'll drink the stream beneath.</s></line>
+<line>He'll drink the stream beneath.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXV</number>
 
+<title>THE YOUNG SHEPHERDS</title>
 
-<line></poem><poem><number>XXXV</number></line>
-
-<line><t>  THE YOUNG SHEPHERDS</t></line>
-
-<s>
-<line>The sheep, beneath old Buda's wall,</line>
+<stanza><line>The sheep, beneath old Buda's wall,</line>
 <line>Their wonted quiet rest enjoy;</line>
 <line>But ah! rude stony fragments fall,</line>
 <line>And many a silk-wool'd sheep destroy;</line>
 <line>Two youthful shepherds perish there,</line>
-<line>The golden George, and Mark the fair.</s></line>
+<line>The golden George, and Mark the fair.</line></stanza>
 
-<line><s>  For Mark, O many a friend grew sad,</line>
+<stanza><line>For Mark, O many a friend grew sad,</line>
 <line>And father, mother wept for him:</line>
 <line>George--father, friend, nor mother had,</line>
 <line>For him no tender eye grew dim:</line>
 <line>Save one--a maiden far away,</line>
-<line>She wept--and thus I heard her say:</s></line>
+<line>She wept--and thus I heard her say:</line></stanza>
 
-<line><s>  My golden George--and shall a song,</line>
+<stanza><line>My golden George--and shall a song,</line>
 <line>A song of grief be sung for thee--</line>
 <line>'Twould go from lip to lip--ere long</line>
 <line>By careless lips profaned to be;</line>
 <line>Unhallow'd thoughts might soon defame</line>
-<line>The purity of woman's name.</s></line>
+<line>The purity of woman's name.</line></stanza>
 
-<line><s>  Or shall I take thy picture fair,</line>
+<stanza><line>Or shall I take thy picture fair,</line>
 <line>And fix that picture in my sleeve?</line>
 <line>Ah! time will soon the vestment tear,</line>
 <line>And not a shade, nor fragment leave:</line>
 <line>I'll give not him I love so well</line>
-<line>To what is so corruptible.</s></line>
+<line>To what is so corruptible.</line></stanza>
 
-<line><s>  I'll write thy name within a book;</line>
+<stanza><line>I'll write thy name within a book;</line>
 <line>That book will pass from hand to hand,</line>
 <line>And many an eager eye will look,</line>
 <line>But ah! how few will understand!</line>
 <line>And who their holiest thoughts can shroud</line>
-<line>From the cold insults of the crowd?[19]</s></line>
+<line>From the cold insults of the crowd?[19]</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXVI</number>
 
+<title>THOUGHTS OF A MOTHER</title>
 
-<line></poem><poem><number>XXXVI</number></line>
-
-<line><t>  THOUGHTS OF A MOTHER</t></line>
-
-<s>
-<line>Lo! a fir-tree towers o'er Sarajevo,</line>
+<stanza><line>Lo! a fir-tree towers o'er Sarajevo,</line>
 <line>Spreads o'er half the face of Sarajevo--</line>
 <line>Rises up to heaven from Sarajevo:</line>
 <line>Brothers and half-sisters there were seated;</line>
 <line>And the brother cuts a silken garment,</line>
-<line>Which he holds, and questions thus his sister:</s></line>
+<line>Which he holds, and questions thus his sister:</line></stanza>
 
-<line><s>  "Brother's wife! thou sweet and lovely dovelet!</line>
+<stanza><line>"Brother's wife! thou sweet and lovely dovelet!</line>
 <line>Wherefore art thou looking at the fir-tree?</line>
 <line>Art thou rather dreaming of the poplar,</line>
-<line>Or art thinking of my absent brother?"</s></line>
+<line>Or art thinking of my absent brother?"</line></stanza>
 
-<line><s>  To her brother thus the lady answer'd:</line>
+<stanza><line>To her brother thus the lady answer'd:</line>
 <line>"Golden-ring of mine! my husband's brother!</line>
 <line>Not about the fir-tree was I dreaming,</line>
 <line>Nor the noble stem of lofty poplar;</line>
@@ -1006,18 +906,15 @@
 <line>In the morning milk, with spirit chasten'd</line>
 <line>So to give me cheeks of rose and lily;</line>
 <line>And with gentle messages she waked me,</line>
-<line>That her child might grow both tall and slender."</s></line>
+<line>That her child might grow both tall and slender."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXVII</number>
 
+<title>COUNSEL</title>
 
-<line></poem><poem><number>XXXVII</number></line>
-
-<line><t>  COUNSEL</t></line>
-
-<s>
-<line>"My Misho! tell me, tell me, pray,</line>
+<stanza><line>"My Misho! tell me, tell me, pray,</line>
 <line>Where wert thou wandering yesterday?"</line>
 <line>"I did not ramble--did not roam;</line>
 <line>A wretched headache kept me home."</line>
@@ -1028,18 +925,15 @@
 <line>Wilt give to widows thine affection,</line>
 <line>And find remorse, or find rejection;</line>
 <line>Now take my counsel,--drink of wine,</line>
-<line>And be a virgin maiden thine!"</s></line>
+<line>And be a virgin maiden thine!"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXVIII</number>
 
+<title>DESOLATION</title>
 
-<line></poem><poem><number>XXXVIII</number></line>
-
-<line><t>  DESOLATION</t></line>
-
-<s>
-<line>Gloomy night! how full thou art of darkness!</line>
+<stanza><line>Gloomy night! how full thou art of darkness!</line>
 <line>Thou, my heart! art fuller yet of sorrow,</line>
 <line>Sorrow which I bear, but cannot utter!</line>
 <line>I have now no mother who will hear me,</line>
@@ -1048,43 +942,37 @@
 <line>Ere he comes, the night will be departed;</line>
 <line>Ere he wakes, the birds will sing their matins,</line>
 <line>Ere his kiss, the twilight hour will brighten:</line>
-<line>Go thy way, my friend; the day is dawning!</s></line>
+<line>Go thy way, my friend; the day is dawning!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XXXIX</number>
 
+<title>APPREHENSION</title>
 
-<line></poem><poem><number>XXXIX</number></line>
-
-<line><t>  APPREHENSION</t></line>
-
-<s>
-<line>"Sweet maiden mine! thou blushing rose!</line>
+<stanza><line>"Sweet maiden mine! thou blushing rose!</line>
 <line>Sweet, blushing roselet mine!</line>
 <line>For me, what thought of honey flows</line>
 <line>From those sweet lips of thine?"</line>
 <line>'I dare not speak with thee, my dear,</line>
-<line>My mother has forbid me.'</s></line>
+<line>My mother has forbid me.'</line></stanza>
 
-<line><s>  "Sweet maid! thy mother is not here."</line>
+<stanza><line>"Sweet maid! thy mother is not here."</line>
 <line>'She saw me once, and chid me.</line>
 <line>Sir, she is in the garden there,</line>
 <line>Plucking the evergreen:--</line>
 <line>O may her heart like mine decay,</line>
 <line>Like mine decay unseen,--</line>
 <line>Ere love's sweet power has pass'd away,</line>
-<line>As it had never been.'</s></line>
+<line>As it had never been.'</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XL</number>
 
+<title>MILICA</title>
 
-<line></poem><poem><number>XL</number></line>
-
-<line><t>  MILICA</t></line>
-
-<s>
-<line>Long and lovely are Milica's eyebrows,</line>
+<stanza><line>Long and lovely are Milica's eyebrows,</line>
 <line>And they overhang her cheeks of roses--</line>
 <line>Cheeks of roses, and her snowy forehead,</line>
 <line>Three long years have I beheld the maiden,</line>
@@ -1092,17 +980,17 @@
 <line>On her eyes--nor on her snowy forehead.</line>
 <line>To our country dance I lured the maiden,</line>
 <line>Lured Milica,--lured her to our dances,</line>
-<line>Hoping to look on her eyes so lovely.</s></line>
+<line>Hoping to look on her eyes so lovely.</line></stanza>
 
-<line><s>  While they danced upon the greensward, verdant</line>
+<stanza><line>While they danced upon the greensward, verdant</line>
 <line>In the sunshine, sudden darkness gather'd,</line>
 <line>And the clouds broke out in fiery lightning,</line>
 <line>And the maidens all look'd up to heaven,--</line>
 <line>All the maidens--all, except Milica.</line>
 <line>She still look'd on the green grass, untrembling,</line>
-<line>While the maidens trembled as they whisper'd:</s></line>
+<line>While the maidens trembled as they whisper'd:</line></stanza>
 
-<line><s>  "O Milica! thou our friend and playmate,</line>
+<stanza><line>"O Milica! thou our friend and playmate,</line>
 <line>Art thou overwise--or art thou silly?</line>
 <line>Thus to look upon the grass beneath us,</line>
 <line>And not look up to the heaven above us,</line>
@@ -1110,18 +998,15 @@
 <line>And Milica gave this quiet answer:</line>
 <line>"I am neither overwise nor silly.</line>
 <line>Not the _Vila,_ nor the cloud-upgatherer;</line>
-<line>I am yet a maid--and look before me."</s></line>
+<line>I am yet a maid--and look before me."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLI</number>
 
+<title>THE CHOICE</title>
 
-<line></poem><poem><number>XLI</number></line>
-
-<line><t>  THE CHOICE</t></line>
-
-<s>
-<line>He slept beneath a poplar tree:</line>
+<stanza><line>He slept beneath a poplar tree:</line>
 <line>And three young maidens cross'd the way;</line>
 <line>I listen'd to the lovely three,</line>
 <line>And heard them to each other say:--</line>
@@ -1135,18 +1020,15 @@
 <line>The ring, O sister! will grow dim,</line>
 <line>The girdle will ere long be broken;</line>
 <line>But this is an eternal token,--</line>
-<line>His love for me and mine for him.'</s></line>
+<line>His love for me and mine for him.'</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLII</number>
 
+<title>FOR WHOM?</title>
 
-<line></poem><poem><number>XLII</number></line>
-
-<line><t>  FOR WHOM?</t></line>
-
-<s>
-<line>Sweet fountain, that so freshly flows!</line>
+<stanza><line>Sweet fountain, that so freshly flows!</line>
 <line>And thou, my own carnation-rose,</line>
 <line>That shines like a shining gem!</line>
 <line>And shall I tear thee from thy stem?</line>
@@ -1159,57 +1041,51 @@
 <line>For whom, for whom, but thee, my love?</line>
 <line>But thou art absent far above,</line>
 <line>Above these three green mountains,</line>
-<line>Beyond these three fresh fountains!</s></line>
+<line>Beyond these three fresh fountains!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLIII</number>
 
+<title>LIBERTY</title>
 
-<line></poem><poem><number>XLIII</number></line>
-
-<line><t>  LIBERTY</t></line>
-
-<s>
-<line>Nightingale sings sweetly</line>
+<stanza><line>Nightingale sings sweetly</line>
 <line>In the verdant forest;</line>
 <line>In the verdant forest,</line>
-<line>On the slender branches.</s></line>
+<line>On the slender branches.</line></stanza>
 
-<line><s>  Thither came three sportsmen,</line>
+<stanza><line>Thither came three sportsmen,</line>
 <line>Nightingale to shoot at.</line>
 <line>She implored the sportsmen,</line>
-<line>"Shoot me not, ye sportsmen!</s></line>
+<line>"Shoot me not, ye sportsmen!</line></stanza>
 
-<line><s>  Shoot me not, ye sportsmen!</line>
+<stanza><line>Shoot me not, ye sportsmen!</line>
 <line>I will give you music,</line>
 <line>In the verdant garden,</line>
-<line>On the crimson rose-tree."</s></line>
+<line>On the crimson rose-tree."</line></stanza>
 
-<line><s>  But the sportsmen seize her;</line>
+<stanza><line>But the sportsmen seize her;</line>
 <line>They deceive the songster,</line>
 <line>In a cage confine her,</line>
-<line>Give her to their loved one.</s></line>
+<line>Give her to their loved one.</line></stanza>
 
-<line><s>  Nightingale will sing not--</line>
+<stanza><line>Nightingale will sing not--</line>
 <line>Hangs its head in silence:</line>
 <line>Then the sportsmen bear her</line>
-<line>To the verdant forests.</s></line>
+<line>To the verdant forests.</line></stanza>
 
-<line><s>  Soon her song is waken'd;</line>
+<stanza><line>Soon her song is waken'd;</line>
 <line>"Woe! woe! betides us,</line>
 <line>Friend from friend divided,</line>
-<line>Bird from forest banish'd!"</s></line>
+<line>Bird from forest banish'd!"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLIV</number>
 
+<title>THE DANCE</title>
 
-<line></poem><poem><number>XLIV</number></line>
-
-<line><t>  THE DANCE</t></line>
-
-<s>
-<line>Omar's court is near to Sarajevo;</line>
+<stanza><line>Omar's court is near to Sarajevo;</line>
 <line>All around it is a woody mountain:</line>
 <line>In the midst there is a verdant meadow;</line>
 <line>There the maidens dance their joyous Kolo[20]</line>
@@ -1229,18 +1105,15 @@
 <line>Thus so soon to sink behind the mountain?"</line>
 <line>"My beloved! O thou rose all beauteous!</line>
 <line>Wherefore didst thou bloom so fair, so lovely,</line>
-<line>And I never can enjoy, nor wear thee?"</s></line>
+<line>And I never can enjoy, nor wear thee?"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLV</number>
 
+<title>ELEGY</title>
 
-<line></poem><poem><number>XLV</number></line>
-
-<line><t>  ELEGY</t></line>
-
-<s>
-<line>Konda died--his mother's only offspring.</line>
+<stanza><line>Konda died--his mother's only offspring.</line>
 <line>O what grief was hers the youth to bury</line>
 <line>Far away from his own natural dwelling,</line>
 <line>So she bore him to a verdant garden,</line>
@@ -1254,18 +1127,15 @@
 <line>Heavy is the virgins' malediction;</line>
 <line>When they sigh, their sighs reach God's high presence;</line>
 <line>When they curse, the world begins to tremble;</line>
-<line>When they weep, even God is touch'd with pity."</s></line>
+<line>When they weep, even God is touch'd with pity."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLVI</number>
 
+<title>INQUIRY</title>
 
-<line></poem><poem><number>XLVI</number></line>
-
-<line><t>  INQUIRY</t></line>
-
-<s>
-<line>A maiden sat on th' ocean shore,</line>
+<stanza><line>A maiden sat on th' ocean shore,</line>
 <line>And held this converse with herself:</line>
 <line>"O God of goodness and of love!</line>
 <line>What's broader than the mighty sea,</line>
@@ -1279,18 +1149,15 @@
 <line>The sea is longer than the field;</line>
 <line>The eye is swifter than the steed;</line>
 <line>Sugar more sweet than honey dew;</line>
-<line>Dearer than brother is thy love."</s></line>
+<line>Dearer than brother is thy love."</line></stanza>
 
-<line><s>                             S.J.B.</s></line>
+<translator>S.J.B.</translator></poem>
 
+<poem><number>XLVII</number>
 
+<title>DOUBT</title>
 
-<line></poem><poem><number>XLVII</number></line>
-
-<line><t>  DOUBT</t></line>
-
-<s>
-<line>Three young travellers travell'd forth to travel:</line>
+<stanza><line>Three young travellers travell'd forth to travel:</line>
 <line>On their travels met a lovely maiden:</line>
 <line>Each will give the lovely maiden a present:</line>
 <line>One presents her with a fresh-pluck'd apple:</line>
@@ -1302,9 +1169,9 @@
 <line>Said, "The maid is _mine_--I claim the maiden."</line>
 <line>He who gave the gold ring to the maiden</line>
 <line>Said, "We'll go and seek the Judge together:</line>
-<line>He shall say to whom belongs the maiden."</s></line>
+<line>He shall say to whom belongs the maiden."</line></stanza>
 
-<line><s>  So they went and sought the Judge's presence:</line>
+<stanza><line>So they went and sought the Judge's presence:</line>
 <line>"Judge, thou honourable, judge between us:</line>
 <line>We three travell'd forth together,</line>
 <line>And we met a maiden in our travels,</line>
@@ -1312,24 +1179,21 @@
 <line>One of us a green and fresh-pluck'd apple:</line>
 <line>One presented her _bosiljak_ flowering;</line>
 <line>And the third a gold ring for her finger:--</line>
-<line>Now decide to whom belongs the maiden."</s></line>
+<line>Now decide to whom belongs the maiden."</line></stanza>
 
-<line><s>  Thus the honourable judge decided:</line>
+<stanza><line>Thus the honourable judge decided:</line>
 <line>"We present _bosiljak_ for its odour:</line>
 <line>As a pledge of love we give an apple:</line>
 <line>But to give a ring is a betrothing;--</line>
-<line>He who gave the ring must have the maiden."</s></line>
+<line>He who gave the ring must have the maiden."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLVIII</number>
 
+<title>THE SULTANESS</title>
 
-<line></poem><poem><number>XLVIII</number></line>
-
-<line><t>  THE SULTANESS</t></line>
-
-<s>
-<line>Listen! I hear a cry, a cry!</line>
+<stanza><line>Listen! I hear a cry, a cry!</line>
 <line>The bells are ringing lustily;</line>
 <line>And the hens are cackling all in riot.</line>
 <line>No! no! no! the bells are quiet;</line>
@@ -1338,27 +1202,24 @@
 <line>"Brother! I am a Moslem slave!</line>
 <line>Tear me from my Turkish grave.</line>
 <line>Small the price which sets me free:</line>
-<line>Of pearls two measures--of gold but three."</s></line>
+<line>Of pearls two measures--of gold but three."</line></stanza>
 
-<line><s>  In vain she calls her brother.--'O no!</line>
+<stanza><line>In vain she calls her brother.--'O no!</line>
 <line>My treasures to my apparel go:</line>
 <line>The gold my horse's bridle must deck:</line>
 <line>My pearls must grace my maiden's neck;</line>
 <line>Must buy a kiss--must buy a kiss.'</line>
 <line>The maid her brother answer'd with this:</line>
 <line>"I am no slave! I am no less</line>
-<line>Than the sultan's chosen sultaness."</s></line>
+<line>Than the sultan's chosen sultaness."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>XLIX</number>
 
+<title>BETROTHING</title>
 
-<line></poem><poem><number>XLIX</number></line>
-
-<line><t>  BETROTHING</t></line>
-
-<s>
-<line>Here there is a maiden,</line>
+<stanza><line>Here there is a maiden,</line>
 <line>Young, and yet a virgin:</line>
 <line>Give her then a husband,</line>
 <line>Or give us the maiden,</line>
@@ -1369,18 +1230,15 @@
 <line>Pinions of the eagle.</line>
 <line>What shall be his subject?</line>
 <line>What--but bright-eyed maidens</line>
-<line>And the brows of heroes?</s></line>
+<line>And the brows of heroes?</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>L</number>
 
+<title>CAUTIONS</title>
 
-<line></poem><poem><number>L</number></line>
-
-<line><t>  CAUTIONS</t></line>
-
-<s>
-<line>O thou lovely maiden!</line>
+<stanza><line>O thou lovely maiden!</line>
 <line>Lo! thy praise has mounted</line>
 <line>To the monarch's city</line>
 <line>Maiden! thou hast planted</line>
@@ -1393,18 +1251,15 @@
 <line>Know'st thou not they linger</line>
 <line>Just to steal thy kisses?</line>
 <line>Maiden! Maiden! never</line>
-<line>Let those youths betray thee!</s></line>
+<line>Let those youths betray thee!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LI</number>
 
+<title>MAIDEN'S CARES</title>
 
-<line></poem><poem><number>LI</number></line>
-
-<line><t>  MAIDEN'S CARES</t></line>
-
-<s>
-<line>O sleep! sweet sleep! in vain, in vain</line>
+<stanza><line>O sleep! sweet sleep! in vain, in vain</line>
 <line>I bid thee visit me:</line>
 <line>The anxious thought disturbs my brain--</line>
 <line>Whose shall the maiden be?</line>
@@ -1413,9 +1268,9 @@
 <line>Nay, mother, nay! not he, not he;</line>
 <line>That were no happiness for me:</line>
 <line>He tracks the mountains steep and wild</line>
-<line>Where rocks and dangers be.</s></line>
+<line>Where rocks and dangers be.</line></stanza>
 
-<line><s>  O sleep! sweet sleep! in vain, in vain</line>
+<stanza><line>O sleep! sweet sleep! in vain, in vain</line>
 <line>I bid thee visit me:</line>
 <line>The anxious thought disturbs my brain--</line>
 <line>Whose shall the maiden be?</line>
@@ -1424,9 +1279,9 @@
 <line>Nay, mother, nay! not he, not he;</line>
 <line>That were no happiness for me:</line>
 <line>He wanders through the distant glade</line>
-<line>Where wolves and perils be.</s></line>
+<line>Where wolves and perils be.</line></stanza>
 
-<line><s>  O sleep! sweet sleep! in vain, in vain</line>
+<stanza><line>O sleep! sweet sleep! in vain, in vain</line>
 <line>I bid thee visit me:</line>
 <line>The anxious thought disturbs my brain--</line>
 <line>Whose shall the maiden be?</line>
@@ -1435,9 +1290,9 @@
 <line>Nay, mother, nay! not he, not he;</line>
 <line>That were no happiness for me:</line>
 <line>He is a wanderer far and near,</line>
-<line>His house no home may be.</s></line>
+<line>His house no home may be.</line></stanza>
 
-<line><s>  O sleep! sweet sleep! in vain, in vain</line>
+<stanza><line>O sleep! sweet sleep! in vain, in vain</line>
 <line>I bid thee visit me:</line>
 <line>The anxious thought disturbs my brain--</line>
 <line>Whose shall the maiden be?</line>
@@ -1446,9 +1301,9 @@
 <line>Nay, mother! nay; not he, not he!</line>
 <line>That were no happiness for me:</line>
 <line>The tailor's needle may be keen,</line>
-<line>His children hungry be.</s></line>
+<line>His children hungry be.</line></stanza>
 
-<line><s>  O sleep! sweet sleep! in vain, in vain</line>
+<stanza><line>O sleep! sweet sleep! in vain, in vain</line>
 <line>I bid thee visit me;</line>
 <line>The anxious thought disturbs my brain--</line>
 <line>Whose shall the maiden be?</line>
@@ -1457,34 +1312,28 @@
 <line>Yes! mother, yes! in him I see</line>
 <line>Both love and happiness for me;</line>
 <line>For though his labouring hands are black,</line>
-<line>The whitest bread eats he.</s></line>
+<line>The whitest bread eats he.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LII</number>
 
+<title>MOHAMMEDAN SONG</title>
 
-<line></poem><poem><number>LII</number></line>
-
-<line><t>  MOHAMMEDAN SONG</t></line>
-
-<s>
-<line>His breath is amber,--sharp his reed;</line>
+<stanza><line>His breath is amber,--sharp his reed;</line>
 <line>The hand which holds it, O! how white.</line>
 <line>He writes fair talismans,--a creed,</line>
 <line>For maidens doth the loved one write:</line>
 <line>"Of him that will not have thee,--think not!</line>
-<line>From him that fain would have thee, shrink not."</s></line>
+<line>From him that fain would have thee, shrink not."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LIII</number>
 
+<title>MINE EVERYWHERE</title>
 
-<line></poem><poem><number>LIII</number></line>
-
-<line><t>  MINE EVERYWHERE</t></line>
-
-<s>
-<line>"Come with me, thou charming maiden!</line>
+<stanza><line>"Come with me, thou charming maiden!</line>
 <line>Be my love and come with me."</line>
 <line>'Wherefore play with words so foolish?</line>
 <line>That can never, never be;</line>
@@ -1492,25 +1341,25 @@
 <line>Bear the golden cup, than ever,--</line>
 <line>Ever promise to be thine.'</line>
 <line>"I am the young tavern-keeper,</line>
-<line>So thou wilt indeed be mine."</s></line>
+<line>So thou wilt indeed be mine."</line></stanza>
 
-<line><s>  'Wherefore play with words so foolish?</line>
+<stanza><line>'Wherefore play with words so foolish?</line>
 <line>No such fate will e'er befall;</line>
 <line>In the coffee-house I'd rather</line>
 <line>Serve, envelop'd in my shawl,</line>
 <line>Rather than be thine at all.'</line>
 <line>"But I am the coffee boiler,</line>
-<line>Thee, my maiden, will I call."</s></line>
+<line>Thee, my maiden, will I call."</line></stanza>
 
-<line><s>  'Wherefore play with words so foolish?</line>
+<stanza><line>'Wherefore play with words so foolish?</line>
 <line>That can never, never be;</line>
 <line>Rather o'er the field I'll wander,</line>
 <line>Changed into a quail, than ever,</line>
 <line>Ever give myself to thee.'</line>
 <line>"But I am a vigorous sportsman,</line>
-<line>And thou wilt belong to me."</s></line>
+<line>And thou wilt belong to me."</line></stanza>
 
-<line><s>  'Play not, youth! with words so foolish,</line>
+<stanza><line>'Play not, youth! with words so foolish,</line>
 <line>That can never, never be;</line>
 <line>Rather to a fish I'd change me,</line>
 <line>Dive me deep beneath the sea,</line>
@@ -1520,18 +1369,15 @@
 <line>Mine thou art, and mine thou shalt be,--</line>
 <line>Yes; thou must be mine at last;</line>
 <line>Be it here, or be it there,</line>
-<line>Mine thou must be everywhere."</s></line>
+<line>Mine thou must be everywhere."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LIV</number>
 
+<title>MAID AWAKING</title>
 
-<line></poem><poem><number>LIV</number></line>
-
-<line><t>  MAID AWAKING</t></line>
-
-<s>
-<line>Lovely maiden gather'd roses,</line>
+<stanza><line>Lovely maiden gather'd roses,</line>
 <line>Sleep o'ertook her then;</line>
 <line>Pass'd a youth and call'd the maiden,</line>
 <line>Waked the maid again:</line>
@@ -1544,18 +1390,15 @@
 <line>'Let him marry, let him marry,</line>
 <line>I shall not complain;</line>
 <line>But the thunderbolt of heav'n</line>
-<line>Shall destroy him then.'</s></line>
+<line>Shall destroy him then.'</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LV</number>
 
+<title>MOTHER'S LOVE</title>
 
-<line></poem><poem><number>LV</number></line>
-
-<line><t>  MOTHER'S LOVE</t></line>
-
-<s>
-<line>On the balcony young Jovan sported,</line>
+<stanza><line>On the balcony young Jovan sported,</line>
 <line>While he sported, lo! it crash'd beneath him,</line>
 <line>And he fell,--his right arm broke in falling!</line>
 <line>Who shall find a surgeon for the sufferer?</line>
@@ -1563,18 +1406,18 @@
 <line>But the recompense he asks is heavy;</line>
 <line>Her white hand demands he of the mother,--</line>
 <line>Of the sister all her silken ringlets,--</line>
-<line>Of the wife he asks her pearl-strung necklace.</s></line>
+<line>Of the wife he asks her pearl-strung necklace.</line></stanza>
 
-<line><s>  Freely gave her hand young Jovan's mother,</line>
+<stanza><line>Freely gave her hand young Jovan's mother,</line>
 <line>Freely gave her silken hair his sister,</line>
 <line>But his wife refus'd her pearly treasure:--</line>
 <line>"Nay! I will not give my pearl-strung necklace,</line>
 <line>For it was a present of my father."</line>
 <line>Anger then incens'd the Mountain-Vila,</line>
 <line>Into Jovan's wounds she pour'd her poison,</line>
-<line>And he died,--Alas! for thee, poor mother!</s></line>
+<line>And he died,--Alas! for thee, poor mother!</line></stanza>
 
-<line><s>  Then began the melancholy cuckoos,[25]</line>
+<stanza><line>Then began the melancholy cuckoos,[25]</line>
 <line>Cuckoos then began their funeral dirges;</line>
 <line>One pour'd out her mournful plaints unceasing,</line>
 <line>One at morning mourn'd, and mourn'd at ev'ning,</line>
@@ -1584,18 +1427,15 @@
 <line>Which at morning mourns and late at evening?</line>
 <line>'Tis the grieving sister of young Jovan.</line>
 <line>Which when melancholy thoughts come o'er her?</line>
-<line>'Tis the youthful wife,--the wife of Jovan.</s></line>
+<line>'Tis the youthful wife,--the wife of Jovan.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LVI</number>
 
+<title>THE GREYBEARD</title>
 
-<line></poem><poem><number>LVI</number></line>
-
-<line><t>  THE GREYBEARD</t></line>
-
-<s>
-<line>I heard young Falisava say:</line>
+<stanza><line>I heard young Falisava say:</line>
 <line>"I'll have no ancient greybeard, nay!</line>
 <line>A sprightly beardless youth for me."</line>
 <line>An aged man the maiden heard,</line>
@@ -1605,9 +1445,9 @@
 <line>"My heart! my soul! my garden rose!</line>
 <line>A beardless youth is come for thee."</line>
 <line>And then she listen'd--they were wed--</line>
-<line>And to the old man's home they sped.</s></line>
+<line>And to the old man's home they sped.</line></stanza>
 
-<line><s>  Then twilight came, and evening's shade--</line>
+<stanza><line>Then twilight came, and evening's shade--</line>
 <line>And said the old man to the maid:</line>
 <line>"Sweet Falisava! maiden fair!</line>
 <line>Our bed beside the stove prepare,</line>
@@ -1617,18 +1457,15 @@
 <line>Of sweetest scent and fairest hue,</line>
 <line>Which on the old man's bed she threw,</line>
 <line>And like on a strong-wing'd eagle then</line>
-<line>Flew to her father's home again.</s></line>
+<line>Flew to her father's home again.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LVII</number>
 
+<title>MOHAMMEDAN TALE</title>
 
-<line></poem><poem><number>LVII</number></line>
-
-<line><t>  MOHAMMEDAN TALE</t></line>
-
-<s>
-<line>Who is mourning there in Glamodelec's fortress?</line>
+<stanza><line>Who is mourning there in Glamodelec's fortress?</line>
 <line>'Tis the Vila--'tis an angry serpent?</line>
 <line>'Tis no Vila--'tis no angry serpent!</line>
 <line>'Tis the maid Emina there lamenting--</line>
@@ -1636,9 +1473,9 @@
 <line>Lo! the Ban[26] the maiden hath imprison'd--</line>
 <line>Hath imprison'd her, and will baptize her;</line>
 <line>But Emina never will be faithless--</line>
-<line>From the white-wall'd tower will fling her rather.</s></line>
+<line>From the white-wall'd tower will fling her rather.</line></stanza>
 
-<line><s>  Thus the unbelieving Ban address'd her:</line>
+<stanza><line>Thus the unbelieving Ban address'd her:</line>
 <line>"Unbelieving Ban! a moment tarry,</line>
 <line>While I hasten to the upper story."</line>
 <line>And she hasten'd to the upper story;</line>
@@ -1648,18 +1485,18 @@
 <line>"O my father's home! my poor heart's sorrow!</line>
 <line>School of childhood! once that childhood's terror!</line>
 <line>Many a day of weariness and sorrow</line>
-<line>Did thy small-writ lessons give Emina."</s></line>
+<line>Did thy small-writ lessons give Emina."</line></stanza>
 
-<line><s>  Then she wrapp'd her snowy robes around her--</line>
+<stanza><line>Then she wrapp'd her snowy robes around her--</line>
 <line>Thought not of the band that bound her tresses,</line>
 <line>And she flung her from the fortress turret.</line>
 <line>But her hair-band caught the open window--</line>
 <line>From the window, ah she hung suspended--</line>
 <line>Hung a week suspended from the window--</line>
 <line>Then her hair gave away--and then the maiden</line>
-<line>On the greensward fell.</s></line>
+<line>On the greensward fell.</line></stanza>
 
-<line><s>                        The Christian heard it--</line>
+<stanza><line>The Christian heard it--</line>
 <line>He, the Christian Ban, and hasten'd thither;</line>
 <line>Oft and oft he kiss'd the dead Emina;</line>
 <line>And he peacefully entom'd the maiden.</line>
@@ -1672,18 +1509,15 @@
 <line>And her aged mother saw and wonder'd</line>
 <line>From her chain she took her knife, and plunged it--</line>
 <line>Plunged it deep within her troubled bosom--</line>
-<line>Fell, and died--O melancholy mother!</s></line>
+<line>Fell, and died--O melancholy mother!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LVIII</number>
 
+<title>LOVE'S DIFFICULTIES</title>
 
-<line></poem><poem><number>LVIII</number></line>
-
-<line><t>  LOVE'S DIFFICULTIES</t></line>
-
-<s>
-<line>I loved her from her infancy,</line>
+<stanza><line>I loved her from her infancy,</line>
 <line>Lado![27] Lado!</line>
 <line>From childhood to maturity,</line>
 <line>Lado! Lado!</line>
@@ -1704,39 +1538,33 @@
 <line>For what would heaven become to me</line>
 <line>Lado! Lado!</line>
 <line>When the long nights of autumn flee,</line>
-<line>Lado! Lado!</s></line>
+<line>Lado! Lado!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LIX</number>
 
+<title>WITCHES</title>
 
-<line></poem><poem><number>LIX</number></line>
-
-<line><t>  WITCHES</t></line>
-
-<s>
-<line>The sky is cover'd with stars again:</line>
+<stanza><line>The sky is cover'd with stars again:</line>
 <line>The plains are cover'd with flocks of sheep:</line>
 <line>But where is the shepherd? On the plain</line>
 <line>The shepherd is lost in careless sleep:</line>
 <line>The youthful Radoje sleeps:--Arise!</line>
-<line>Awake! his sister Jania cries.</s></line>
+<line>Awake! his sister Jania cries.</line></stanza>
 
-<line><s>  "Jania! sister nay! depart!</line>
+<stanza><line>"Jania! sister nay! depart!</line>
 <line>My body to witches is plighted:</line>
 <line>My mother has torn away my heart,</line>
-<line>And my aunt my mother lighted."</s></line>
+<line>And my aunt my mother lighted."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LX</number>
 
+<title>PLEDGES</title>
 
-<line></poem><poem><number>LX</number></line>
-
-<line><t>  PLEDGES</t></line>
-
-<s>
-<line>The wind was with the roses playing:</line>
+<stanza><line>The wind was with the roses playing:</line>
 <line>To Ranko's tent it blew their leaves:</line>
 <line>Milica, Ranko, there were staying,</line>
 <line>And Ranko writes--Milica weaves.</line>
@@ -1753,18 +1581,15 @@
 <line>Far dearer, Ranko! than the whole</line>
 <line>Of brothers--many though they be:</line>
 <line>And that the vows we pledged together</line>
-<line>Are lighter than the lightest feather."</s></line>
+<line>Are lighter than the lightest feather."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXI</number>
 
+<title>COMPLAINT</title>
 
-<line></poem><poem><number>LXI</number></line>
-
-<line><t>  COMPLAINT</t></line>
-
-<s>
-<line>O flower! so lovely in thy bloom,</line>
+<stanza><line>O flower! so lovely in thy bloom,</line>
 <line>Be evil fate thy mother's doom!</line>
 <line>Thy mother, who so kindly nurst,</line>
 <line>And sent thee to our village first.</line>
@@ -1773,73 +1598,64 @@
 <line>And our delighted brides are dancing,</line>
 <line>And our gay maidens songs are singing--</line>
 <line>'Twas then I saw thee, lovely flower!</line>
-<line>And lost my quiet from that hour.</s></line>
+<line>And lost my quiet from that hour.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXII</number>
 
+<title>SONG</title>
 
-<line></poem><poem><number>LXII</number></line>
-
-<line><t>  SONG</t></line>
-
-<s>
-<line>The winter is gone,</line>
+<stanza><line>The winter is gone,</line>
 <line>Beloved, arise!</line>
 <line>The spring is come on,</line>
 <line>The birds are all singing:</line>
-<line>Beloved, arise!</s></line>
+<line>Beloved, arise!</line></stanza>
 
-<line><s>  The roses are springing;</line>
+<stanza><line>The roses are springing;</line>
 <line>Earth laughs out in love:</line>
 <line>Beloved, arise!</line>
 <line>And thou, my sweet dove!</line>
 <line>O waste not thy time:</line>
-<line>Beloved, arise.</s></line>
+<line>Beloved, arise.</line></stanza>
 
-<line><s>  Enjoy the sweet bliss</line>
+<stanza><line>Enjoy the sweet bliss</line>
 <line>Of a kiss--of a kiss:</line>
 <line>Beloved, arise</line>
 <line>In the hour of thy prime,</line>
-<line>Beloved, arise!</s></line>
+<line>Beloved, arise!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXIII</number>
 
+<title>MOHAMMEDAN SONG</title>
 
-<line></poem><poem><number>LXIII</number></line>
-
-<line><t>  MOHAMMEDAN SONG</t></line>
-
-<s>
-<line>I have piercing eyes--the eyes of falcons:</line>
+<stanza><line>I have piercing eyes--the eyes of falcons:</line>
 <line>I am of undoubted noble lineage:</line>
 <line>I can read the heart of Osman Aga:</line>
-<line>I was ask'd by Osman Aga's mother:</s></line>
+<line>I was ask'd by Osman Aga's mother:</line></stanza>
 
-<line><s>  "Cursed witch: and yet most lovely maiden!</line>
+<stanza><line>"Cursed witch: and yet most lovely maiden!</line>
 <line>Why with white and red dost paint thy visage?</line>
 <line>Fascinate no longer Osman Aga!</line>
 <line>I will speed me to the verdant forest,</line>
 <line>Build me up of maple-trees a dwelling,</line>
-<line>And lock up within it Osman Aga."</s></line>
+<line>And lock up within it Osman Aga."</line></stanza>
 
-<line><s>  Then the maid replied to Osman's mother:</line>
+<stanza><line>Then the maid replied to Osman's mother:</line>
 <line>"Lady Anka! Osman Aga's mother--</line>
 <line>I have falcon eyes--and eyes of devils:</line>
 <line>With them I can ope thy ample dwelling--</line>
-<line>With them visit, too, thy Osman Aga."</s></line>
+<line>With them visit, too, thy Osman Aga."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXIV</number>
 
+<title>BROTHERLESS SISTERS</title>
 
-<line></poem><poem><number>LXIV</number></line>
-
-<line><t>  BROTHERLESS SISTERS</t></line>
-
-<s>
-<line>Two solitary sisters, who</line>
+<stanza><line>Two solitary sisters, who</line>
 <line>A brother's fondness never knew,</line>
 <line>Agreed, poor girls, with one another,</line>
 <line>That they would make themselves a brother:</line>
@@ -1852,18 +1668,15 @@
 <line>They took two leeches; and for teeth</line>
 <line>Fix'd pearls above, and pearls beneath;</line>
 <line>For food they gave him honey sweet,</line>
-<line>And said, "Now live, and speak, and eat."</s></line>
+<line>And said, "Now live, and speak, and eat."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXV</number>
 
+<title>MISFORTUNES</title>
 
-<line></poem><poem><number>LXV</number></line>
-
-<line><t>  MISFORTUNES</t></line>
-
-<s>
-<line>On the hill, the fir-tree hill,</line>
+<stanza><line>On the hill, the fir-tree hill,</line>
 <line>Grows a tall fir-tree:</line>
 <line>There a maiden, calm and still,</line>
 <line>Sits delightedly.</line>
@@ -1888,18 +1701,15 @@
 <line>And her father burns his beard</line>
 <line>In perplexity.</line>
 <line>And the youth must quench the fire,</line>
-<line>And the maiden must retire.</s></line>
+<line>And the maiden must retire.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXVI</number>
 
+<title>TIMIDITY</title>
 
-<line></poem><poem><number>LXVI</number></line>
-
-<line><t>  TIMIDITY</t></line>
-
-<s>
-<line>Lo! upon the mountain green</line>
+<stanza><line>Lo! upon the mountain green</line>
 <line>Stands a fir-tree tall and thin--</line>
 <line>'Tis no fir-tree--none at all--</line>
 <line>'Tis a maiden thin and tall.</line>
@@ -1910,18 +1720,18 @@
 <line>"Why, thou witching maid! repel me--</line>
 <line>Why with foot of scorn dost tread,</line>
 <line>On my feet, my boots of red!</line>
-<line>Why despise me, maiden! tell me."</s></line>
+<line>Why despise me, maiden! tell me."</line></stanza>
 
-<line><s>  "No, my friend, I will not tread</line>
+<stanza><line>"No, my friend, I will not tread</line>
 <line>On thy feet, thy boots of red!</line>
 <line>Come at evening--come and string</line>
 <line>Pearls for me--and thou shalt fling</line>
 <line>O'er me my embroider'd shawl.</line>
 <line>We will go at morning's call</line>
 <line>To the kolo--Friend! but thou</line>
-<line>Must not touch the maiden now--</s></line>
+<line>Must not touch the maiden now--</line></stanza>
 
-<line><s>  Know'st thou not that busy slander</line>
+<stanza><line>Know'st thou not that busy slander</line>
 <line>Follows us wher'er we wander?</line>
 <line>Evil tongues are ever talking;</line>
 <line>Calumny abroad is walking</line>
@@ -1930,18 +1740,15 @@
 <line>'Never did we kiss,' you'll say,</line>
 <line>'Till last evening and to-day.'</line>
 <line>Come at evening--come, my dear.</line>
-<line>Sisters' eyes will watch thee here."</s></line>
+<line>Sisters' eyes will watch thee here."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXVII</number>
 
+<title>YOUTH ENAMOURED</title>
 
-<line></poem><poem><number>LXVII</number></line>
-
-<line><t>  YOUTH ENAMOURED</t></line>
-
-<s>
-<line>"Where wert thou! Misho! yesterday?"</line>
+<stanza><line>"Where wert thou! Misho! yesterday?"</line>
 <line>"O 'twas a happy day for me!</line>
 <line>A lovely maiden cross'd my way</line>
 <line>A maiden smiling lovelily</line>
@@ -1958,18 +1765,15 @@
 <line>And like a youthful maiden weep.</line>
 <line>So may her mother turn her eye,</line>
 <line>Pitying my grief, her heart may move,</line>
-<line>And she may give me her I love."</s></line>
+<line>And she may give me her I love."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXVIII</number>
 
+<title>BLACK EYES AND BLUE</title>
 
-<line></poem><poem><number>LXVIII</number></line>
-
-<line><t>  BLACK EYES AND BLUE</t></line>
-
-<s>
-<line>I wish the happy time were nigh,</line>
+<stanza><line>I wish the happy time were nigh,</line>
 <line>When youths are sold, that I might buy.</line>
 <line>But for an azure-eyed Mlinar,[28]</line>
 <line>I would not give a single dinar,</line>
@@ -1982,18 +1786,15 @@
 <line>Ye maidens! pray him to forgive me;</line>
 <line>Nay! spare me now--and rather leave me</line>
 <line>To tell him "I am yours"--and smile</line>
-<line>In fond affection all the while.</s></line>
+<line>In fond affection all the while.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXIX</number>
 
+<title>THE WIDOW</title>
 
-<line></poem><poem><number>LXIX</number></line>
-
-<line><t>  THE WIDOW</t></line>
-
-<s>
-<line>Rose! O smile upon the youth no longer;</line>
+<stanza><line>Rose! O smile upon the youth no longer;</line>
 <line>He in his impatience to be wedded,</line>
 <line>Chose a widow for his years unsuited,</line>
 <line>And wher'er she goes, where'er she tarries,</line>
@@ -2003,35 +1804,29 @@
 <line>Early we retired and late we waken'd</line>
 <line>Thou didst wake me kissing my white forehead,</line>
 <line>'Up, my heart! the sun is high in heaven,</line>
-<line>And our aged mother is arisen.'"</s></line>
+<line>And our aged mother is arisen.'"</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXX</number>
 
+<title>ALARMS</title>
 
-<line></poem><poem><number>LXX</number></line>
-
-<line><t>  ALARMS</t></line>
-
-<s>
-<line>Fairest youths are here--but not the fairest!</line>
+<stanza><line>Fairest youths are here--but not the fairest!</line>
 <line>Could I hear him now, or could I see him,--</line>
 <line>Could I know if he be sick, or faithless!</line>
 <line>Were he sick, my ears would rather hear it,</line>
 <line>Than that he had loved another maiden.</line>
 <line>Sickness may depart, and time restore him,--</line>
-<line>If enamour'd,--never! never! never!</s></line>
+<line>If enamour'd,--never! never! never!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXI</number>
 
+<title>FOND WIFE</title>
 
-<line></poem><poem><number>LXXI</number></line>
-
-<line><t>  FOND WIFE</t></line>
-
-<s>
-<line>O! If I were a mountain streamlet,</line>
+<stanza><line>O! If I were a mountain streamlet,</line>
 <line>I know where I would flow</line>
 <line>I'd spring into the crystal Sava,</line>
 <line>Where the gay vessels go,</line>
@@ -2044,18 +1839,15 @@
 <line>Is faded yet, and if he wear it.</line>
 <line>On Saturday I cull</line>
 <line>To give him for a Sabbath present</line>
-<line>All that is beautiful.</s></line>
+<line>All that is beautiful.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXII</number>
 
+<title>UNHAPPY BRIDE</title>
 
-<line></poem><poem><number>LXXII</number></line>
-
-<line><t>  UNHAPPY BRIDE</t></line>
-
-<s>
-<line>The maiden gave the ring she wore</line>
+<stanza><line>The maiden gave the ring she wore</line>
 <line>To him who gave it her before:</line>
 <line>"O take the ring--for thou and thine</line>
 <line>Are hated,--not by me--but mine--</line>
@@ -2072,24 +1864,21 @@
 <line>The only flower which they shall wear</line>
 <line>Who to the maiden's marriage comes,</line>
 <line>When for my marriage altar there</line>
-<line>The guests shall find the maiden's tomb."</s></line>
+<line>The guests shall find the maiden's tomb."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXIII</number>
 
+<title>LAST PETITION</title>
 
-<line></poem><poem><number>LXXIII</number></line>
-
-<line><t>  LAST PETITION</t></line>
-
-<s>
-<line>Upon her mother's bosom lay</line>
+<stanza><line>Upon her mother's bosom lay</line>
 <line>Young Mira, and she pined away.</line>
 <line>'Twas in her own maternal bed;</line>
 <line>And thus the anxious mother said:--</line>
-<line>"What ails thee, tell me, Mira, pray?"</s></line>
+<line>"What ails thee, tell me, Mira, pray?"</line></stanza>
 
-<line><s>  "O ask me not, my mother dear!</line>
+<stanza><line>"O ask me not, my mother dear!</line>
 <line>I feel that death approaches near,</line>
 <line>I shall not rise from this my bed;</line>
 <line>But, mother mine! when I am dead--</line>
@@ -2097,9 +1886,9 @@
 <line>My playmates to my funeral;</line>
 <line>And let the friends I loved receive</line>
 <line>The little gifts that I shall leave;</line>
-<line>Then let me sleep in peace beneath.--</s></line>
+<line>Then let me sleep in peace beneath.--</line></stanza>
 
-<line><s>  There's one, my mother, I should grieve</line>
+<stanza><line>There's one, my mother, I should grieve</line>
 <line>To be divided from in death.</line>
 <line>Then call around me priests divine,</line>
 <line>And pious pilgrims, mother mine!</line>
@@ -2113,45 +1902,39 @@
 <line>Adjacent to my Mirjo's home,</line>
 <line>And near my Mirjo's nightly bed;</line>
 <line>So when he wakes his thoughts shall dwell</line>
-<line>With her he loved and loved so well."</s></line>
+<line>With her he loved and loved so well."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXIV</number>
 
+<title>LOVE FOR A BROTHER</title>
 
-<line></poem><poem><number>LXXIV</number></line>
-
-<line><t>  LOVE FOR A BROTHER</t></line>
-
-<s>
-<line>The sun sank down behind the gold-flower'd hill;</line>
+<stanza><line>The sun sank down behind the gold-flower'd hill;</line>
 <line>The warriors from the fight approach the shore:</line>
 <line>There stood young George's wife, serene and still:</line>
 <line>She counted all the heroes o'er and o'er,</line>
 <line>And found not those she loved--though they were three:--</line>
 <line>Her husband, George; her marriage friend, another</line>
 <line>Who late had led the marriage revelry;</line>
-<line>The third, her best-loved, her only brother.</s></line>
+<line>The third, her best-loved, her only brother.</line></stanza>
 
-<line><s>  Her husband he was dead; she rent her hair</line>
+<stanza><line>Her husband he was dead; she rent her hair</line>
 <line>For him--Her friend was gone,--for him she tore</line>
 <line>Her cheeks--Her only brother was not there:</line>
 <line>For him she pluck'd her eye-balls from their bed.</line>
 <line>Her hair grew forth as lovely as before;</line>
 <line>Upon her cheeks her former beauties spread;</line>
 <line>But nothing could her perish'd sight restore:</line>
-<line>Nought heals the heart that mourns a brother dead.</s></line>
+<line>Nought heals the heart that mourns a brother dead.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXV</number>
 
+<title>REBUKE</title>
 
-<line></poem><poem><number>LXXV</number></line>
-
-<line><t>  REBUKE</t></line>
-
-<s>
-<line>"Maiden! hast thou seen my steed?"</line>
+<stanza><line>"Maiden! hast thou seen my steed?"</line>
 <line>"Faithless one! not I, indeed!</line>
 <line>But I heard that thou hadst tied him</line>
 <line>To the mountain-maple tree;</line>
@@ -2162,18 +1945,15 @@
 <line>Not one maiden did he cheat.</line>
 <line>No; that master cheated two:</line>
 <line>One has borne a wretched child;</line>
-<line>One with grief and shame is wild."</s></line>
+<line>One with grief and shame is wild."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXVI</number>
 
+<title>MAN'S FAITH</title>
 
-<line></poem><poem><number>LXXVI</number></line>
-
-<line><t>  MAN'S FAITH</t></line>
-
-<s>
-<line>Say! dost thou remember when under the vine,</line>
+<stanza><line>Say! dost thou remember when under the vine,</line>
 <line>Thy tears fell in streams on the breast of thy maid;</line>
 <line>When thy heart burst in joy as I own'd thee for mine?</line>
 <line>Alas! for the maiden whose peace is betray'd</line>
@@ -2183,18 +1963,15 @@
 <line>"I will wed thee to-morrow, my love and my light!"</line>
 <line>To-morrow--"Let's wait till the harvest's away."</line>
 <line>The harvest is ended, the winter is nigh</line>
-<line>And another maid dwells in their hearts and their eye.</s></line>
+<line>And another maid dwells in their hearts and their eye.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXVII</number>
 
+<title>MAIDEN'S AFFECTION</title>
 
-<line></poem><poem><number>LXXVII</number></line>
-
-<line><t>  MAIDEN'S AFFECTION</t></line>
-
-<s>
-<line>"Black is the night--an outcast lad</line>
+<stanza><line>"Black is the night--an outcast lad</line>
 <line>Is wandering in our village, mother!</line>
 <line>Thy daughter's heart is very sad,</line>
 <line>Sad even to death! He has no home:</line>
@@ -2205,9 +1982,9 @@
 <line>Will ask for wine at break of day,</line>
 <line>And costly meats at eve, forsooth,</line>
 <line>And for his city-tutor'd head</line>
-<line>Will want a soft and stately bed."</s></line>
+<line>Will want a soft and stately bed."</line></stanza>
 
-<line><s>  "O mother! In God's name divine,</line>
+<stanza><line>"O mother! In God's name divine,</line>
 <line>Give the poor lad a shelter now:</line>
 <line>My eyes shall serve instead of wine,</line>
 <line>For costly meats my maiden brow.</line>
@@ -2216,61 +1993,53 @@
 <line>And heaven his stately canopy.</line>
 <line>His head shall rest upon my arm.</line>
 <line>O mother! give the youth a home,</line>
-<line>And shelter, shelter him from harm."</s></line>
+<line>And shelter, shelter him from harm."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXVIII</number>
 
+<stanza><line>MARRIAGE SONGS</line></stanza>
 
-<line></poem><poem><number>LXXVIII</number></line>
+<stanza><line>The Marriage Leader:</line></stanza>
 
-<s>
-<line>MARRIAGE SONGS</s></line>
-
-<s>
-<line>The Marriage Leader:</s></line>
-
-<line><s>  "Make ready! make ready,"</line>
+<stanza><line>"Make ready! make ready,"</line>
 <line>To his sister the youth is repeating;</line>
 <line>"Make ready my steed for the wedding,</line>
 <line>O sister! the young Doge[29] is waiting.</line>
 <line>I'm bid to the wedding, I'm summon'd to guide</line>
-<line>To the wedding the maiden--the Doge's young bride."</s></line>
+<line>To the wedding the maiden--the Doge's young bride."</line></stanza>
 
-<s>
-<line>The approaching bridegroom:</s></line>
+<stanza><line>The approaching bridegroom:</line></stanza>
 
-<line><s>  What is shining on the verdant mountain?</line>
+<stanza><line>What is shining on the verdant mountain?</line>
 <line>Sun--or moon--that shines so brightly,</line>
 <line>'Tis not sun, or moon that shines so brightly,</line>
-<line>'Tis the bridegroom hasting to the marriage.</s></line>
+<line>'Tis the bridegroom hasting to the marriage.</line></stanza>
 
-<s>
-<line>Parting of the bride:</s></line>
+<stanza><line>Parting of the bride:</line></stanza>
 
-<line><s>  Sweetest of maidens! O be still,</line>
+<stanza><line>Sweetest of maidens! O be still,</line>
 <line>Be silent--prithee weep not now</line>
 <line>Thy mother she will weep--wilt fill</line>
 <line>Her sorrowing eyes with tears, for thou</line>
 <line>Wilt leave thy cherish'd home ere long:</line>
 <line>And when thy young companions go</line>
 <line>To the fresh stream, amidst the throng</line>
-<line>She'll seek thee--will she find thee! No!</s></line>
+<line>She'll seek thee--will she find thee! No!</line></stanza>
 
-<s>
-<line>Departure of the wedding guests:</s></line>
+<stanza><line>Departure of the wedding guests:</line></stanza>
 
-<line><s>  O thou young bridegroom, thou rose in its beauty,</line>
+<stanza><line>O thou young bridegroom, thou rose in its beauty,</line>
 <line>Lo! we have brought thee a rosemary branch,</line>
 <line>And if the rosemary branch should decay,</line>
 <line>Thine will the shame be, the sorrow be ours.</line>
 <line>Scatter the rosemary leaves o'er thy way;</line>
-<line>Let not destruction disparage its flowers.</s></line>
+<line>Let not destruction disparage its flowers.</line></stanza>
 
-<s>
-<line>To the bride, when the marriage hood is first put on:</s></line>
+<stanza><line>To the bride, when the marriage hood is first put on:</line></stanza>
 
-<line><s>  Maid from a distant forest tree,</line>
+<stanza><line>Maid from a distant forest tree,</line>
 <line>A verdant leaf is blown to thee;</line>
 <line>And that green leaf has fixed it now,</line>
 <line>In the green garland on thy brow:</line>
@@ -2283,12 +2052,11 @@
 <line>Thou hast no mother now--another,</line>
 <line>A stranger must be called thy mother;</line>
 <line>And sister-love thy heart must share,</line>
-<line>With one who was not born thy brother.</s></line>
+<line>With one who was not born thy brother.</line></stanza>
 
-<s>
-<line>At the marriage:</s></line>
+<stanza><line>At the marriage:</line></stanza>
 
-<line><s>  An apple tree at Ranko's door was growing,</line>
+<stanza><line>An apple tree at Ranko's door was growing,</line>
 <line>Its trunk was silver, golden were its branches;</line>
 <line>Its branches golden and of pearls its foliage,</line>
 <line>Its leaves were pearls, and all its apple corals.</line>
@@ -2302,42 +2070,36 @@
 <line>Was not the apple-tree by Ranko planted?</line>
 <line>By Ranko planted, and by Ranko watered,</line>
 <line>That it might shade the guests at Ranko's marriage,</line>
-<line>Shade all his guests beneath its joyous branches."</s></line>
+<line>Shade all his guests beneath its joyous branches."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXIX</number>
 
+<title>HEROES SERVE</title>
 
-<line></poem><poem><number>LXXIX</number></line>
-
-<line><t>  HEROES SERVE</t></line>
-
-<s>
-<line>Upon the silent Danube's shore,</line>
+<stanza><line>Upon the silent Danube's shore,</line>
 <line>When ev'ning wastes, 'tis sweet to see</line>
 <line>'Their golden wine cups flowing o'er';</line>
-<line>Our heroes in their revelry.</s></line>
+<line>Our heroes in their revelry.</line></stanza>
 
-<line><s>  A youthful beauty pours the wine,</line>
+<stanza><line>A youthful beauty pours the wine,</line>
 <line>And each will pledge a cup to her;</line>
 <line>And each of charms that seem divine,</line>
-<line>Would fain become a worshipper.</s></line>
+<line>Would fain become a worshipper.</line></stanza>
 
-<line><s>  "Nay! heroes, nay!" the virgin cried,</line>
+<stanza><line>"Nay! heroes, nay!" the virgin cried,</line>
 <line>"My service--not my love--I give:</line>
 <line>For one alone--for none beside:</line>
-<line>For one alone I love and live."</s></line>
+<line>For one alone I love and live."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXX</number>
 
+<title>YOUTH AND AGE</title>
 
-<line></poem><poem><number>LXXX</number></line>
-
-<line><t>  YOUTH AND AGE</t></line>
-
-<s>
-<line>Lo! the maid her rosy cheeks is laving.</line>
+<stanza><line>Lo! the maid her rosy cheeks is laving.</line>
 <line>Listen! while she bathes her snowy forehead:</line>
 <line>"Forehead! if I thought an old man's kisses</line>
 <line>Would be stamp'd upon thee, I would hasten</line>
@@ -2355,18 +2117,15 @@
 <line>Better dwell with youth upon the mountains,</line>
 <line>Than with age in luxury's richest palace:</line>
 <line>Better sleep with youth on naked granite,</line>
-<line>Than with eld on silks howe'er voluptuous."</s></line>
+<line>Than with eld on silks howe'er voluptuous."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXXI</number>
 
+<title>CHOICE</title>
 
-<line></poem><poem><number>LXXXI</number></line>
-
-<line><t>  CHOICE</t></line>
-
-<s>
-<line>In my court the morning's twilight found me;</line>
+<stanza><line>In my court the morning's twilight found me;</line>
 <line>At the chase the early sun while rising,</line>
 <line>I upon the mountain--and behind it,</line>
 <line>On that mountain, 'neath a dark-green pine tree</line>
@@ -2380,60 +2139,51 @@
 <line>Gave the sheaf of clover to my courser:</line>
 <line>Gave the two white dovelets to my falcon:</line>
 <line>Gave the dappled fawn to my good greyhound:</line>
-<line>And, for me,--I took the lovely maiden.</s></line>
+<line>And, for me,--I took the lovely maiden.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXXII</number>
 
+<title>ANXIETY</title>
 
-<line></poem><poem><number>LXXXII</number></line>
-
-<line><t>  ANXIETY</t></line>
-
-<s>
-<line>I fain would sing--but will be silent now,</line>
+<stanza><line>I fain would sing--but will be silent now,</line>
 <line>For pain is sitting on my lover's brow;</line>
 <line>And he would hear me--and, though silent, deem</line>
 <line>I pleased myself, but little thought of him,</line>
 <line>While of nought else I think; to him I give</line>
 <line>My spirit--and for him alone I live;</line>
 <line>Bear him within my heart, as mothers bear</line>
-<line>The last and youngest object of their care.</s></line>
+<line>The last and youngest object of their care.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXXIII</number>
 
+<title>INQUIRY</title>
 
-<line></poem><poem><number>LXXXIII</number></line>
-
-<line><t>  INQUIRY</t></line>
-
-<s>
-<line>Say, heavenly spirit! kindly say,</line>
+<stanza><line>Say, heavenly spirit! kindly say,</line>
 <line>Where tarries now this youth of mine;</line>
 <line>Say, is he speeding on his way,</line>
-<line>Or doth he linger, drinking wine?</s></line>
+<line>Or doth he linger, drinking wine?</line></stanza>
 
-<line><s>  If he be speeding on,--elated</line>
+<stanza><line>If he be speeding on,--elated</line>
 <line>With joy and gladness let him be:</line>
 <line>If quaffing wine,--in quiet seated,</line>
-<line>O! his be peace and gaiety!</s></line>
+<line>O! his be peace and gaiety!</line></stanza>
 
-<line><s>  But if he love another maiden,</line>
+<stanza><line>But if he love another maiden,</line>
 <line>I wish him nought but sorrow:--No!</line>
 <line>Then be his heart with anguish laden!</line>
-<line>And let Heaven smite his path with woe!</s></line>
+<line>And let Heaven smite his path with woe!</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXXIV</number>
 
+<title>FROZEN HEART</title>
 
-<line></poem><poem><number>LXXXIV</number></line>
-
-<line><t>  FROZEN HEART</t></line>
-
-<s>
-<line>Thick fell the snow upon St. George's day;</line>
+<stanza><line>Thick fell the snow upon St. George's day;</line>
 <line>The little birds all left their cloudy bed;</line>
 <line>The maiden wander'd bare-foot on her way;</line>
 <line>Her brother bore her sandals, and he said:</line>
@@ -2442,31 +2192,28 @@
 <line>But my poor heart is cold with misery.</line>
 <line>There's nought to chill me in the snowy sleet</line>
 <line>My mother--tis my mother who hath chill'd me,</line>
-<line>Bound me to one who with disgust hath fill'd me."</s></line>
+<line>Bound me to one who with disgust hath fill'd me."</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXXV</number>
 
+<title>UNION IN DEATH</title>
 
-<line></poem><poem><number>LXXXV</number></line>
-
-<line><t>  UNION IN DEATH</t></line>
-
-<s>
-<line>Fondly lov'd a youth and youthful maiden,</line>
+<stanza><line>Fondly lov'd a youth and youthful maiden,</line>
 <line>And they wash'd them in the self-same water,</line>
 <line>And they dried them with the self-same linen</line>
 <line>Full a year had pass'd, and no one knew it</line>
 <line>Yet another year--'twas all discover'd,</line>
 <line>And the father heard it, and the mother;</line>
 <line>But the mother check'd their growing fondness,</line>
-<line>Banish'd love, and exiled them for ever.</s></line>
+<line>Banish'd love, and exiled them for ever.</line></stanza>
 
-<line><s>  To the stars he look'd, and bade them tell her:</line>
+<stanza><line>To the stars he look'd, and bade them tell her:</line>
 <line>"Die, sweet maiden! on the week's last even;</line>
-<line>Early will I die on Sabbath morning."</s></line>
+<line>Early will I die on Sabbath morning."</line></stanza>
 
-<line><s>  As the stars foretold the event, it happen'd;</line>
+<stanza><line>As the stars foretold the event, it happen'd;</line>
 <line>On the eve of Saturday the maiden</line>
 <line>Died--and died the youth on Sunday morning:</line>
 <line>And they were, fond pair, together buried;</line>
@@ -2476,74 +2223,65 @@
 <line>From the grave sprung up a verdant pine-tree,</line>
 <line>And a fragrant crimson rose-tree follow'd:</line>
 <line>Round the pine the rose-tree fondly twined it,</line>
-<line>As around the straw the silk clings closely.</s></line>
+<line>As around the straw the silk clings closely.</line></stanza>
 
-<line><s>                             S. J. B.</s></line>
+<translator>S. J. B.</translator></poem>
 
+<poem><number>LXXXVI</number>
 
+<title>LOVE AND SLEEP[30]</title>
 
-<line></poem><poem><number>LXXXVI</number></line>
-
-<line><t>  LOVE AND SLEEP[30]</t></line>
-
-<s>
-<line>I walkt the high and hollow wood, from dawn to even-dew,</line>
+<stanza><line>I walkt the high and hollow wood, from dawn to even-dew,</line>
 <line>The wild-eyed wood stared at me, and unclaspt, and let me through,</line>
 <line>Where mountain pines, like great black birds, stood percht against</line>
-<line>the blue.</s></line>
+<line>the blue.</line></stanza>
 
-<line><s>  Not a whisper heaved the woven woof of those warm trees:</line>
+<stanza><line>Not a whisper heaved the woven woof of those warm trees:</line>
 <line>All the little leaves lay flat, unmoved of bird or breeze:</line>
-<line>Day was losing light all round, by indolent degrees.</s></line>
+<line>Day was losing light all round, by indolent degrees.</line></stanza>
 
-<line><s>  Underneath the brooding branches, all in holy shade,</line>
+<stanza><line>Underneath the brooding branches, all in holy shade,</line>
 <line>Unseen hands of mountain things a mossy couch had made:</line>
-<line>There asleep among pale flowers my beloved was laid.</s></line>
+<line>There asleep among pale flowers my beloved was laid.</line></stanza>
 
-<line><s>  Slipping down, a sunbeam bathed her brows with bounteous gold,</line>
+<stanza><line>Slipping down, a sunbeam bathed her brows with bounteous gold,</line>
 <line>Unmoved upon her maiden breast her heavy hair was roll'd,</line>
 <line>Her smile was silent as the smile on corpses three hours old.</line>
 <line>"O God!" I thought, "if this be death, that makes not sound nor stir."</line>
 <line>My heart stood still with tender awe, I dared not waken her,</line>
-<line>But to the dear God, in the sky, this prayer I did prefer:</s></line>
+<line>But to the dear God, in the sky, this prayer I did prefer:</line></stanza>
 
-<line><s>  "Grant, dear Lord, in the blessed sky, a warm wind from the sea,</line>
+<stanza><line>"Grant, dear Lord, in the blessed sky, a warm wind from the sea,</line>
 <line>Then shake a leaf down on my love from yonder leafy tree;</line>
-<line>That she may open her sweet eyes, and haply look on me."</s></line>
+<line>That she may open her sweet eyes, and haply look on me."</line></stanza>
 
-<line><s>  The dear God, from the distant sea, a little wind releast,</line>
+<stanza><line>The dear God, from the distant sea, a little wind releast,</line>
 <line>It shook a leaflet from the tree, and laid it on her breast,</line>
-<line>Her sweet eyes ope'd and looked on me. How can I tell the rest?</s></line>
+<line>Her sweet eyes ope'd and looked on me. How can I tell the rest?</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>LXXXVII</number>
 
+<title>LOVE CONFERS NOBILITY</title>
 
-<line></poem><poem><number>LXXXVII</number></line>
+<stanza><line>He. Violet, little one mine,</line>
+<line>I would love thee, but thou art so small.</line></stanza>
 
-<line><t>  LOVE CONFERS NOBILITY</t></line>
-
-<s>
-<line>He. Violet, little one mine,</line>
-<line>I would love thee, but thou art so small.</s></line>
-
-<line><s>  She. Love me, my love, from those heights of thine,</line>
+<stanza><line>She. Love me, my love, from those heights of thine,</line>
 <line>And I shall grow tall, so tall,</line>
 <line>The pearl is small, but it hangs above</line>
 <line>The royal brow, and a kingly mind</line>
 <line>The quail is little, little, my love,</line>
-<line>But she leaves the hunter behind.</s></line>
+<line>But she leaves the hunter behind.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>LXXXVIII</number>
 
+<title>A SOUL'S SWEETNESS</title>
 
-<line></poem><poem><number>LXXXVIII</number></line>
-
-<line><t>  A SOUL'S SWEETNESS</t></line>
-
-<s>
-<line>He. O maiden of my soul!</line>
+<stanza><line>He. O maiden of my soul!</line>
 <line>What odour from the orange hast thou stole,</line>
 <line>That breathes about thy breast with such sweet power?</line>
 <line>What sweetness, unto me</line>
@@ -2552,9 +2290,9 @@
 <line>And sucks the essential summer of the year</line>
 <line>To store with sweetest sweets her hollow tower?</line>
 <line>Or is it breath of basil, maiden dear?</line>
-<line>Or of the immortal flower?</s></line>
+<line>Or of the immortal flower?</line></stanza>
 
-<line><s>  She. By the sweet heavens, young lover!</line>
+<stanza><line>She. By the sweet heavens, young lover!</line>
 <line>No odour from the orange have I stole;</line>
 <line>Nor have I robb'd for thee,</line>
 <line>Dearest the amber dower</line>
@@ -2565,86 +2303,79 @@
 <line>Fragrance of such sweet power,</line>
 <line>Trust me, O my beloved and my lover,</line>
 <line>'Tis not of basil, nor the immortal flower,</line>
-<line>But from a virgin soul.</s></line>
+<line>But from a virgin soul.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>LXXXIX</number>
 
+<title>REMINISCENCES</title>
 
-<line></poem><poem><number>LXXXIX</number></line>
+<stanza><line>He. "And art thou wed, my beloved?</line>
+<line>My Beloved of long ago?"</line></stanza>
 
-<line><t>  REMINISCENCES</t></line>
-
-<s>
-<line>He. "And art thou wed, my beloved?</line>
-<line>My Beloved of long ago?"</s></line>
-
-<line><s>  She. "I am wed, my Beloved. And I have given</line>
+<stanza><line>She. "I am wed, my Beloved. And I have given</line>
 <line>A child to this world of woe.</line>
 <line>And the name I have given my child is thine:</line>
 <line>So that, when I call to me my little one,</line>
 <line>The heaviness of this heart of mine</line>
 <line>For a little while may be gone.</line>
 <line>For I say not ... 'Hither, hither, my son!'</line>
-<line>But ... 'Hither, my Love, my Beloved.'"</s></line>
+<line>But ... 'Hither, my Love, my Beloved.'"</line></stanza>
 
 
 
-<line></poem><poem><number>XC</number></line>
+</poem><poem><number>XC</number>
 
-<line><t>  SLEEP AND DEATH</t></line>
+<title>SLEEP AND DEATH</title>
 
-<s>
-<line>The morning is growing: the cocks are crowing:</line>
-<line>Let me away, love, away!</s></line>
+<stanza><line>The morning is growing: the cocks are crowing:</line>
+<line>Let me away, love, away!</line></stanza>
 
-<line><s>  'Tis not the morning light;</line>
+<stanza><line>'Tis not the morning light;</line>
 <line>Only the moonbeam white.</line>
 <line>Stay, my white lamb, stay,</line>
-<line>And sleep on my bosom, sleep.</s></line>
+<line>And sleep on my bosom, sleep.</line></stanza>
 
-<line><s>  The breeze is blowing: the cattle are lowing:</line>
-<line>Let me away, love, away!</s></line>
+<stanza><line>The breeze is blowing: the cattle are lowing:</line>
+<line>Let me away, love, away!</line></stanza>
 
-<line><s>  'Tis not the cattle there;</line>
+<stanza><line>'Tis not the cattle there;</line>
 <line>Only the call to prayer.</line>
 <line>Stay, my white lamb, stay,</line>
-<line>And sleep on my bosom, sleep.</s></line>
+<line>And sleep on my bosom, sleep.</line></stanza>
 
-<line><s>  The Turks are warning to the mosque, 'tis morning!</line>
-<line>Let me away, love, away!</s></line>
+<stanza><line>The Turks are warning to the mosque, 'tis morning!</line>
+<line>Let me away, love, away!</line></stanza>
 
-<line><s>  'Tis not the Turks, sweet soul!</line>
+<stanza><line>'Tis not the Turks, sweet soul!</line>
 <line>Only the wolves that howl.</line>
 <line>Stay, my white lamb, stay,</line>
-<line>And sleep on my bosom, sleep.</s></line>
+<line>And sleep on my bosom, sleep.</line></stanza>
 
-<line><s>  The white roofs are gleaming: the glad children screaming:</line>
-<line>Let me away, love, away!</s></line>
+<stanza><line>The white roofs are gleaming: the glad children screaming:</line>
+<line>Let me away, love, away!</line></stanza>
 
-<line><s>  'Tis the night-clouds that gleam:</line>
+<stanza><line>'Tis the night-clouds that gleam:</line>
 <line>The night winds that scream.</line>
 <line>Stay, my white lamb, stay,</line>
-<line>And sleep on my bosom, sleep.</s></line>
+<line>And sleep on my bosom, sleep.</line></stanza>
 
-<line><s>  My mother in the gateway calls to me.... "Come straightway"</line>
-<line>And I must away, love, away!</s></line>
+<stanza><line>My mother in the gateway calls to me.... "Come straightway"</line>
+<line>And I must away, love, away!</line></stanza>
 
-<line><s>  Thy mother's in her bed,</line>
+<stanza><line>Thy mother's in her bed,</line>
 <line>Dumb, holy, and dead.</line>
 <line>Stay, my white lamb, stay,</line>
-<line>And sleep on my bosom, sleep.</s></line>
+<line>And sleep on my bosom, sleep.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCI</number>
 
+<title>IMPERFECTION</title>
 
-<line></poem><poem><number>XCI</number></line>
-
-<line><t>  IMPERFECTION</t></line>
-
-<s>
-<line>All in the spring,</line>
+<stanza><line>All in the spring,</line>
 <line>When little birds sing,</line>
 <line>And flowers do talk</line>
 <line>From stalk to stalk;</line>
@@ -2664,18 +2395,15 @@
 <line>For one small defect I spy,</line>
 <line>Should make thee speak more modestly:</line>
 <line>Thy face is fashion'd tenderly,</line>
-<line>But then it hangs awry."</s></line>
+<line>But then it hangs awry."</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCII</number>
 
+<title>EMANCIPATION</title>
 
-<line></poem><poem><number>XCII</number></line>
-
-<line><t>  EMANCIPATION</t></line>
-
-<s>
-<line>The Day of Saint George! and a girl pray'd thus:</line>
+<stanza><line>The Day of Saint George! and a girl pray'd thus:</line>
 <line>"O Day of Saint George, when again to us</line>
 <line>Thou returnest, and they carouse</line>
 <line>Here in my mother's house,</line>
@@ -2684,18 +2412,15 @@
 <line>Rather married than dead;</line>
 <line>But, however, that may betide,</line>
 <line>And whether a corpse or a spouse,</line>
-<line>No more in my mother's house."</s></line>
+<line>No more in my mother's house."</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCIII</number>
 
+<title>PLUCKING A FLOWER</title>
 
-<line></poem><poem><number>XCIII</number></line>
-
-<line><t>  PLUCKING A FLOWER</t></line>
-
-<s>
-<line>He. O maiden, vermeil rose!</line>
+<stanza><line>He. O maiden, vermeil rose!</line>
 <line>Unplanted, unsown,</line>
 <line>Blooming alone</line>
 <line>As the wild-flower blows,</line>
@@ -2720,9 +2445,9 @@
 <line>And meet thee alone?</line>
 <line>Sue thee, and woo thee,</line>
 <line>And make thee my own?</line>
-<line>Clasp thee, and cull thee, what harm would be done?</s></line>
+<line>Clasp thee, and cull thee, what harm would be done?</line></stanza>
 
-<line><s>  She. Beside thy field my garden blows,</line>
+<stanza><line>She. Beside thy field my garden blows,</line>
 <line>Were a gate in the garden left open ... who knows?</line>
 <line>And I water'd my garden at eventide?</line>
 <line>(Who knows?)</line>
@@ -2738,18 +2463,15 @@
 <line>Fold me, and hold me!</line>
 <line>Kiss me with kisses that leave not a trace,</line>
 <line>But set not the print of thy teeth on my face,</line>
-<line>Or my mother will see it, and scold me.</s></line>
+<line>Or my mother will see it, and scold me.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCIV</number>
 
+<title>A WISH</title>
 
-<line></poem><poem><number>XCIV</number></line>
-
-<line><t>  A WISH</t></line>
-
-<s>
-<line>I would I were a rivulet,</line>
+<stanza><line>I would I were a rivulet,</line>
 <line>And I know where I would run!</line>
 <line>To Save, the chilly river,</line>
 <line>Where the market boats pass on;</line>
@@ -2760,18 +2482,15 @@
 <line>Whether it blows or withers:</line>
 <line>I pluckt it on Saturday;</line>
 <line>I gave it to him on Sunday;</line>
-<line>On Monday he went away.</s></line>
+<line>On Monday he went away.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCV</number>
 
+<title>A SERBIAN BEAUTY</title>
 
-<line></poem><poem><number>XCV</number></line>
-
-<line><t>  A SERBIAN BEAUTY</t></line>
-
-<s>
-<line>'Tis the Kolo[31] that dances before the white house,</line>
+<stanza><line>'Tis the Kolo[31] that dances before the white house,</line>
 <line>And 'tis Stojan's fair sister, O fair, fair is she!</line>
 <line>Too fair she is truly, too fair, heaven knows,</line>
 <line>(God forgive her!) so cruel to be.</line>
@@ -2792,18 +2511,15 @@
 <line>See her dance--'tis the peacock's full splendour!</line>
 <line>Hear her talk--'tis the coo of the dove!</line>
 <line>And, only but let her look tender--</line>
-<line>'Tis all heaven melting down from above!</s></line>
+<line>'Tis all heaven melting down from above!</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCVI</number>
 
+<title>SLEEPLESSNESS</title>
 
-<line></poem><poem><number>XCVI</number></line>
-
-<line><t>  SLEEPLESSNESS</t></line>
-
-<s>
-<line>Sleep will not take the place of Love,</line>
+<stanza><line>Sleep will not take the place of Love,</line>
 <line>Nor keep the place from Sorrow.</line>
 <line>Oh, when the long nights slowly move</line>
 <line>To meet a lonely morrow,</line>
@@ -2811,18 +2527,15 @@
 <line>The grief that on the bosom weighs,</line>
 <line>And all the heart oppresses,</line>
 <line>But lightly lies on restless eyes</line>
-<line>Love seals no more with kisses.</s></line>
+<line>Love seals no more with kisses.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCVII</number>
 
+<title>A MESSAGE</title>
 
-<line></poem><poem><number>XCVII</number></line>
-
-<line><t>  A MESSAGE</t></line>
-
-<s>
-<line>Sweet sister of my loved, unloving one,</line>
+<stanza><line>Sweet sister of my loved, unloving one,</line>
 <line>Kiss thy wild brother, kiss him tenderly!</line>
 <line>Ask him what is it, witless, I have done</line>
 <line>That he should look so coldly upon me?</line>
@@ -2835,18 +2548,15 @@
 <line>The gold (be sure!) the goldsmith cannot miss;</line>
 <line>Each maid to win finds lads to woo: and I...."</line>
 <line>Well, child, but only tell him, tell him this!</line>
-<line>Sweet sister, tell him this!</s></line>
+<line>Sweet sister, tell him this!</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCVIII</number>
 
+<title>TRANSPLANTING A FLOWER</title>
 
-<line></poem><poem><number>XCVIII</number></line>
-
-<line><t>  TRANSPLANTING A FLOWER</t></line>
-
-<s>
-<line>O maiden, mother's golden treasure!</line>
+<stanza><line>O maiden, mother's golden treasure!</line>
 <line>Purest gold of perfect pleasure!</line>
 <line>Do they beat thee, and ill-treat thee,</line>
 <line>That I meet thee all alone?</line>
@@ -2867,18 +2577,15 @@
 <line>Just three little steps, or four,</line>
 <line>To my door from mother's door.</line>
 <line>Love is wise. I say no more.</line>
-<line>Ponder on it, little one!</s></line>
+<line>Ponder on it, little one!</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>XCIX</number>
 
+<title>ISOLATION</title>
 
-<line></poem><poem><number>XCIX</number></line>
-
-<line><t>  ISOLATION</t></line>
-
-<s>
-<line>The night is very dark and very lonely:</line>
+<stanza><line>The night is very dark and very lonely:</line>
 <line>And as dark, and all as lonely, is my heart:</line>
 <line>And the sorrow that is in it night knows only:</line>
 <line>For the dawn breaks, and my heart breaks. Far apart</line>
@@ -2889,18 +2596,15 @@
 <line>The sweet hour of his coming ... night is falling!</line>
 <line>The hour of our awakening ... bird on bough!</line>
 <line>The hour of last embraces ... friends are calling</line>
-<line>"Love, farewell!" ... and every hour is silent now.</s></line>
+<line>"Love, farewell!" ... and every hour is silent now.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>C</number>
 
+<title>FATIMA AND MEHMED</title>
 
-<line></poem><poem><number>C</number></line>
-
-<line><t>  FATIMA AND MEHMED</t></line>
-
-<s>
-<line>Beneath a milk-white almond tree,</line>
+<stanza><line>Beneath a milk-white almond tree,</line>
 <line>Fatima and Mehmed be.</line>
 <line>The black earth is their bridal bed;</line>
 <line>The thick-starred sky clear-spread</line>
@@ -2910,18 +2614,15 @@
 <line>The crescent moon, that glimmers through</line>
 <line>The unrippled leaves, is faint and new:</line>
 <line>And the milk-white almond blossoms</line>
-<line>All night long fall on their bosoms.</s></line>
+<line>All night long fall on their bosoms.</line></stanza>
 
-<line><s>                             O. M.</s></line>
+<translator>O. M.</translator></poem>
 
+<poem><number>CI</number>
 
+<title>MORAVA HORSES[32]</title>
 
-<line></poem><poem><number>CI</number></line>
-
-<line><t>  MORAVA HORSES[32]</t></line>
-
-<s>
-<line>On the banks of Morava,</line>
+<stanza><line>On the banks of Morava,</line>
 <line>Sleek black horses danced,</line>
 <line>"Could not we," one horse did say,</line>
 <line>"Over this river swim to-day?"</line>
@@ -2945,18 +2646,15 @@
 <line>And when there should have passed years three,</line>
 <line>His grave, perchance, she then might see--</line>
 <line>Where long since green grass had grown,</line>
-<line>The peacock preened himself and flown."</s></line>
+<line>The peacock preened himself and flown."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CII</number>
 
+<title>THE GIRL AND THE GRASS</title>
 
-<line></poem><poem><number>CII</number></line>
-
-<line><t>  THE GIRL AND THE GRASS</t></line>
-
-<s>
-<line>In the green grass a girl fell asleep;</line>
+<stanza><line>In the green grass a girl fell asleep;</line>
 <line>When she awoke the grass was red,</line>
 <line>And her ruddy cheeks were green instead.</line>
 <line>Before the Kadi the girl sued the grass:</line>
@@ -2965,18 +2663,15 @@
 <line>"Thy color red, I'll give it thee,</line>
 <line>When my color green thou dost give me."</line>
 <line>Then before the Kadi they exchanged color</line>
-<line>And became bosom-sisters for ever and ever.</s></line>
+<line>And became bosom-sisters for ever and ever.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CIII</number>
 
+<title>THE SUN AND THE GIRL</title>
 
-<line></poem><poem><number>CIII</number></line>
-
-<line><t>  THE SUN AND THE GIRL</t></line>
-
-<s>
-<line>To the great sun a radiant maiden cried:</line>
+<stanza><line>To the great sun a radiant maiden cried:</line>
 <line>"Bright sun, thy beauty cannot equal mine!"</line>
 <line>Whereon the burning orb complained to God:</line>
 <line>"Let me bring low her pride, and scorch her face."</line>
@@ -2984,18 +2679,15 @@
 <line>"The burden that she bears is weight enough;</line>
 <line>Her father and her mother, both I've taken;</line>
 <line>One simple, smiling youth alone is left to her;</line>
-<line>Touch not their joy, let him be fond of her."</s></line>
+<line>Touch not their joy, let him be fond of her."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CIV</number>
 
+<title>CURSE AND BLESSING</title>
 
-<line></poem><poem><number>CIV</number></line>
-
-<line><t>  CURSE AND BLESSING</t></line>
-
-<s>
-<line>To the river ran the mother,</line>
+<stanza><line>To the river ran the mother,</line>
 <line>To her Mary by the water,</line>
 <line>Dreaming there, the pretty daughter:</line>
 <line>"Have you washed the linen, Mary?"</line>
@@ -3012,54 +2704,48 @@
 <line>"From grievous wounds he then shall suffer!"</line>
 <line>"Let my own teeth, then, cause them, mother!"</line>
 <line>"May the wild torrent take him, daughter!"</line>
-<line>"And bring him home to me, my mother!"</s></line>
+<line>"And bring him home to me, my mother!"</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CV</number>
 
+<title>THE NICEST FLOWER IN THE WORLD</title>
 
-<line></poem><poem><number>CV</number></line>
-
-<line><t>  THE NICEST FLOWER IN THE WORLD</t></line>
-
-<s>
-<line>A yellow orange by the sea</line>
+<stanza><line>A yellow orange by the sea</line>
 <line>Vaunted much his beauty,</line>
 <line>This boast the red, round apple heard,</line>
 <line>Scolded the orange for his word,</line>
-<line>"See my superiority!"</s></line>
+<line>"See my superiority!"</line></stanza>
 
-<line><s>  The apple's boast the meadow heard,</line>
+<stanza><line>The apple's boast the meadow heard,</line>
 <line>The meadow rich beflowered:</line>
 <line>"Boast not, thou smooth, round apple red,</line>
 <line>But see how I am carpeted,</line>
-<line>So green and richly dowered!"</s></line>
+<line>So green and richly dowered!"</line></stanza>
 
-<line><s>  The meadow's boast the maiden heard:</line>
+<stanza><line>The meadow's boast the maiden heard:</line>
 <line>"Deem'st flowery mead, so great thy worth!</line>
 <line>Though sweetly thou art sure bedight,</line>
 <line>Yet still I am the sweetest sight,</line>
-<line>That can be found in all the earth."</s></line>
+<line>That can be found in all the earth."</line></stanza>
 
-<line><s>  These vaunts heard all a daring youth:</line>
+<stanza><line>These vaunts heard all a daring youth:</line>
 <line>"This maid, I see she is in truth,</line>
 <line>She is by far the sweetest flower</line>
 <line>That can be found in all the earth.</line>
 <line>That orange, I will bring it down,</line>
 <line>That apple-tree, I'll root it up,</line>
 <line>That meadow's flowers shall all be mown,</line>
-<line>And thou, fair maid, shalt be mine own!"</s></line>
+<line>And thou, fair maid, shalt be mine own!"</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CVI</number>
 
+<title>THE PRETTY TOMB</title>
 
-<line></poem><poem><number>CVI</number></line>
-
-<line><t>  THE PRETTY TOMB</t></line>
-
-<s>
-<line>"Wait, my girl, I want to talk,</line>
+<stanza><line>"Wait, my girl, I want to talk,</line>
 <line>Though my talk will wound thee!"</line>
 <line>"Speak, O Youth; I'll listen, speak!</line>
 <line>Even though thou wound me"</line>
@@ -3070,18 +2756,15 @@
 <line>That were unseemly cemet'ry.</line>
 <line>My bosom is no graveyard lone,</line>
 <line>An apple orchard is my breast</line>
-<line>Where fruits do ripen, birds do rest!"</s></line>
+<line>Where fruits do ripen, birds do rest!"</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CVII</number>
 
+<title>TODA AND HER FATE</title>
 
-<line></poem><poem><number>CVII</number></line>
-
-<line><t>  TODA AND HER FATE</t></line>
-
-<s>
-<line>Many youths paid court to Toda,</line>
+<stanza><line>Many youths paid court to Toda,</line>
 <line>She, the blithesome shepherd girl;</line>
 <line>So with mirthful laugh she cried:</line>
 <line>"The youth on whom my apple falls,</line>
@@ -3107,18 +2790,15 @@
 <line>But safely back the old man came,</line>
 <line>Back from the war, and spake the same:</line>
 <line>"O love me, Toda, Toda, love me!</line>
-<line>That which must be, let it be."</s></line>
+<line>That which must be, let it be."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CVIII</number>
 
+<title>THE VILA</title>
 
-<line></poem><poem><number>CVIII</number></line>
-
-<line><t>  THE VILA</t></line>
-
-<s>
-<line>Under the clouds there's nought to me</line>
+<stanza><line>Under the clouds there's nought to me</line>
 <line>So handsome as a falcon bird.</line>
 <line>A falcon I did wish to be,</line>
 <line>And my wish by God was heard.</line>
@@ -3128,18 +2808,15 @@
 <line>Under the tree a vila sleeping!</line>
 <line>Or else some being strange to me!</line>
 <line>Oh, God Himself, and He alone, can say,</line>
-<line>But she was fairer than the fairest summer day.</s></line>
+<line>But she was fairer than the fairest summer day.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CIX</number>
 
+<title>THREE ROSES</title>
 
-<line></poem><poem><number>CIX</number></line>
-
-<line><t>  THREE ROSES</t></line>
-
-<s>
-<line>Red Sun! too quickly art thou hasting down;</line>
+<stanza><line>Red Sun! too quickly art thou hasting down;</line>
 <line>A little while prolong thy stay,</line>
 <line>Smile from thy evening gate on me,</line>
 <line>Till I've adorned with roses three--</line>
@@ -3148,69 +2825,63 @@
 <line>The first rose, a rose for my own country dear,</line>
 <line>The second, a rose for sweet mother,</line>
 <line>The third, the rose of my own bridal crown.</line>
-<line>O stay, glad Sun! too quickly art thou going down!</s></line>
+<line>O stay, glad Sun! too quickly art thou going down!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CX</number>
 
+<title>HER DREAM</title>
 
-<line></poem><poem><number>CX</number></line>
-
-<line><t>  HER DREAM</t></line>
-
-<s>
-<line>The girl awoke at dawn of day,</line>
+<stanza><line>The girl awoke at dawn of day,</line>
 <line>Aroused by trilling roundelay;</line>
 <line>"Nightingale, oh, stop thy singing!</line>
 <line>Stop thy singing, pray!</line>
 <line>Cease thy songs, and fly away</line>
-<line>To Cattaro, down by the bay.</s></line>
+<line>To Cattaro, down by the bay.</line></stanza>
 
-<line><s>  To Cattaro now speed thy flight,</line>
+<stanza><line>To Cattaro now speed thy flight,</line>
 <line>To tell the dream I've dreamt this night:</line>
 <line>I found me in his garden gay,</line>
 <line>Gathering fair roses;</line>
 <line>With his eye he followed me,</line>
-<line>As I passed from tree to tree.</s></line>
+<line>As I passed from tree to tree.</line></stanza>
 
-<line><s>  I brought him then red roses fair,</line>
+<stanza><line>I brought him then red roses fair,</line>
 <line>And tied them in his steed's black hair.</line>
 <line>Smiling, then a ring he gave me;</line>
 <line>Ah, a ring so rare!</line>
 <line>And he kissed me where I stood;</line>
-<line>A kiss that made to me all good.</s></line>
+<line>A kiss that made to me all good.</line></stanza>
 
-<line><s>  Smiling, yes, a kiss he gave me!</line>
+<stanza><line>Smiling, yes, a kiss he gave me!</line>
 <line>Than golden ring with diamond bright</line>
 <line>More precious far in my heart's sight.</line>
 <line>Stop singing, bird!</line>
 <line>This is my dream; go, tell him so,</line>
-<line>Go! wing thy way to Cattaro."</s></line>
+<line>Go! wing thy way to Cattaro."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXI</number>
 
+<title>TROUBLE WITH THE HUSBAND</title>
 
-<line></poem><poem><number>CXI</number></line>
-
-<line><t>  TROUBLE WITH THE HUSBAND</t></line>
-
-<s>
-<line>I married last year,</line>
+<stanza><line>I married last year,</line>
 <line>This year I repent.</line>
 <line>Bad husband have I,</line>
 <line>With temper like nettle:</line>
-<line>My lot I resent.</s></line>
+<line>My lot I resent.</line></stanza>
 
-<line><s>  The frost kills the nettle,</line>
+<stanza><line>The frost kills the nettle,</line>
 <line>But this husband of mine,</line>
 <line>He thinks the frost fine:</line>
 <line>By the stove all day long</line>
 <line>He does nothing but sit,</line>
 <line>And says that the frost</line>
-<line>He minds not one bit!</s></line>
+<line>He minds not one bit!</line></stanza>
 
-<line><s>  In Celovec 'tis market-day,</line>
+<stanza><line>In Celovec 'tis market-day,</line>
 <line>'Tis market-day to-morrow;</line>
 <line>I will take my husband there,</line>
 <line>And will either there him change,</line>
@@ -3219,18 +2890,15 @@
 <line>Because he was so hard to get;</line>
 <line>Rather than too cheaply sell him,</line>
 <line>Back home again I'll take the man,</line>
-<line>And love him--howsomuch I can!</s></line>
+<line>And love him--howsomuch I can!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXII</number>
 
+<title>THE PEACOCK AND THE NIGHTINGALE</title>
 
-<line></poem><poem><number>CXII</number></line>
-
-<line><t>  THE PEACOCK AND THE NIGHTINGALE</t></line>
-
-<s>
-<line>How beautiful it is this evening-time!</line>
+<stanza><line>How beautiful it is this evening-time!</line>
 <line>The noblemen, they quaff the cool wine,</line>
 <line>And to their knee there comes a little stag,</line>
 <line>With golden peacock proudly on one shoulder,</line>
@@ -3245,18 +2913,15 @@
 <line>"List, lustrous peacock in thy blue and gold!</line>
 <line>If mine it were, that sheeny fan of thine,</line>
 <line>Its golden feathers all I would pluck out,</line>
-<line>And decorate these nobles round about."</s></line>
+<line>And decorate these nobles round about."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXIII</number>
 
+<title>THE FIRST TOAST</title>
 
-<line></poem><poem><number>CXIII</number></line>
-
-<line><t>  THE FIRST TOAST</t></line>
-
-<s>
-<line>Rising at the banquet table,</line>
+<stanza><line>Rising at the banquet table,</line>
 <line>Now acclaim we our first toast,</line>
 <line>To our God's high honour drink we,</line>
 <line>Only of His glory think we--</line>
@@ -3264,74 +2929,65 @@
 <line>To celebrate the Lord's great glory--</line>
 <line>What equal duty to be found?</line>
 <line>Say, all ye who sit around,</line>
-<line>Save truly to have earned the dinner!</s></line>
+<line>Save truly to have earned the dinner!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXIV</number>
 
+<title>THE HOD[vZ]A[33]</title>
 
-<line></poem><poem><number>CXIV</number></line>
-
-<line><t>  THE HOD[vZ]A[33]</t></line>
-
-<s>
-<line>In Mostar was a sheker-meyteph,[34]</line>
+<stanza><line>In Mostar was a sheker-meyteph,[34]</line>
 <line>Thirty young ladies were learning there,</line>
 <line>Omer-effendia was their hod[vz]a,</line>
-<line>And pretty Maru[vs]a their kalfa.[35]</s></line>
+<line>And pretty Maru[vs]a their kalfa.[35]</line></stanza>
 
-<line><s>  One day Maru[vs]a opened the Koran:</line>
+<stanza><line>One day Maru[vs]a opened the Koran:</line>
 <line>"Tell us now, hod[vz]a, tell what is written!'</line>
 <line>Hod[vz]a reads silently, then he speaks loudly:</line>
-<line>"First page--The hod[vz]a is going to marry!</s></line>
+<line>"First page--The hod[vz]a is going to marry!</line></stanza>
 
-<line><s>  "Willeth so Allah, so willeth hod[vz]a--thus on page two!</line>
+<stanza><line>"Willeth so Allah, so willeth hod[vz]a--thus on page two!</line>
 <line>And on page three--Whom will he marry, whom will he marry?</line>
-<line>Thus on page three--He'll marry the pretty Maru[vs]a."</s></line>
+<line>Thus on page three--He'll marry the pretty Maru[vs]a."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXV</number>
 
+<title>WOES</title>
 
-<line></poem><poem><number>CXV</number></line>
-
-<line><t>  WOES</t></line>
-
-<s>
-<line>Woe to the wolf that eats not flesh,</line>
+<stanza><line>Woe to the wolf that eats not flesh,</line>
 <line>Woe to the knight who drinks not wine,</line>
 <line>Woe to the maid who counteth love</line>
-<line>No gift divine.</s></line>
+<line>No gift divine.</line></stanza>
 
-<line><s>  Woe to legs with a foolish head,</line>
-<line>And woe to gilt on an unclean bed.</s></line>
+<stanza><line>Woe to legs with a foolish head,</line>
+<line>And woe to gilt on an unclean bed.</line></stanza>
 
-<line><s>  Woe to satin on humped shoulders.</s></line>
+<translator>Woe to satin on humped shoulders.</translator>
 
-<line><s>  Woe to the gun in a fearsome hand,</line>
+<stanza><line>Woe to the gun in a fearsome hand,</line>
 <line>Woe to the strong in that village where</line>
-<line>But cowards stand.</s></line>
+<line>But cowards stand.</line></stanza>
 
-<line><s>  Woe to the mother-in-law in the house of her son-in-law.</s></line>
+<translator>Woe to the mother-in-law in the house of her son-in-law.</translator>
 
-<line><s>  Woe to the wolf whom the ravens feed,</line>
+<stanza><line>Woe to the wolf whom the ravens feed,</line>
 <line>And to the knight who children doth need</line>
-<line>Him to defend.</s></line>
+<line>Him to defend.</line></stanza>
 
-<line><s>  Woe to the cock who strutteth on ice,</line>
+<stanza><line>Woe to the cock who strutteth on ice,</line>
 <line>Woe to the nightingale singing in the mill;</line>
-<line>In such a din, far better to be still!</s></line>
+<line>In such a din, far better to be still!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXVI</number>
 
+<title>HARD TO BELIEVE</title>
 
-<line></poem><poem><number>CXVI</number></line>
-
-<line><t>  HARD TO BELIEVE</t></line>
-
-<s>
-<line>A man ne'er born once told a tale</line>
+<stanza><line>A man ne'er born once told a tale</line>
 <line>To seven stout ghosts so hearty and hale;</line>
 <line>A ship went sailing 'mid greenwood trees,</line>
 <line>While the burning sun her crew did freeze.</line>
@@ -3344,18 +3000,15 @@
 <line>While near him scampered two roasted hares,</line>
 <line>Hotly pursued by three dogs in pairs.</line>
 <line>Then to the deaf man the dumb man spoke:</line>
-<line>"What a monstrous lie! but I hope it's a joke."</s></line>
+<line>"What a monstrous lie! but I hope it's a joke."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXVII</number>
 
+<title>THE CONDITIONS</title>
 
-<line></poem><poem><number>CXVII</number></line>
-
-<line><t>  THE CONDITIONS</t></line>
-
-<s>
-<line>Listen, listen man of God,</line>
+<stanza><line>Listen, listen man of God,</line>
 <line>If thou wouldest serve thy God,</line>
 <line>In thy lifetime do thou good,</line>
 <line>And revere thine elder brother,</line>
@@ -3369,52 +3022,43 @@
 <line>When he goeth to the Judgment,</line>
 <line>Where king's rank is unaccounted,</line>
 <line>Rich men can no more be proud,</line>
-<line>Poor men be no more despised.</s></line>
+<line>Poor men be no more despised.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXVIII</number>
 
+<title>PRAYER BEFORE GOING TO BED</title>
 
-<line></poem><poem><number>CXVIII</number></line>
-
-<line><t>  PRAYER BEFORE GOING TO BED</t></line>
-
-<s>
-<line>With a cross I lay me down,</line>
+<stanza><line>With a cross I lay me down,</line>
 <line>With a cross I get me up,</line>
 <line>All day long it doth protect,</line>
 <line>And angels in the night are near;</line>
 <line>Archangels, they shall ward my death,</line>
-<line>And God's my guard till all things end.</s></line>
+<line>And God's my guard till all things end.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXIX</number>
 
+<title>VISION BEFORE SLEEP</title>
 
-<line></poem><poem><number>CXIX</number></line>
-
-<line><t>  VISION BEFORE SLEEP</t></line>
-
-<s>
-<line>To sleep I laid me down,</line>
+<stanza><line>To sleep I laid me down,</line>
 <line>Making my prayer to God;</line>
 <line>I called upon His angels;</line>
 <line>Heaven was unveiled to me;</line>
 <line>The Seraphim, they worshipped there,</line>
 <line>And prayed this prayer to Christ our Lord:</line>
 <line>"While he doth rest, all through his sleep,</line>
-<line>Frome visions dark do Thou him keep."</s></line>
+<line>Frome visions dark do Thou him keep."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXX</number>
 
+<title>PRAYER IN THE FIELD</title>
 
-<line></poem><poem><number>CXX</number></line>
-
-<line><t>  PRAYER IN THE FIELD</t></line>
-
-<s>
-<line>We pray unto the Heavenly Lord,</line>
+<stanza><line>We pray unto the Heavenly Lord,</line>
 <line>Koledo, Koledo![36]</line>
 <line>Dew to send upon our fields,</line>
 <line>Koledo!</line>
@@ -3427,31 +3071,28 @@
 <line>To give health to sheep and cattle,</line>
 <line>Koledo!</line>
 <line>And pardon, joy and song to all,</line>
-<line>Koledo, Koledo!</s></line>
+<line>Koledo, Koledo!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXI</number>
 
+<title>A CHILD IN HEAVEN</title>
 
-<line></poem><poem><number>CXXI</number></line>
-
-<line><t>  A CHILD IN HEAVEN</t></line>
-
-<s>
-<line>Yesternight was born a Child,</line>
+<stanza><line>Yesternight was born a Child,</line>
 <line>But it passed from earth at morn,</line>
 <line>Unbaptized to heaven's door.</line>
 <line>"Open, heavenly watchman, open!"</line>
 <line>"Nay, foolish babe, thou must away!</line>
-<line>Sinful thou art, away, away!"</s></line>
+<line>Sinful thou art, away, away!"</line></stanza>
 
-<line><s>  "Foolish I am--but sinful, nay;</line>
+<stanza><line>"Foolish I am--but sinful, nay;</line>
 <line>Born yesternight, I died to-day;</line>
 <line>In the green forest I was born,</line>
 <line>Where no sponsor, where no priest;</line>
-<line>Therefore unbaptized I come!"</s></line>
+<line>Therefore unbaptized I come!"</line></stanza>
 
-<line><s>  Then the heavenly watcher answered:</line>
+<stanza><line>Then the heavenly watcher answered:</line>
 <line>"Go thou yet a short way on;</line>
 <line>Go on, my babe, and thou shalt find</line>
 <line>Three watersprings; from one to drink,</line>
@@ -3459,18 +3100,15 @@
 <line>The first shall breast-milk be to thee;</line>
 <line>The second is thy mother's tears,</line>
 <line>And from the third thou shalt baptized be,</line>
-<line>And joyful entrance gain to heaven."</s></line>
+<line>And joyful entrance gain to heaven."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXII</number>
 
+<title>CHRISTMAS</title>
 
-<line></poem><poem><number>CXXII</number></line>
-
-<line><t>  CHRISTMAS</t></line>
-
-<s>
-<line>Why trembleth so the earth,</line>
+<stanza><line>Why trembleth so the earth,</line>
 <line>Set in this sphere of blue?</line>
 <line>Christ our God was born hereon,</line>
 <line>He, the Virgin's Holy Son,</line>
@@ -3478,18 +3116,15 @@
 <line>And us sinners on the earth.</line>
 <line>In awe when He shall come to judge,</line>
 <line>We all shall stand before Him then,</line>
-<line>Both righteous and unrighteous men.</s></line>
+<line>Both righteous and unrighteous men.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXIII</number>
 
+<title>CHRIST THINKS OF HIS MOTHER</title>
 
-<line></poem><poem><number>CXXIII</number></line>
-
-<line><t>  CHRIST THINKS OF HIS MOTHER</t></line>
-
-<s>
-<line>On angel wing in upward flight</line>
+<stanza><line>On angel wing in upward flight</line>
 <line>Rise soul and body of our Lord,</line>
 <line>When piercing heaven with high gaze,</line>
 <line>He calleth for one down to go,</line>
@@ -3504,18 +3139,15 @@
 <line>Let not thy heart with fear be filled;</line>
 <line>From the tomb thy Son is risen,</line>
 <line>Risen to the Father's throne,</line>
-<line>Saving men from Death's dominion."</s></line>
+<line>Saving men from Death's dominion."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXIV</number>
 
+<title>THE BLESSED MARY AND JOHN THE BAPTIST</title>
 
-<line></poem><poem><number>CXXIV</number></line>
-
-<line><t>  THE BLESSED MARY AND JOHN THE BAPTIST</t></line>
-
-<s>
-<line>The Blessed Mary sent an angel</line>
+<stanza><line>The Blessed Mary sent an angel</line>
 <line>Unto John the Camel-girdled--</line>
 <line>"God's wish it is, and my wish too,</line>
 <line>That thou shouldst now my Son baptize."</line>
@@ -3530,18 +3162,15 @@
 <line>Man's sin was taken all away!</line>
 <line>Our salvation is in heaven!</line>
 <line>Save, O God, all trusting souls,</line>
-<line>Save them from the devil's toils.</s></line>
+<line>Save them from the devil's toils.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXV</number>
 
+<title>THE HOLY MOTHER</title>
 
-<line></poem><poem><number>CXXV</number></line>
-
-<line><t>  THE HOLY MOTHER</t></line>
-
-<s>
-<line>Sadly walked the Holy Mother</line>
+<stanza><line>Sadly walked the Holy Mother</line>
 <line>On the Holy Mountain.</line>
 <line>Suddenly espied she something</line>
 <line>Brightly shining in the dust:</line>
@@ -3561,18 +3190,15 @@
 <line>Whence there sprang all lovely flowers,</line>
 <line>And angels, coming down to gather,</line>
 <line>Made them into wreathes and garlands</line>
-<line>That they might adorn all heaven."</s></line>
+<line>That they might adorn all heaven."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXVI</number>
 
+<title>DREAM OF THE HOLY VIRGIN</title>
 
-<line></poem><poem><number>CXXVI</number></line>
-
-<line><t>  DREAM OF THE HOLY VIRGIN</t></line>
-
-<s>
-<line>The Holy Virgin dreaming slept,</line>
+<stanza><line>The Holy Virgin dreaming slept,</line>
 <line>And in her dream a great tree grew,</line>
 <line>Its branches from her own heart crept,</line>
 <line>O'er spreading earth, north, south, east, west,</line>
@@ -3594,18 +3220,15 @@
 <line>Sinners He'll save from evil's thrall.</line>
 <line>'That height spire-piercing heaven's blue?'</line>
 <line>To God the Father Christ shall rise</line>
-<line>Passing from earth and fleshly view."</s></line>
+<line>Passing from earth and fleshly view."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXVII</number>
 
+<title>MOTHER AT THE TOMB OF HER SON</title>
 
-<line></poem><poem><number>CXXVII</number></line>
-
-<line><t>  MOTHER AT THE TOMB OF HER SON</t></line>
-
-<s>
-<line>Alas! my son, how fareth it with thee,</line>
+<stanza><line>Alas! my son, how fareth it with thee,</line>
 <line>In thy new dwelling, new and strange and dark?</line>
 <line>Strange thy dwelling without windows!</line>
 <line>At daybreak, Vinko, thy sad mother rose,</line>
@@ -3629,18 +3252,15 @@
 <line>Down in thy dwelling, oh my son,</line>
 <line>Say, is it cold, my Sun, my Sun;</line>
 <line>If it be cold as is my breast</line>
-<line>It is too cold, too cold to rest.[37]</s></line>
+<line>It is too cold, too cold to rest.[37]</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXVIII</number>
 
+<title>MOTHER OVER HER DEAD SON</title>
 
-<line></poem><poem><number>CXXVIII</number></line>
-
-<line><t>  MOTHER OVER HER DEAD SON</t></line>
-
-<s>
-<line>Where art thou flying? Where, oh where?</line>
+<stanza><line>Where art thou flying? Where, oh where?</line>
 <line>My falcon?</line>
 <line>To what silent land and lone?</line>
 <line>Say, hero mine!</line>
@@ -3658,18 +3278,15 @@
 <line>O blank, blank day!</line>
 <line>Better, child, I went to thee, than to stay</line>
 <line>As mother here</line>
-<line>Having lost the light of day!</s></line>
+<line>Having lost the light of day!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXIX</number>
 
+<title>MOTHER'S LAMENT FOR HER SON</title>
 
-<line></poem><poem><number>CXXIX</number></line>
-
-<line><t>  MOTHER'S LAMENT FOR HER SON</t></line>
-
-<s>
-<line>Wherefore do I marvel, wherefore need I wonder?</line>
+<stanza><line>Wherefore do I marvel, wherefore need I wonder?</line>
 <line>Traveller the dearest!</line>
 <line>That through this lower world already thou hast sped,</line>
 <line>Ray of light the fleetest!</line>
@@ -3690,18 +3307,15 @@
 <line>Greet them all, the rich and poor,</line>
 <line>Best of all my riches!</line>
 <line>Salute the noblemen and princes.</line>
-<line>Thou my prince of princes!</s></line>
+<line>Thou my prince of princes!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXX</number>
 
+<title>GREATEST GRIEF FOR A BROTHER</title>
 
-<line></poem><poem><number>CXXX</number></line>
-
-<line><t>  GREATEST GRIEF FOR A BROTHER</t></line>
-
-<s>
-<line>O'er Neven woods the sun went down,</line>
+<stanza><line>O'er Neven woods the sun went down,</line>
 <line>The sun went down behind the forest,</line>
 <line>As came the heroes off the sea.</line>
 <line>The young wife counted anxiously,</line>
@@ -3718,18 +3332,15 @@
 <line>She cuts her hair, it grows again;</line>
 <line>She wounds her cheeks, the wounds do heal;</line>
 <line>But none can heal those hurt blind eyes,</line>
-<line>Nor yet her heart for her lost brother.</s></line>
+<line>Nor yet her heart for her lost brother.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXI</number>
 
+<title>THE DEATH CHAMBER OF HER FATHER-IN-LAW</title>
 
-<line></poem><poem><number>CXXXI</number></line>
-
-<line><t>  THE DEATH CHAMBER OF HER FATHER-IN-LAW</t></line>
-
-<s>
-<line>Why art thou thus attired?</line>
+<stanza><line>Why art thou thus attired?</line>
 <line>My more than father!</line>
 <line>Why art thou thus bedight, so knightly armed?</line>
 <line>My fearless knight!</line>
@@ -3756,18 +3367,15 @@
 <line>Thee will they greet: we in their thoughts shall be,</line>
 <line>O heavenly harmony!</line>
 <line>But thou wilt stay, and ne'er return to us,</line>
-<line>O woe, O woe to us!</s></line>
+<line>O woe, O woe to us!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXII</number>
 
+<title>KOLEDO</title>
 
-<line></poem><poem><number>CXXXII</number></line>
-
-<line><t>  KOLEDO</t></line>
-
-<s>
-<line>The king came to court our Margaret fair,</line>
+<stanza><line>The king came to court our Margaret fair,</line>
 <line>Koledo, Koledo!</line>
 <line>And mother sang clear to our Margaret fair:</line>
 <line>Koledo, Koledo!</line>
@@ -3784,18 +3392,15 @@
 <line>'Tis Jesus Himself alone doth bind me,</line>
 <line>Koledo, Koledo!</line>
 <line>I've vowed to Him, true shall He find me,</line>
-<line>Koledo, Koledo!"</s></line>
+<line>Koledo, Koledo!"</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXIII</number>
 
+<title>A HORSE'S COMPLAINT</title>
 
-<line></poem><poem><number>CXXXIII</number></line>
-
-<line><t>  A HORSE'S COMPLAINT</t></line>
-
-<s>
-<line>A horse left his knight on Kossovo,</line>
+<stanza><line>A horse left his knight on Kossovo,</line>
 <line>On a dreadsome place on Kossovo.</line>
 <line>Finding his steed, the knight put question:</line>
 <line>"O horse of mine, my greatest treasure,</line>
@@ -3819,62 +3424,53 @@
 <line>Then angrily I paw the earth,</line>
 <line>And eat the grass down to its root,</line>
 <line>And drink the water dry as stone,</line>
-<line>While thou dost leave me here alone."</s></line>
+<line>While thou dost leave me here alone."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXIV</number>
 
+<title>A DANCE AT VIDIN</title>
 
-<line></poem><poem><number>CXXXIV</number></line>
-
-<line><t>  A DANCE AT VIDIN</t></line>
-
-<s>
-<line>One day at Vidin they did dance the Kolo:</line>
+<stanza><line>One day at Vidin they did dance the Kolo:</line>
 <line>"Oh, let me, mother, go and see!"</line>
 <line>"There is thy brother, go with him!"</line>
 <line>"My brother! he can stay at home,</line>
-<line>I do not want to go with him."</s></line>
+<line>I do not want to go with him."</line></stanza>
 
-<line><s>  One day at Vidin they did dance the Kolo:</line>
+<stanza><line>One day at Vidin they did dance the Kolo:</line>
 <line>"Oh! let me, mother, go and see!"</line>
 <line>"There is thy father, go with him!"</line>
 <line>"Oh, let my father stay at home,</line>
-<line>I do not want to go with him."</s></line>
+<line>I do not want to go with him."</line></stanza>
 
-<line><s>  One day at Vidin they did dance the Kolo:</line>
+<stanza><line>One day at Vidin they did dance the Kolo:</line>
 <line>"Oh! let me, mother, go and see!"</line>
 <line>"There is thy darling, go with him!"</line>
 <line>"Oh, come, my sweetheart, come with me!</line>
-<line>I'll dance the Kolo there with thee!"</s></line>
+<line>I'll dance the Kolo there with thee!"</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXV</number>
 
+<title>THE PRICE</title>
 
-<line></poem><poem><number>CXXXV</number></line>
-
-<line><t>  THE PRICE</t></line>
-
-<s>
-<line>How many towns from here to the coast?</line>
+<stanza><line>How many towns from here to the coast?</line>
 <line>Seventy-seven sunlit towns,</line>
 <line>And villages green a thousand!</line>
 <line>And all of these I'd give for the street</line>
 <line>Where I my sweetheart first did meet,</line>
 <line>And e'en the street I'd give as the price</line>
-<line>To meet him again--aye, but for a trice!</s></line>
+<line>To meet him again--aye, but for a trice!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXVI</number>
 
+<title>PREFERENCES</title>
 
-<line></poem><poem><number>CXXXVI</number></line>
-
-<line><t>  PREFERENCES</t></line>
-
-<s>
-<line>Three maids were talking on a night,</line>
+<stanza><line>Three maids were talking on a night,</line>
 <line>Upon a silvery moonlight night.</line>
 <line>They walked and talked of many things,</line>
 <line>They asked what each preferred to have.</line>
@@ -3888,18 +3484,15 @@
 <line>My darling would rebuild it up;</line>
 <line>The velvet would with time wear out,</line>
 <line>My darling he could buy me more--</line>
-<line>A sweetheart true is richer store!"</s></line>
+<line>A sweetheart true is richer store!"</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXVII</number>
 
+<title>A BRIDE'S DEVOTION</title>
 
-<line></poem><poem><number>CXXXVII</number></line>
-
-<line><t>  A BRIDE'S DEVOTION</t></line>
-
-<s>
-<line>A Bride most fair fed a swan and a lion,</line>
+<stanza><line>A Bride most fair fed a swan and a lion,</line>
 <line>A swan and a lion and a falcon grey.</line>
 <line>To her came merchants from far away:</line>
 <line>"Sell us, sweet maid, your swan and your lion,</line>
@@ -3910,72 +3503,63 @@
 <line>And for my true friend who best man shall be,</line>
 <line>This white swan I keep, and for none but he!</line>
 <line>But this falcon grey ye covet so much,</line>
-<line>'Tis my true love's own; none shall it touch."</s></line>
+<line>'Tis my true love's own; none shall it touch."</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXVIII</number>
 
+<title>FIDELITY</title>
 
-<line></poem><poem><number>CXXXVIII</number></line>
-
-<line><t>  FIDELITY</t></line>
-
-<s>
-<line>A youth to God did pray,</line>
+<stanza><line>A youth to God did pray,</line>
 <line>About his sweetheart dear,</line>
 <line>That he the gem might be</line>
-<line>Which trembled in her ear.</s></line>
+<line>Which trembled in her ear.</line></stanza>
 
-<line><s>  He wished to be the beads</line>
+<stanza><line>He wished to be the beads</line>
 <line>Reposing on her breast,</line>
 <line>That he might hear her say</line>
-<line>That she loved him best.</s></line>
+<line>That she loved him best.</line></stanza>
 
-<line><s>  The prayer he prayed was heard</line>
+<stanza><line>The prayer he prayed was heard</line>
 <line>A pearl beside the shore,</line>
 <line>His darling picked him up,</line>
-<line>And on her necklet bore.</s></line>
+<line>And on her necklet bore.</line></stanza>
 
-<line><s>  He listened and he heard</line>
+<stanza><line>He listened and he heard</line>
 <line>How true her loving heart:</line>
 <line>She told the other maids</line>
-<line>She ne'er from him would part.</s></line>
+<line>She ne'er from him would part.</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXXXIX</number>
 
+<title>A SISTER'S LAMENT</title>
 
-<line></poem><poem><number>CXXXIX</number></line>
-
-<line><t>  A SISTER'S LAMENT</t></line>
-
-<s>
-<line>Sister was I of kingly brothers three,</line>
+<stanza><line>Sister was I of kingly brothers three,</line>
 <line>But now my kings are gone from me,</line>
-<line>Woe, woe, woe!</s></line>
+<line>Woe, woe, woe!</line></stanza>
 
-<line><s>  Better kingdoms they are asking,</line>
+<stanza><line>Better kingdoms they are asking,</line>
 <line>Better work than this world's tasking,</line>
 <line>And God will grant it, where they go,</line>
 <line>Better service He'll bestow,</line>
-<line>But for me, alas! Oh! woe!</s></line>
+<line>But for me, alas! Oh! woe!</line></stanza>
 
-<line><s>  So kingly brothers ne'er were known,</line>
+<stanza><line>So kingly brothers ne'er were known,</line>
 <line>Now my heart breaketh here alone.</line>
 <line>This world for me too dark is now,</line>
 <line>And I took dark for it, I trow!</line>
-<line>Woe, woe, woe!</s></line>
+<line>Woe, woe, woe!</line></stanza>
 
-<line><s>                             J. W. W.</s></line>
+<translator>J. W. W.</translator></poem>
 
+<poem><number>CXL</number>
 
+<title>THE PRAYER OF KARAGEORGE'S LADY[38]</title>
 
-<line></poem><poem><number>CXL</number></line>
-
-<line><t>  THE PRAYER OF KARAGEORGE'S LADY[38]</t></line>
-
-<s>
-<line>Prayed of God the Karageorge's Lady!</line>
+<stanza><line>Prayed of God the Karageorge's Lady!</line>
 <line>"Give me, God, to bear a maiden lovely,</line>
 <line>Patternized by Carapi['c]a Vasa,</line>
 <line>Grant us, O God, to choose name of beauty,</line>
@@ -3996,130 +3580,109 @@
 <line>When Goldie knows how to embroider,</line>
 <line>Golden frame her mother will then make her,</line>
 <line>Of gold will she make her spinning trinket,</line>
-<line>As she's Goldie, may her work be golden."[39]</s></line>
+<line>As she's Goldie, may her work be golden."[39]</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLI</number>
 
+<title>THOU ART EVER, EVER MINE[40]</title>
 
-<line></poem><poem><number>CXLI</number></line>
-
-<line><t>  THOU ART EVER, EVER MINE[40]</t></line>
-
-<s>
-<line>O my girl, O my soul,</line>
+<stanza><line>O my girl, O my soul,</line>
 <line>What does mother say to you?</line>
 <line>Will she marry you to me?</line>
 <line>Her son-in-law can I be?</line>
 <line>She might give you, she might not,</line>
-<line>Thou art ever, ever mine!</s></line>
+<line>Thou art ever, ever mine!</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLII</number>
 
+<title>SEA MERCHANT[41]</title>
 
-<line></poem><poem><number>CXLII</number></line>
-
-<line><t>  SEA MERCHANT[41]</t></line>
-
-<s>
-<line>Listen, my girl, listen, my beauty!</line>
+<stanza><line>Listen, my girl, listen, my beauty!</line>
 <line>Thy eyes are corals in the sea,</line>
 <line>I am a merchant on the sea</line>
-<line>Buying the riches of the sea.</s></line>
+<line>Buying the riches of the sea.</line></stanza>
 
-<line><s>  Listen, my girl, listen, my beauty!</line>
+<stanza><line>Listen, my girl, listen, my beauty!</line>
 <line>Thy teeth are tiniest pearls,</line>
 <line>I am a merchant on the sea</line>
-<line>Buying tiniest pearls of the sea.</s></line>
+<line>Buying tiniest pearls of the sea.</line></stanza>
 
-<line><s>  Listen, my girl, listen, my beauty!</line>
+<stanza><line>Listen, my girl, listen, my beauty!</line>
 <line>Thy hands are whiter than the wool,</line>
 <line>I am a merchant on the sea</line>
-<line>Trading in wool o'er the sea.</s></line>
+<line>Trading in wool o'er the sea.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLIII</number>
 
+<title>ANGELA AS WATCHMAN[42]</title>
 
-<line></poem><poem><number>CXLIII</number></line>
-
-<line><t>  ANGELA AS WATCHMAN[42]</t></line>
-
-<s>
-<line>Falcon is winging high,</line>
+<stanza><line>Falcon is winging high,</line>
 <line>But the fortress gates are higher;</line>
 <line>And Angela is watching there</line>
 <line>Aureoled in sunshine,</line>
 <line>Belted with the moonbeams,</line>
-<line>And flowering with the stars.</s></line>
+<line>And flowering with the stars.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLIV</number>
 
+<title>A LAD AND HIS BETROTHED[43]</title>
 
-<line></poem><poem><number>CXLIV</number></line>
-
-<line><t>  A LAD AND HIS BETROTHED[43]</t></line>
-
-<s>
-<line>Little lad is wandering</line>
+<stanza><line>Little lad is wandering</line>
 <line>Through a wooded copse,</line>
 <line>Strutting with a green bough</line>
 <line>Walking down the slopes.</line>
 <line>Looking on a courtyard</line>
-<line>Sees young Jana sweeping:</s></line>
+<line>Sees young Jana sweeping:</line></stanza>
 
-<line><s>  "O thou pearl, my sweet one,</line>
+<stanza><line>"O thou pearl, my sweet one,</line>
 <line>Whence my ring in keeping?"</line>
 <line>Thus she answered proudly:</line>
 <line>"May thy brother know, perchance,</line>
 <line>And should it bring God's blessing</line>
-<line>He'll join our wedding dance."</s></line>
+<line>He'll join our wedding dance."</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLV</number>
 
+<title>DIREFUL SICKNESS[44]</title>
 
-<line></poem><poem><number>CXLV</number></line>
-
-<line><t>  DIREFUL SICKNESS[44]</t></line>
-
-<s>
-<line>What shall I do, what shall I do?</line>
+<stanza><line>What shall I do, what shall I do?</line>
 <line>My nights are sleepless,</line>
 <line>My heart is so restless--</line>
 <line>Ah, sorrow, anew,</line>
 <line>I'll die,</line>
-<line>My love, for you.</s></line>
+<line>My love, for you.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLVI</number>
 
+<title>ALL AS IT SHOULD BE[45]</title>
 
-<line></poem><poem><number>CXLVI</number></line>
-
-<line><t>  ALL AS IT SHOULD BE[45]</t></line>
-
-<s>
-<line>When the sun sets at even,</line>
+<stanza><line>When the sun sets at even,</line>
 <line>My love is just coming to me</line>
 <line>And when the moon has passed Heaven</line>
 <line>My lover is going from me.</line>
 <line>So the paths are all darken'd with shadow,</line>
 <line>Just as it should be, should be</line>
-<line>In shadow that no one can see.</s></line>
+<line>In shadow that no one can see.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLVII</number>
 
+<title>BEAUTY PREENS HERSELF[46]</title>
 
-<line></poem><poem><number>CXLVII</number></line>
-
-<line><t>  BEAUTY PREENS HERSELF[46]</t></line>
-
-<s>
-<line>For whom powders face so lovely, Beauty?</line>
+<stanza><line>For whom powders face so lovely, Beauty?</line>
 <line>For whom has she dropped her hair on shoulder,</line>
 <line>For whom is she wearing charms in bosom?</line>
 <line>Is it for Valach, or for a Magyar?</line>
@@ -4127,114 +3690,93 @@
 <line>It is for this Stojan, mighty reaper,</line>
 <line>Who in Kolo always takes the leadship,</line>
 <line>When he's playing, every heart is touched.</line>
-<line>When he's dancing, dances like a puppet.</s></line>
+<line>When he's dancing, dances like a puppet.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLVIII</number>
 
+<title>HARVEST SONG[47]</title>
 
-<line></poem><poem><number>CXLVIII</number></line>
-
-<line><t>  HARVEST SONG[47]</t></line>
-
-<s>
-<line>Hurry, hurry, robust harvesters,</line>
+<stanza><line>Hurry, hurry, robust harvesters,</line>
 <line>At field's end there's water and a maiden,</line>
 <line>Cooling water, and a maiden youthful,</line>
-<line>Drink ye water, and embrace your maiden.</s></line>
+<line>Drink ye water, and embrace your maiden.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CXLIX</number>
 
+<title>LONG NIGHT[48]</title>
 
-<line></poem><poem><number>CXLIX</number></line>
-
-<line><t>  LONG NIGHT[48]</t></line>
-
-<s>
-<line>These are long nights, these are long nights,</line>
+<stanza><line>These are long nights, these are long nights,</line>
 <line>For him who does not kiss black eyes,</line>
 <line>He it is who cannot slumber,</line>
-<line>For his heart is pierced with sorrow.</s></line>
+<line>For his heart is pierced with sorrow.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CL</number>
 
+<title>EYEBROW LURE[49]</title>
 
-<line></poem><poem><number>CL</number></line>
-
-<line><t>  EYEBROW LURE[49]</t></line>
-
-<s>
-<line>Oh, my girl, my sweetest flower,</line>
+<stanza><line>Oh, my girl, my sweetest flower,</line>
 <line>Curl not ends of eyebrow bower,</line>
 <line>Do not grieve your youthful laddies,</line>
 <line>As your way doth torment me:</line>
 <line>Leading horse, I wander barefoot--</line>
 <line>Carrying boots, I wander barefoot--</line>
 <line>Bearing bread, I cannot eat it--</line>
-<line>Treading water, cannot drink it.</s></line>
+<line>Treading water, cannot drink it.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLI</number>
 
+<title>GIRLHOOD[50]</title>
 
-<line></poem><poem><number>CLI</number></line>
-
-<line><t>  GIRLHOOD[50]</t></line>
-
-<s>
-<line>Girlhood was my golden tsardom!</line>
+<stanza><line>Girlhood was my golden tsardom!</line>
 <line>Tsar was I while girlhood lasted;</line>
 <line>Ah, if I could turn me backward,</line>
-<line>Well I know how I'd live girlhood.</s></line>
+<line>Well I know how I'd live girlhood.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLII</number>
 
+<title>YOUTH WITH YOUTH[51]</title>
 
-<line></poem><poem><number>CLII</number></line>
-
-<line><t>  YOUTH WITH YOUTH[51]</t></line>
-
-<s>
-<line>On the river Sitnitsa</line>
+<stanza><line>On the river Sitnitsa</line>
 <line>Little green fir standeth!</line>
 <line>Who's young and stripling,</line>
 <line>Youth with green youth sleepeth.</line>
 <line>Ah, but see that youthful Jovo,</line>
 <line>All alone is he,</line>
 <line>Seeing that the youthful Mara</line>
-<line>Joins him secretly.</s></line>
+<line>Joins him secretly.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLIII</number>
 
+<title>COME, MY LOVER, TO ME[52]</title>
 
-<line></poem><poem><number>CLIII</number></line>
-
-<line><t>  COME, MY LOVER, TO ME[52]</t></line>
-
-<s>
-<line>Full and thick is shadow,</line>
+<stanza><line>Full and thick is shadow,</line>
 <line>Come, my love, to meadow,</line>
 <line>For I've a verdant garden,</line>
 <line>Red roses for a warden;</line>
 <line>Golden kerchief will I make thee,</line>
 <line>Christmas gift of love from me,</line>
 <line>To carry so splendidly</line>
-<line>In the memory of thy darling.</s></line>
+<line>In the memory of thy darling.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLIV</number>
 
+<title>SIGHS[53]</title>
 
-<line></poem><poem><number>CLIV</number></line>
-
-<line><t>  SIGHS[53]</t></line>
-
-<s>
-<line>Oh my heart, I feel me sighing,</line>
+<stanza><line>Oh my heart, I feel me sighing,</line>
 <line>Methinks that my lover calls me to him,</line>
 <line>But in truth my sweetheart's love hath ceased.</line>
 <line>Cried out falcon from a fir branch lofty:</line>
@@ -4245,33 +3787,27 @@
 <line>I have made for thee a hiding,</line>
 <line>Half my bed and half my arm,</line>
 <line>Half a pillow, half a cover,</line>
-<line>Half a cushion, heart of mine in bosom.'"</s></line>
+<line>Half a cushion, heart of mine in bosom.'"</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLV</number>
 
+<title>A BOUQUET OF LITTLE ROSES[54]</title>
 
-<line></poem><poem><number>CLV</number></line>
-
-<line><t>  A BOUQUET OF LITTLE ROSES[54]</t></line>
-
-<s>
-<line>O girl of my soul, my soul,</line>
+<stanza><line>O girl of my soul, my soul,</line>
 <line>Take this bunch of rosebuds neat,</line>
 <line>Should thy bouquet fade and fail,</line>
 <line>Come once more, my soul, to me</line>
-<line>I will pluck again for thee.</s></line>
+<line>I will pluck again for thee.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLVI</number>
 
+<title>DREAM INTERPRETATION[55]</title>
 
-<line></poem><poem><number>CLVI</number></line>
-
-<line><t>  DREAM INTERPRETATION[55]</t></line>
-
-<s>
-<line>Darling sweetheart on his free arm sleeping,</line>
+<stanza><line>Darling sweetheart on his free arm sleeping,</line>
 <line>Makes he motion to sound gong in waking:</line>
 <line>"Awake, my dear, dearer than mine own eyes,</line>
 <line>Last night I a strange dream was a-dreaming:</line>
@@ -4286,18 +3822,15 @@
 <line>Must mean our tears, thine with mine are mingling;</line>
 <line>That your watch in pieces four was broken</line>
 <line>Means in truth that our hearts will be breaking</line>
-<line>When we're forced to take leave of each other."</s></line>
+<line>When we're forced to take leave of each other."</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLVII</number>
 
+<title>WITH SWEETHEART NIGHTS ARE SHORTEST[56]</title>
 
-<line></poem><poem><number>CLVII</number></line>
-
-<line><t>  WITH SWEETHEART NIGHTS ARE SHORTEST[56]</t></line>
-
-<s>
-<line>Cyclone downward rumbling,</line>
+<stanza><line>Cyclone downward rumbling,</line>
 <line>All the castle trembling.</line>
 <line>In castle is a girl</line>
 <line>Crying, never ceasing:</line>
@@ -4305,27 +3838,27 @@
 <line>When sleeping near to papa;</line>
 <line>On nine soft mattresses,</line>
 <line>On nine softest cushions,</line>
-<line>'Neath nine fine coverlets."</s></line>
+<line>'Neath nine fine coverlets."</line></stanza>
 
-<line><s>  "Alas, how long nights are!</line>
+<stanza><line>"Alas, how long nights are!</line>
 <line>When sleeping near to mother;</line>
 <line>On nine soft mattresses,</line>
 <line>On nine softest cushions,</line>
-<line>'Neath nine fine coverlets."</s></line>
+<line>'Neath nine fine coverlets."</line></stanza>
 
-<line><s>  "Alas, how long nights are!</line>
+<stanza><line>"Alas, how long nights are!</line>
 <line>When sleeping near to brother;</line>
 <line>On nine soft mattresses,</line>
 <line>On nine softest cushions,</line>
-<line>'Neath nine fine coverlets."</s></line>
+<line>'Neath nine fine coverlets."</line></stanza>
 
-<line><s>  "Alas, how long nights are!</line>
+<stanza><line>"Alas, how long nights are!</line>
 <line>When sleeping near to sister;</line>
 <line>On nine soft mattresses,</line>
 <line>On nine softest cushions,</line>
-<line>'Neath nine fine coverlets."</s></line>
+<line>'Neath nine fine coverlets."</line></stanza>
 
-<line><s>  Cyclone downward rumbling,</line>
+<stanza><line>Cyclone downward rumbling,</line>
 <line>All the castle trembling.</line>
 <line>In castle is a girl</line>
 <line>Crying, never ceasing:</line>
@@ -4333,18 +3866,15 @@
 <line>Sleeping with my darling,</line>
 <line>Just on single mattress,</line>
 <line>On a single pillow,</line>
-<line>'Neath a single cover."</s></line>
+<line>'Neath a single cover."</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLVIII</number>
 
+<title>DAWN AWAKENED LAZAR[57]</title>
 
-<line></poem><poem><number>CLVIII</number></line>
-
-<line><t>  DAWN AWAKENED LAZAR[57]</t></line>
-
-<s>
-<line>'Wakening Lazar dawn was stealing:</line>
+<stanza><line>'Wakening Lazar dawn was stealing:</line>
 <line>"Get up, Lazar; rise up, Lazar!</line>
 <line>Horse of thine has thirst for water."</line>
 <line>Forthwith up leaps Lazar quickly,</line>
@@ -4353,18 +3883,15 @@
 <line>But at water's edge was maiden,</line>
 <line>With his foot he touched hers gently,</line>
 <line>Kissed the while her black eyes sparkling,</line>
-<line>Clasping her about the bosom.</s></line>
+<line>Clasping her about the bosom.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLIX</number>
 
+<title>A DEVILISH YOUNG MATRON[58]</title>
 
-<line></poem><poem><number>CLIX</number></line>
-
-<line><t>  A DEVILISH YOUNG MATRON[58]</t></line>
-
-<s>
-<line>When I lived a girl with mother,</line>
+<stanza><line>When I lived a girl with mother,</line>
 <line>Good advice was given me often,</line>
 <line>That I should not drink the red wine,</line>
 <line>That I should not wear green wreathlets,</line>
@@ -4372,18 +3899,15 @@
 <line>But I poor girl deeply thinking over:</line>
 <line>There's no red cheek without red wine sparkling,</line>
 <line>There's no pleasure without green wreath glistening,</line>
-<line>Neither amour without stranger wooer.</s></line>
+<line>Neither amour without stranger wooer.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLX</number>
 
+<title>GIRL IS ETERNAL POSSESSION[59]</title>
 
-<line></poem><poem><number>CLX</number></line>
-
-<line><t>  GIRL IS ETERNAL POSSESSION[59]</t></line>
-
-<s>
-<line>In a garden works a maiden,</line>
+<stanza><line>In a garden works a maiden,</line>
 <line>Digging furrow, water decoy,</line>
 <line>To the garden 'luring water,</line>
 <line>To give drink to early flowers,</line>
@@ -4404,18 +3928,15 @@
 <line>"Should I pluck a bunch of flowers?</line>
 <line>Should I kiss a sleeping maiden?</line>
 <line>Bunch of flowers lasts till mid-day,</line>
-<line>But a maiden lasts forever."</s></line>
+<line>But a maiden lasts forever."</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXI</number>
 
+<title>JOVO AND MARIA[60]</title>
 
-<line></poem><poem><number>CLXI</number></line>
-
-<line><t>  JOVO AND MARIA[60]</t></line>
-
-<s>
-<line>Breeze fans up o'er roses 'long the meadow,</line>
+<stanza><line>Breeze fans up o'er roses 'long the meadow,</line>
 <line>To the rich white tent of Jovo, youthful,</line>
 <line>Where there's Jovo with Maria sitting:</line>
 <line>Jovo writing and Maria sewing;</line>
@@ -4430,113 +3951,92 @@
 <line>Dearer to me is thy soul much dearer,</line>
 <line>Than are altogether four of brothers;</line>
 <line>Softer to me thy own right hand doughty,</line>
-<line>Than four softest pillows of my choosing."</s></line>
+<line>Than four softest pillows of my choosing."</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXII</number>
 
+<title>ROSE TREE[61]</title>
 
-<line></poem><poem><number>CLXII</number></line>
-
-<line><t>  ROSE TREE[61]</t></line>
-
-<s>
-<line>Planted rose-tree midst of Novi-Sad town,</line>
+<stanza><line>Planted rose-tree midst of Novi-Sad town,</line>
 <line>O my rose-bud, O my sorrow rose tree,</line>
 <line>Cannot pick you, neither give you sweetheart:</line>
 <line>For my sweetie vents her anger on me,</line>
 <line>Gliding past my courtyard stealthy,</line>
-<line>Like the slave who passes Turkish graveyard.</s></line>
+<line>Like the slave who passes Turkish graveyard.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXIII</number>
 
+<title>DARLING'S WRATH[62]</title>
 
-<line></poem><poem><number>CLXIII</number></line>
-
-<line><t>  DARLING'S WRATH[62]</t></line>
-
-<s>
-<line>O my darling, be not wrathful;</line>
+<stanza><line>O my darling, be not wrathful;</line>
 <line>Should I, myself, show my hot displeasure,</line>
 <line>All of Bosnia never could appease us,</line>
-<line>Not all Bosnia nor the Hercegovina.</s></line>
+<line>Not all Bosnia nor the Hercegovina.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXIV</number>
 
+<title>LAD PIERCED WITH ARROW[63]</title>
 
-<line></poem><poem><number>CLXIV</number></line>
-
-<line><t>  LAD PIERCED WITH ARROW[63]</t></line>
-
-<s>
-<line>Alas hero I'm with arrow pierced,</line>
+<stanza><line>Alas hero I'm with arrow pierced,</line>
 <line>O my Yetsa, thy white face is guilty,</line>
 <line>Thy black eye-balls are the piercing arrows,</line>
 <line>Thy white arms are now a very torment.</line>
 <line>Come, my love bird, to my white court homing,</line>
 <line>Come to heal my heart's own sore displeasure,</line>
 <line>To bind up my wounds with thy throat's whiteness,</line>
-<line>To salve suffering with thy honey kisses.</s></line>
+<line>To salve suffering with thy honey kisses.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXV</number>
 
+<title>NOUGHT BUT KISSES[64]</title>
 
-<line></poem><poem><number>CLXV</number></line>
-
-<line><t>  NOUGHT BUT KISSES[64]</t></line>
-
-<s>
-<line>Up and down went youth in mountain,</line>
+<stanza><line>Up and down went youth in mountain,</line>
 <line>In a garden, girl round fountain;</line>
 <line>On her threw he hawthorn red,--</line>
 <line>Lightly answering, blackthorn sped,--</line>
 <line>Think you they intend to kill?</line>
-<line>Nought but kisses that they will.</s></line>
+<line>Nought but kisses that they will.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXVI</number>
 
+<title>UNITED[65]</title>
 
-<line></poem><poem><number>CLXVI</number></line>
-
-<line><t>  UNITED[65]</t></line>
-
-<s>
-<line>Little girl, the small black-eyed,</line>
+<stanza><line>Little girl, the small black-eyed,</line>
 <line>Hero, wondering stupefied:</line>
 <line>'Had we means of barter!</line>
 <line>To lead us near together!</line>
 <line>I my life long would not quit her,</line>
-<line>None could make our friendship wither.'</s></line>
+<line>None could make our friendship wither.'</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXVII</number>
 
+<title>GIRL PLEADS WITH JEWELLER[66]</title>
 
-<line></poem><poem><number>CLXVII</number></line>
-
-<line><t>  GIRL PLEADS WITH JEWELLER[66]</t></line>
-
-<s>
-<line>Oh, my jeweller, for your trade's sake, listen!</line>
+<stanza><line>Oh, my jeweller, for your trade's sake, listen!</line>
 <line>Make me hero, all of gold my hero,</line>
 <line>I will spoil him, as his mother dares not,</line>
 <line>I will kiss him until dawns the twilight,</line>
-<line>Till day breaks ever will caress him.</s></line>
+<line>Till day breaks ever will caress him.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXVIII</number>
 
+<title>WIFE DEARER THAN SISTER[67]</title>
 
-<line></poem><poem><number>CLXVIII</number></line>
-
-<line><t>  WIFE DEARER THAN SISTER[67]</t></line>
-
-<s>
-<line>Lo! behold behind the forest</line>
+<stanza><line>Lo! behold behind the forest</line>
 <line>Someone loudly screams--</line>
 <line>"'Tis a voice," says youthful hero,</line>
 <line>"Girlish-like it seems."</line>
@@ -4556,17 +4056,15 @@
 <line>So she spake to gallant lover,</line>
 <line>Hovering near and just above her,</line>
 <line>Clasps her in his arms to love her--</line>
-<line>Such a gallant knight!</s></line>
+<line>Such a gallant knight!</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXIX</number>
 
+<title>GREATEST SORROW[68]</title>
 
-<line></poem><poem><number>CLXIX</number></line>
-
-<line><t>  GREATEST SORROW[68]</t></line>
-
-<line><s>All young heroes here save mine,</line>
+<stanza><line>All young heroes here save mine,</line>
 <line>All young gallant heroes brave.</line>
 <line>O! that I were sure he'd tarry,</line>
 <line>Lingering in some sickness grave,</line>
@@ -4575,29 +4073,26 @@
 <line>O! may he be too ill to travel,</line>
 <line>May him dread illness cause to pine,</line>
 <line>Rather than to court another,</line>
-<line>Never, never to be mine.</s></line>
+<line>Never, never to be mine.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator></poem>
 
+<poem><number>CLXX</number>
 
+<title>YOUTH AND GIRL[69]</title>
 
-<line></poem><poem><number>CLXX</number></line>
-
-<line><t>  YOUTH AND GIRL[69]</t></line>
-
-<s>
-<line>O maiden, thou gentlest rose</line>
+<stanza><line>O maiden, thou gentlest rose</line>
 <line>When thou wert growing what didst thou behold?</line>
 <line>Hast thou observed a pine-tree growing</line>
 <line>Or the slender, proud fir-tree blowing,</line>
-<line>Or did'st gaze at my youngest brother?--</s></line>
+<line>Or did'st gaze at my youngest brother?--</line></stanza>
 
-<line><s>  O glad, young hero, brilliant Sun!</line>
+<stanza><line>O glad, young hero, brilliant Sun!</line>
 <line>Never at the pine-tree blowing</line>
 <line>Have I look'd in wonder gazing</line>
 <line>Neither at the slender fir-tree,</line>
 <line>Nor thy youngest brother, free,</line>
 <line>Rather have I grown to suit thee,</line>
-<line>Tender knight, to suit but thee.</s></line>
+<line>Tender knight, to suit but thee.</line></stanza>
 
-<line><s>                             B. S. S.</s></line>
+<translator>B. S. S.</translator>
