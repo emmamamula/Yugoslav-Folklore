@@ -4095,4 +4095,4 @@
 <line>Rather have I grown to suit thee,</line>
 <line>Tender knight, to suit but thee.</line></stanza>
 
-<translator>B. S. S.</translator></anthology>
+<translator>B. S. S.</translator></poem></anthology>
