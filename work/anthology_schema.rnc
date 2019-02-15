@@ -1,0 +1,8 @@
+start = anthology
+anthology = element anthology {poem+}
+poem = element poem {number, title, stanza+, translator}
+number = element number {text}
+title = element title {text}
+stanza = element stanza {line+}
+line = element line {text}
+translator = element translator {text}
