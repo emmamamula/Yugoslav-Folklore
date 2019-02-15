@@ -1,4 +1,5 @@
-﻿<anthology><poem><number>I</number>
+﻿<?xml-model href="anthology_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<anthology><poem><number>I</number>
 
 <title>THE CURSE[1]</title>
 
@@ -203,9 +204,8 @@
 <line>A miserable heart-wound bear;--</line>
 <line>Upon each branch, may every leaf</line>
 <line>Bring and betoken toil and grief."</line></stanza>
-
-
-
+<translator>S. J. B.</translator>
+    <!-- Translator not in original doc but credited in table of contents -->
 </poem><poem><number>X</number>
 
 <title>SALUTATION OF THE MORNING STAR</title>
@@ -264,7 +264,8 @@
 <line>The coarsest worsted would inweave,</line>
 <line>Thy finest silk for dog-grass leave,</line>
 <line>And all thy knots with nettles tie."</line></stanza>
-
+<translator>S. J. B.</translator>
+    <!-- Translator not in original work but credited in title page -->
 
 
 </poem><poem><number>XII</number>
@@ -800,7 +801,8 @@
 <line>And gently touch his cheeks, and say,</line>
 <line>"Awake, my master! for 'tis day."</line></stanza>
 
-
+<translator>S. J. B.</translator>
+<!-- NB: Translator not in original doc, but attributed in table of contents -->
 
 </poem><poem><number>XXXIV</number>
 
@@ -1999,9 +2001,10 @@
 
 <poem><number>LXXVIII</number>
 
-<stanza><line>MARRIAGE SONGS</line></stanza>
+<title>MARRIAGE SONGS</title>
 
 <stanza><line>The Marriage Leader:</line></stanza>
+    <!-- Hey maybe there's a need for another kinda xml here but it does seem to be unique? -->
 
 <stanza><line>"Make ready! make ready,"</line>
 <line>To his sister the youth is repeating;</line>
@@ -2323,9 +2326,11 @@
 <line>For I say not ... 'Hither, hither, my son!'</line>
 <line>But ... 'Hither, my Love, my Beloved.'"</line></stanza>
 
+<translator>O. M.</translator></poem>
+    <!-- NB: The translator was not in the original doc, but O.M was attributed in the table of contents -->
+    
 
-
-</poem><poem><number>XC</number>
+<poem><number>XC</number>
 
 <title>SLEEP AND DEATH</title>
 
@@ -2965,13 +2970,13 @@
 <stanza><line>Woe to legs with a foolish head,</line>
 <line>And woe to gilt on an unclean bed.</line></stanza>
 
-<translator>Woe to satin on humped shoulders.</translator>
+<stanza><line>Woe to satin on humped shoulders.</line></stanza>
 
 <stanza><line>Woe to the gun in a fearsome hand,</line>
 <line>Woe to the strong in that village where</line>
 <line>But cowards stand.</line></stanza>
 
-<translator>Woe to the mother-in-law in the house of her son-in-law.</translator>
+<stanza><line>Woe to the mother-in-law in the house of her son-in-law.</line></stanza>
 
 <stanza><line>Woe to the wolf whom the ravens feed,</line>
 <line>And to the knight who children doth need</line>
