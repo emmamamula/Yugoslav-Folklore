@@ -1,4 +1,4 @@
-﻿<poem><number>I</number>
+﻿<anthology><poem><number>I</number>
 
 <title>THE CURSE[1]</title>
 
@@ -4095,4 +4095,4 @@
 <line>Rather have I grown to suit thee,</line>
 <line>Tender knight, to suit but thee.</line></stanza>
 
-<translator>B. S. S.</translator>
+<translator>B. S. S.</translator></anthology>
