@@ -1,0 +1,44 @@
+ol,
+ul {
+    list-style: none;
+}
+#mainMenu {
+    margin: 10px;
+    width: 900px;
+    font-family: sans-serif;
+}
+#mainMenu li {
+    display: block;
+    width: 120px;
+    float: left;
+    margin-left: 2px;
+    border: 1px solid #000;
+}
+
+#mainMenu a {
+    display: block;
+    padding: 3px;
+    text-decoration: none;
+    background-color: #fff;
+    color: #009;
+}
+
+#mainMenu a:hover {
+    background-color: #009;
+    color: #fff;
+}
+body {
+    background-color: white;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+h1 {
+    text-align: center;
+}
+img {
+    max-width: 50%;
+    height: auto;
+}
