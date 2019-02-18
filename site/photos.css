@@ -14,7 +14,6 @@ ul {
     margin-left: 2px;
     border: 1px solid #000;
 }
-
 #mainMenu a {
     display: block;
     padding: 3px;
@@ -22,25 +21,7 @@ ul {
     background-color: #fff;
     color: #009;
 }
-
 #mainMenu a:hover {
     background-color: #009;
     color: #fff;
-}
-body {
-    background-color: white;
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-}
-div {
-    display: block;
-}
-div.a {
-    text-align: justify;
-}
-div.b {
-    text-align: justify;
 }
