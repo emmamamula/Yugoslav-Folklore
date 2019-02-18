@@ -35,3 +35,10 @@ body {
     background-size: cover;
     position: relative;
 }
+div.a {
+    text-align: justify;
+    text-align: center;
+}
+div.b {
+    text-align: justify;
+}

@@ -35,10 +35,12 @@ body {
     background-size: cover;
     position: relative;
 }
-h1 {
-    text-align: center;
+div {
+    display: block;
 }
-img {
-    max-width: 50%;
-    height: auto;
+div.a {
+    text-align: justify;
+}
+div.b {
+    text-align: justify;
 }

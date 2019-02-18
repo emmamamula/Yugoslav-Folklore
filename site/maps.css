@@ -35,3 +35,12 @@ body {
     background-size: cover;
     position: relative;
 }
+div {
+    display: block;
+}
+div.a {
+    text-align: justify;
+}
+div.b {
+    text-align: justify;
+}
