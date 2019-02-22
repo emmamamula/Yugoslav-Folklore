@@ -1,0 +1,16 @@
+body
+{background-color:pink;
+}
+ul.dropdown{
+    padding-left: 0;
+}
+ul.dropdown li{
+    display: block;
+    cursor: pointer;
+    width: 100%;
+    white-space: nowrap;
+    font-size: 0.8em;
+}
+ul.dropdown a{
+    font-weight: normal;
+}
