@@ -2,11 +2,13 @@ ol,
 ul {
     list-style: none;
 }
+
 #mainMenu {
     margin: 10px;
     width: 900px;
     font-family: sans-serif;
 }
+
 #mainMenu li {
     display: block;
     width: 120px;
@@ -36,9 +38,11 @@ body {
     background-size: cover;
     position: relative;
 }
+
 link {
   display: none;
 }
+
 div.hasBackground{
     background-color: rgba(183, 166, 157, 0.88);
     margin-left: 5%;
