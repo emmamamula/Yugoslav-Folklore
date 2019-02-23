@@ -1,0 +1,16 @@
+start = serbsongs
+serbsongs =
+    element serbsongs {
+        mixed { lang , title , arranger+ , email , TOC , song* }
+    }
+lang = attribute lang { text }
+title = element title { text }
+arranger = element arranger { text }
+email = element email { text }
+TOC = element TOC { songnm* }
+song = element song { name*, l*, perfinstruct* }
+name= element name {text}
+songnm =element songnm {text}
+l =element l {text}
+perfinstruct =element perfinstruct {text}
+
