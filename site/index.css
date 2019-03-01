@@ -56,8 +56,8 @@ nav > ul {
     position: relative;
     box-shadow: 
     1px 1px 1px 1px #000, 
-    1px 1px 1px 1px #fff, 
-    0 0 6px 3px #fff;
+1px 1px 1px 1px #fff, 
+0 0 6px 3px #fff;
     border-radius: 6px;
 }
 .nav a {
