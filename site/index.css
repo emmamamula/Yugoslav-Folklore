@@ -123,7 +123,7 @@ nav > ul {
     border-bottom: 5px solid orange;
     z-index: 1;
     left: -99999em;
-    padding:0px;
+    padding-left:0px;
 }
 .nav > li:hover > ul {
     left: auto;
