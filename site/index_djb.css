@@ -59,6 +59,7 @@ nav > ul {
 1px 1px 1px 1px #fff, 
 0 0 6px 3px #fff;
     border-radius: 6px;
+    padding-left: 0px;
 }
 .nav a {
     display: block;
@@ -128,11 +129,13 @@ nav > ul {
     left: auto;
     margin-top: 5px;
     min-width: 100%;
+    padding: 0px;
 }
 .nav > li li:hover > ul {
     left: 100%;
     margin-left: 1px;
     top: -1px;
+    padding: 0px;
 }
 /* arrow hover styling */
 .nav > li > a:first-child:nth-last-child(2):before {
@@ -151,4 +154,5 @@ nav > ul {
     border: 5px solid transparent;
     border-right-color: orange;
     right: 10px;
+    padding: 0px;
 }
