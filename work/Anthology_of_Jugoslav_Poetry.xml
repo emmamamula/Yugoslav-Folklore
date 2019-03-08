@@ -8,11 +8,11 @@
 <line>"Thou art a happy bird indeed;</line>
 <line>Thou dost not in the chimney breed,</line>
 <line>Thou dost not hear the eternal jarring,</line>
-<line>Of sisters and step-sisters warring;</line>
-<line>Their woes and grievances rehearsing,</line>
-<line>Cursing themselves, and others cursing."</line>
-<line>A young step-sister once I saw,</line>
-<line>Foul language at the elder throw;</line>
+<line>Of <character gender="female">sisters</character> and <character gender="female">step-sisters</character> <action posneg="negative">warring</action>;</line>
+<line><speech speaker="female" posneg="negative">Their woes and grievances rehearsing</speech>,</line>
+<line><speech speaker="female" posneg="negative">Cursing themselves, and others cursing</speech>."</line>
+<line>A <character gender="female">young step-sister</character> once I saw,</line>
+<line><speech speaker="female" posneg="neg">Foul language at the elder throw;</speech></line>
 <line>"Perdition's daughter! hence depart;</line>
 <line>Thou hast no fruit beneath thy heart."</line>
 <line>And thus the elder one replied:</line>
