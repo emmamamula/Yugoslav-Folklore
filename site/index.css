@@ -60,6 +60,7 @@ nav > ul {
 0 0 6px 3px #fff;
     border-radius: 6px;
     padding-left: 0px;
+    position:fixed;
 }
 .nav a {
     display: block;
