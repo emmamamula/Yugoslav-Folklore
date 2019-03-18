@@ -1,2 +1,2 @@
 # Yugoslav-Folklore
-Gender analysis of Yugoslav folk songs and poetry.
+Our project consists of a gender-based analysis of Serbian folk songs based on an English and Serbian source. We are interested in seeing the different nouns and adjectives used to refer to and describe women in traditional folk songs. Through XML mark-up we will distinguish between familial and non-familial women in the songs, as well as the agency of the women (whether they are talking or being spoken of etc.)
