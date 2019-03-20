@@ -1,4 +1,5 @@
-﻿<?xml-model href="anthology_schema.rnc" type="application/relax-ng-compact-syntax"?>
+﻿
+<?xml-model href="../schema/anthology_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <anthology><poem><number>I</number>
 
 <title>THE CURSE[1]</title>
@@ -13,9 +14,9 @@
 <line><speech speaker="female" posneg="negative">Cursing themselves, and others cursing</speech>."</line>
 <line>A <character gender="female">young step-sister</character> once I saw,</line>
 <line><speech speaker="female" posneg="neg">Foul language at the elder throw;</speech></line>
-<line>"Perdition's daughter! hence depart;</line>
+<line><character gender="female">"Perdition's daughter!</character> hence depart;</line>
 <line>Thou hast no fruit beneath thy heart."</line>
-<line>And thus the elder one replied:</line>
+<line>And thus the <character gender="male">elder one</character> replied:</line>
 <line>"Curse thy perverseness and thy pride!</line>
 <line>Mihailo is a son of thine;</line>
 <line>Now thou shalt bring forth daughters nine,</line>

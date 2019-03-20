@@ -14,3 +14,5 @@ songnm =element songnm {text}
 l =element l {text}
 perfinstruct =element perfinstruct {text}
 
+<!--So I think that this is, functionally, all structural. I would use my schema for the actual analysis of the poem-->
+
