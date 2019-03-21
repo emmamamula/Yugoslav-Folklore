@@ -125,7 +125,7 @@ nav > ul {
 }
 /* submenu positioning*/
 .nav ul {
-    position: absolute;
+    position: fixed;
     white-space: nowrap;
     border-bottom: 5px solid orange;
     z-index: 1;
