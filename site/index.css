@@ -45,11 +45,11 @@ div.hasBackground3 {
     overflow: auto;
     background-attachment: fixed;
 }
-nav {
+av {
     display: block;
     text-align: center;
 }
-av {
+nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
