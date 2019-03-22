@@ -7,7 +7,7 @@
                 There's a screw-up in the speech refs
             </sch:assert>
             <sch:assert test="(2*distinct-values(//action/@ref))= count(//action/@ref)">
-                There's a screw-up in the speech refs
+                There's a screw-up in the action refs
             </sch:assert>
         </sch:rule>
     </sch:pattern>
