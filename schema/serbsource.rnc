@@ -1,7 +1,7 @@
 start = serbsongs
 serbsongs =
     element serbsongs {
-        mixed { lang , title , arranger+ , email , TOC , song* }
+        mixed { lang , title , arranger+ , email , TOC , song*}
     }
 lang = attribute lang { text }
 title = element title { text }
@@ -13,6 +13,13 @@ name= element name {text}
 songnm =element songnm {text}
 l =element l {text}
 perfinstruct =element perfinstruct {text}
-
-<!--So I think that this is, functionally, all structural. I would use my schema for the actual analysis of the poem-->
+type =attribute type {text}
+femnoun= element femnoun {positive*| negative*| neutral*| familial*| name*}
+femadj = element femadj {mixed {positive*| negative*}}
+masnoun= element masnoun {mixed {positive*| negative*| neutral*| familial*|name*}}
+masadj= element masadj {mixed{positive*|negative*|neutral}}
+positive= attribute positive{text}
+negative= attribute negative {text}
+neutral= attribute neutral {text}
+familial= attribute familial {text}
 
