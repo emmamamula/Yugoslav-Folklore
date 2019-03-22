@@ -57,7 +57,7 @@ nav {
 nav > ul {
     display: block;
     list-style: none;
-    position: relative;
+    position: fixed;
     box-shadow: 
     1px 1px 1px 1px #000, 
 1px 1px 1px 1px #fff, 
