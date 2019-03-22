@@ -11,15 +11,14 @@ TOC = element TOC { songnm* }
 song = element song { name*, l*, perfinstruct* }
 name= element name {text}
 songnm =element songnm {text}
-l =element l {text}
+l =element l {mixed {noun*| adj*| des*}}
 perfinstruct =element perfinstruct {text}
-type =attribute type {text}
-femnoun= element femnoun {positive*| negative*| neutral*| familial*| name*}
-femadj = element femadj {mixed {positive*| negative*}}
-masnoun= element masnoun {mixed {positive*| negative*| neutral*| familial*|name*}}
-masadj= element masadj {mixed{positive*|negative*|neutral}}
-positive= attribute positive{text}
-negative= attribute negative {text}
-neutral= attribute neutral {text}
-familial= attribute familial {text}
+noun= element noun {gender, relation?, type?, text}
+adj= element adj {posneg?, gender, text}
+gender= attribute gender {("male" | "female" |"neutral")}
+relation= attribute relation {("fam" | "rom" | "gen")}
+posneg= attribute posneg {("positive" | "negative")}
+type= attribute type {("name" | "gen")}
+des= element des {posneg}
+
 
