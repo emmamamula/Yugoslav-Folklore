@@ -16,7 +16,7 @@ body {
     background-attachment: fixed;
 }
 div.hasBackground {
-    background-color: rgba(183, 166, 157, 0.80);
+    background-color: rgba(183, 166, 157, 0.95);
     margin-left: 5%;
     margin-right: 5%;
     padding: 30px;
@@ -30,21 +30,14 @@ div.hasBackground {
     overflow: auto;
     background-attachment: fixed;
 }
-div.hasBackground3 {
-    background-color: rgba(183, 166, 157, 0.80);
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    margin: 3%;
-    color: #060202;
-    font-family: "Georgia", sans-serif;
-    font-size: 18px;
-    overflow: auto;
-    background-attachment: fixed;
+
+figure {
+    margin: 0;
+  	Opacity:0.4;
+  	color: #060202;
+  	font-family: "Georgia", sans-serif;
 }
+
 av {
     display: block;
     text-align: center;
