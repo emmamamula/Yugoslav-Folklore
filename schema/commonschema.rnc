@@ -1,0 +1,15 @@
+start= l
+l= element l {mixed{noun*& adj*}}
+noun= element noun {gender, relation?, type?, text}
+adj= element adj {posneg?, gender, text}
+gender= attribute gender {("male" | "female")}
+relation= attribute relation {("fam" | "rom" | "gen")}
+posneg= attribute posneg {("positive" | "negative")}
+type= attribute type {("name" | "gen")}
+
+
+
+
+
+
+

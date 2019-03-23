@@ -38,26 +38,18 @@ figure {
   	font-family: "Georgia", sans-serif;
 }
 
-av {
+
+/*MENU*/
+
+
+nav {
     display: block;
     text-align: center;
 }
-nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-nav > ul {
-    display: block;
+nav ul {
+    margin: 0;
+    padding: 0;
     list-style: none;
-    position: fixed;
-    box-shadow: 
-    1px 1px 1px 1px #000, 
-1px 1px 1px 1px #fff, 
-0 0 6px 3px #fff;
-    border-radius: 6px;
-    padding-left: 0px;
-    background-attachment: fixed;
 }
 .nav a {
     display: block;
@@ -70,7 +62,15 @@ nav > ul {
     letter-spacing: 2px;
     text-shadow: 0 -1px 0 #000;
     position: relative;
-    background-attachment: fixed;
+}
+.nav {
+    vertical-align: top;
+    display: inline-block;
+    box-shadow: 
+    1px 1px 1px 1px #000, 
+    1px 1px 1px 1px #fff, 
+    0 0 6px 3px #fff;
+    border-radius: 6px;
 }
 .nav li {
     position: relative;
@@ -107,6 +107,7 @@ nav > ul {
 .nav li li a {
     margin-top: 1px;
 }
+
 .nav li a:first-child:nth-last-child(2):before {
     content: "";
     position: absolute;
@@ -116,9 +117,10 @@ nav > ul {
     top: 50%;
     right: 5px;
 }
+
 /* submenu positioning*/
 .nav ul {
-    position: fixed;
+    position: absolute;
     white-space: nowrap;
     border-bottom: 5px solid orange;
     z-index: 1;
@@ -128,13 +130,11 @@ nav > ul {
     left: auto;
     margin-top: 5px;
     min-width: 100%;
-    padding: 0px;
 }
 .nav > li li:hover > ul {
     left: 100%;
     margin-left: 1px;
     top: -1px;
-    padding: 0px;
 }
 /* arrow hover styling */
 .nav > li > a:first-child:nth-last-child(2):before {
@@ -153,5 +153,4 @@ nav > ul {
     border: 5px solid transparent;
     border-right-color: orange;
     right: 10px;
-    padding: 0px;
 }
