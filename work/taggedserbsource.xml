@@ -136,7 +136,7 @@
 
 <l><noun gender="female" relation="gen" type="gen">Ђевојко</noun>, ружо румена</l>
 <l>За ког си лице белила</l>
-<l>За мене и тебе, о мој <noun gender="female" relation= "gen" type="positive">драгане</noun></l>
+<l>За мене и тебе, о мој <noun gender="female" relation= "gen" type="gen">драгане</noun></l>
 
 <perfinstruct>сватовска, Рибашевина код Ужица</perfinstruct></song>
 
@@ -164,11 +164,11 @@
 <l>Грабајте да грабамо,</l>
 <l>куј може, куј не може,</l>
 <l>ја мога, ја уграба,</l>
-<l>а <noun type="neutral">девојке</noun> не могаше,</l>
+<l>а <noun gender="female" relation="gen" type="gen">девојке</noun> не могаше,</l>
 <l>китке им попадаше,</l>
-<l><noun type="neutral">момчета</noun> покупише,</l>
+<l><noun gender="male" relation="gen" type="gen">момчета</noun> покупише,</l>
 <l>у џепове натураше.</l>
-<l>Ој убава, убава <noun type="neutral">девојко</noun>!</l>
+<l>Ој убава, убава <noun gender="female" relation="gen" type="gen">девојко</noun>!</l>
 
 <perfinstruct>жетелачка, Велики Крчимир, Заплање, код Ниша</perfinstruct></song>
 
@@ -178,28 +178,28 @@
 <l>ладна ледена,</l>
 <l>ладна ледена.</l>
 <l>Извор вода извирала ладна ледена,</l>
-<l>ту <noun type="neutral">девојке</noun> <phrase type="positive">шећер мећу да је медена</phrase>,</l>
-<l>а <noun type="neutral">момци</noun> су водоноше, воду попише.</l>
+<l>ту <noun gender="female" relation="gen" type="gen">девојке</noun> <des posneg="positive">шећер мећу да је медена</des>,</l>
+<l>а <noun gender="male" relation="gen" type="gen">момци</noun> су водоноше, воду попише.</l>
 
 <perfinstruct>жетелачка, на глас, Црнућа под Рудником</perfinstruct>
 </song>
 <song><name>Ој убава, мала момо 
 (Младо момче бога моли)</name>
 
-<l>Ој убава <femadj type="positive">мала</femadj> <noun type="familial">момо</noun>, ладо, ладо,</l>
-<l>ој убава <femadj type="positive">мала</femadj> <noun type="familial">момо</noun>, лад.</l>
-<l>Ој убава <femadj type="positive">мала</femadj> <noun type="familial">момо</noun>!</l>
-<l><masadj type="neutral">Младо</masadj> <noun type="neutral">момче</noun> Бога моли:</l>
+<l>Ој убава <adj gender="female" posneg="positive">мала</adj> <noun gender="female" relation="fam" type="gen">момо</noun>, ладо, ладо,</l>
+<l>ој убава <adj gender="female" posneg="positive">мала</adj> <noun gender="female" relation="fam" type="gen">момо</noun>, лад.</l>
+<l>Ој убава <adj gender="female" posneg="positive">мала</adj> <noun gender="female" relation="fam" type="gen">момо</noun>!</l>
+<l><adj gender="male">Младо</adj> <noun gender="male" relation="gen" type="gen">момче</noun> Бога моли:</l>
 <l>"Дај ми, Боже, што те молим:</l>
 <l>претвори ме ситан бисер,</l>
 <l>расипи ме пред кладенце,</l>
-<l>где <noun type="neutral">девојке</noun> воду точе,</l>
-<l>где <noun type="positive">невесте</noun> <phrase type="positive">платно беле</phrase>,</l>
+<l>где <noun gender="female" relation="gen" type="gen">девојке</noun> воду точе,</l>
+<l>где <noun gender="female" relation="rom" type="gen">невесте</noun> <des posneg="positive">платно беле</des>,</l>
 <l>да ме нижу, да ме носе,</l>
 <l>да ме носе око грло,</l>
 <l>за грло сам загинуо,</l>
 <l>за <noun type="neutral">девојче</noun> душу дао."</l>
-<l>Ој убава <femadj type="positive">мала</femadj> <noun type="positive">момо</noun>!</l>
+<l>Ој убава <adj type="positive">мала</adj> <noun type="positive">момо</noun>!</l>
 
 <perfinstruct>краљичка, Дадинци код Лесковца</perfinstruct></song>
 
@@ -247,7 +247,7 @@
 <l>Ој, <noun type="neutral">девојко</noun>, коласта јабуко,</l>
 <l>коласта јабуко</l>
 <l>Ој <noun type="neutral">девојко</noun> коласта јабуко,</l>
-<l>Где си расла па си тако <femadj type="positive">красна</femadj>?</l>
+<l>Где си расла па си тако <adj type="positive">красна</adj>?</l>
 <l>"Ја сам расла на мајкина крила,</l>
 <l>ранила ме <phrase type="positive">медом и шећером</phrase>,</l>
 <l>појила ме вином и ракијом".</l></song>
@@ -256,12 +256,12 @@
 
 <l>Чува <noun type="familial">мајка</noun> <noun type="name">Јову</noun> и <noun type="name">Јованку</noun>,</l>
 <l>Чувала их петнаест године.</l>
-<l>Расте <noun type="name">Јова</noun> <femadj type="positive">лепи</femadj> и <femadj type="positive">прелепи</femadj>,</l>
-<l>А <noun type="name">Јованка</noun> <femadj type="positive">лепа</femadj> и <femadj type="positive">прелепа</femadj>.</l>
+<l>Расте <noun type="name">Јова</noun> <adj type="positive">лепи</adj> и <adj type="positive">прелепи</adj>,</l>
+<l>А <noun type="name">Јованка</noun> <adj type="positive">лепа</adj> и <adj type="positive">прелепа</adj>.</l>
 <l><noun type="familial">Братац</noun> сеји тиома говори:</l>
-<l>"Чујеш мене, моја <femadj type="positive">мила</femadj> <noun type="familial">сејо</noun>,</l>
+<l>"Чујеш мене, моја <adj type="positive">мила</adj> <noun type="familial">сејо</noun>,</l>
 <l>Не да <noun type="familial">братац</noun> другом љуба бити".</l>
-<l>Проговара <femadj type="positive">лијепа</femadj> <noun type="noun">Јованка</noun>:</l>
+<l>Проговара <adj type="positive">лијепа</adj> <noun type="noun">Јованка</noun>:</l>
 <l>"Ој <noun type="name">Јоване</noun>, мој мио <noun type="familial">брајане</noun>,</l>
 <l>Ја не волим теби љуба бити,</l>
 <l>Веће волим смерно погинути".</l>
@@ -271,9 +271,9 @@
 <l>Мртва глава по ливади ваља,</l>
 <l>Мртва уста по тијем говоре:</l>
 <l>"Ој, <noun type="name">Јоване</noun>, мој мио <noun type="familial">брајане</noun>,</l>
-<l>Кад отидеш мојој <femadj type="negative">старој</femadj> <noun type="familial">мајци</noun>,</l>
+<l>Кад отидеш мојој <adj type="negative">старој</adj> <noun type="familial">мајци</noun>,</l>
 <l>Заблејаће моја стара Ранка</l>
-<l>Питаће те моја <femadj type="positive">мила</femadj> <noun type="familial">мајка</noun>:</l>
+<l>Питаће те моја <adj type="positive">мила</adj> <noun type="familial">мајка</noun>:</l>
 <l>"<noun type="familial">Чедо</noun>, <noun type="name">Јово</noun>, ди ти је <noun type="name">Јованка</noun>?"</l>
 <l>Ти <noun type="pronoun">јој</noun> брале, њој овако кажи:</l>
 <l>"Везак везла, иглу изгубила,</l>
@@ -283,11 +283,11 @@
 <song>
 <name>Ој, дивојко, мило моје</name>
  
-<l>Ој <noun type="neutral">дивојко</noun> <femadj type="positive">мило</femadj> моје</l>
+<l>Ој <noun type="neutral">дивојко</noun> <adj type="positive">мило</adj> моје</l>
 <l>За планином заноћило стадо</l>
-<l>Ој <noun type="neutral">девојко</noun> <femadj type="positive">мило</femadj> моје</l>
+<l>Ој <noun type="neutral">девојко</noun> <adj type="positive">мило</adj> моје</l>
 <l>За планином заноћило стадо,</l>
-<l>Чујеш ли ме <femadj type="positive">мило</femadj> моје <noun type="positive">драго</noun></l>
+<l>Чујеш ли ме <adj type="positive">мило</adj> моје <noun type="positive">драго</noun></l>
 <l>Чујеш ли ме де ја певам сад</l>
 <l>Ја би дошла ал ми не да нана</l>
 <l>Све се се боји побећ ћу сама</l>
@@ -300,7 +300,7 @@
 <l>Приони мобо за лада</l>
 <l>Не би ли рано пожели</l>
 <l>Не би ли Раду превели</l>
-<l>За <femadj type="positive">млада</femadj> <noun type="noun">Јова</noun>, <noun type="name">Јована</noun></l>
+<l>За <adj type="positive">млада</adj> <noun type="noun">Јова</noun>, <noun type="name">Јована</noun></l>
 <l>Дела, дела, нека, нека</l>
 <l>Не стој, не стаде</l>
 <l>Не стој</l>
