@@ -13,12 +13,14 @@ name= element name {text}
 songnm =element songnm {text}
 l =element l {mixed {noun* & adj* & des*}}
 perfinstruct =element perfinstruct {text}
-noun= element noun {gender, relation?, type?, text}
-adj= element adj {posneg?, gender, text}
+noun= element noun {gender, relation?, type?, id, text}
+adj= element adj {posneg?, gender, ref*, text}
 gender= attribute gender {("male" | "female" |"neutral")}
 relation= attribute relation {("fam" | "rom" | "gen")}
 posneg= attribute posneg {("positive" | "negative")}
 type= attribute type {("name" | "gen")}
 des= element des {posneg* & text?}
+id= attribute id {xsd:ID}
+ref= attribute ref {xsd:IDREF}
 
 
