@@ -1,0 +1,15 @@
+start = anthology
+anthology = element anthology {poem+}
+poem = element poem {number, title, stanza+, translator}
+number = element number {text}
+title = element title {mixed {noun*}}
+stanza = element stanza {l+}
+translator = element translator {text}
+l= element l {mixed{noun*& adj*& des*}}
+noun= element noun {gender, relation?, type?, text}
+adj= element adj {posneg?, gender, text}
+gender= attribute gender {("male" | "female" | "unknown" | "plural")}
+relation= attribute relation {("fam" | "rom" | "gen")}
+posneg= attribute posneg {("positive" | "negative")}
+type= attribute type {("name" | "gen")}
+des= element des {gender, posneg, text}
