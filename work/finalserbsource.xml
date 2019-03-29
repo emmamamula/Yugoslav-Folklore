@@ -1,5 +1,3 @@
-
-
 <?xml-model href="../schema/serbsource.rnc" type="application/relax-ng-compact-syntax"?>
 <serbsongs lang="srp"><title>Српске народне женске песме за певање</title>
 <arranger>приредила Светлана Спајић, вокална група Дрина</arranger>

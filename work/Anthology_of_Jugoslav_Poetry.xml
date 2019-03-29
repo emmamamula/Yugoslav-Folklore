@@ -1,5 +1,4 @@
-﻿
-<!--<?xml-model href="../schema/anthology_schema.rnc" type="application/relax-ng-compact-syntax"?>-->
+﻿<!--<?xml-model href="../schema/anthology_schema.rnc" type="application/relax-ng-compact-syntax"?>-->
 <?xml-model href="../schema/antholog_schema_consolidated.rnc" type="application/relax-ng-compact-syntax"?>
 
 <anthology>
