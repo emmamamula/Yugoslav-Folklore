@@ -17,7 +17,7 @@
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="poem" mode="toc">
+    <xsl:template match="song" mode="toc">
         <li><a>
             <xsl:attribute name="href">
                 <xsl:text>#Poem</xsl:text>
