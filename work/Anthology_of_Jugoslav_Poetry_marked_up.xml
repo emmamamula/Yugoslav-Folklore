@@ -71,8 +71,8 @@
             <l>In one kiss full ten <noun id="n41" type="gen" gender="male" relation="rom">I</noun> drew:</l>
             <l>And upon my lips there grew,</l>
             <l>From that hour, a honey-dew,</l>
-            <l>As if sugar were my meat,</l>
-            <l>And my drink metheglin sweet.</l>
+            <l><des posneg="positive" gender="male">As if sugar were my meat,</des></l>
+            <l><des posneg="positive" gender="male">And my drink metheglin sweet.</des></l>
         </stanza>
 
         <translator>S. J. B.</translator>
