@@ -1,13 +1,12 @@
-
-
 <?xml-model href="../schema/serbsource.rnc" type="application/relax-ng-compact-syntax"?>
-<serbsongs lang="srp"><title>Српске народне женске песме за певање</title>
+<serbsongs lang="srp"><!--<title>Српске народне женске песме за певање</title>
 <arranger>приредила Светлана Спајић, вокална група Дрина</arranger>
 
 <email>drina@eunet.yu</email>
+-->
 
-<TOC>
-<songnm>Дрино, водо, што се криво кунеш</songnm>
+<!--<TOC>
+
 <songnm>Јесам ли ти говорила, миле</songnm>
 <songnm>Које ли је ово доба ноћи</songnm>
 <songnm>Мобу зове Јово момче младо</songnm>
@@ -25,32 +24,9 @@
 <songnm>Ој, девојко, коласта јабуко</songnm>
 <songnm>Чува мајка Јову и Јованку</songnm>
 <songnm>Ој, дивојко, мило моје</songnm>
-<songnm>Приони, мобо, за лада</songnm>
-<songnm>Јанко проси у далек девојку</songnm>
-<songnm>Крај бунара зелени се трава</songnm>
-<songnm>Три девојке збор збориле</songnm>
-<songnm>Шта се сјаји ју гору зелену</songnm>
-<songnm>Лепо певам, далеко се чује</songnm>
-<songnm>Јово ђогу по мејдану вада</songnm>
-<songnm>Нишну се звезда низ ведро небо</songnm>
-<songnm>Смиљ девојка покрај горе брала</songnm>
-<songnm>Ја посади виту јелу</songnm>
-<songnm>ој девојче, често ли ме сањаш?</songnm>
-<songnm>Кићено небо звездама</songnm>
-<songnm>Црна Горо, ладна ладовино</songnm>
-<songnm>Јетрве се у двор сазивале</songnm>
-<songnm>Што Морава мутна тече</songnm>
-<songnm>Стојан иде од орање</songnm>
-<songnm>Добро јутро, жута жабо</songnm>
-<songnm>У мајке су три девојке</songnm>
-<songnm>Дођи Миле код зеленог глога</songnm>
-<songnm>Јанин бабо намолио мобу</songnm>
-<songnm>Која ми ју овде нема</songnm>
-<songnm>Пошле моме росу да обију</songnm>
-<songnm>Волели се брат и сестра</songnm>
-<songnm>Широко је лишће орово</songnm>
-<songnm>Ово'ј дрво родно било</songnm>
-<songnm>Ој, убаве мале моме</songnm></TOC>
+</TOC> 
+-->
+
 
 
 
