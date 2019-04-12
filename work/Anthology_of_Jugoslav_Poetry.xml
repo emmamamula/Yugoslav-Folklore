@@ -136,10 +136,10 @@
     <poem>
         <number>IV</number>
 
-        <title>SMILIA[5]</title>
+        <title><noun relation="gen" type="name" id="n2" gender="female">SMILIA</noun>[5]</title>
 
         <stanza>
-            <l><adj gender= "female" posneg="positive">Sweet</adj> <noun gender="female" type="name">Smilia</noun>-flowers did <noun gender="female" type="name">Smilia</noun> pull,</l>
+            <l><adj ref="n3" gender= "female" posneg="positive">Sweet</adj> <noun relation="gen" id="n3" gender="female" type="name">Smilia</noun>-flowers did <noun relation="gen" id="n8" gender="female" type="name">Smilia</noun> pull,</l>
             <l>Her sleevelets and <des posneg="negative" gender="female">her bosom full</des>;</l>
             <l>By the cool stream she gather'd them,</l>
             <l>And twined her many a diadem--</l>
@@ -149,12 +149,12 @@
             <l>The other where the streamlet flows</l>
             <l>She flings, and says in gentlest tone--</l>
             <l>"Swim on, thou odorous wreath! swim on,</l>
-            <l>Swim to my <noun gender="male" relation="rom">Juris</noun>' home, and there</l>
-            <l>O whisper in his <noun gender="female">mother</noun>'s ear:</l>
-            <l>'Say, wilt thou not thy <noun gender="male" relation="rom">Juris</noun> wed?--</l>
+            <l>Swim to my <noun type="name" id="n5" gender="male" relation="rom">Juris</noun>' home, and there</l>
+            <l>O whisper in his <noun id = "n6" gender="female">mother</noun>'s ear:</l>
+            <l>'Say, wilt thou not thy <noun id="n7" gender="male" relation="rom">Juris</noun> wed?--</l>
             <l>Then give him not a widow's bed;</l>
-            <l>But some <adj gender="female" posneg="positive">sweet</adj> <noun relation= "rom" gender="female">maiden</noun>, <adj gender="female" posneg="positive">young</adj> and
-                <adj gender="female" posneg="positive">fair</adj>.'"</l>
+            <l>But some <adj gender="female" posneg="positive" ref="n4">sweet</adj> <noun relation= "rom" gender="female" id="n4">maiden</noun>, <adj ref="n4" gender="female" posneg="positive">young</adj> and
+                <adj ref="n4" gender="female" posneg="positive">fair</adj>.'"</l>
         </stanza>
 
         <translator>S. J. B.</translator>
@@ -166,16 +166,16 @@
         <title>HARVEST SONG</title>
 
         <stanza>
-            <l>Take hold of your reeds, <noun gender="male">youths</noun> and <noun gender="female"
+            <l>Take hold of your reeds, <noun id="n9" gender="male">youths</noun> and <noun id="n10" gender="female"
                 >maiden</noun>s! and see</l>
-            <l>Who the <noun gender="female">kissers</noun> and <noun gender="female">kiss'd</noun> of the <noun gender="male">reapers</noun> shall be.</l>
+            <l>Who the <noun id="n11" gender="female">kissers</noun> and <noun id="n12" gender="female">kiss'd</noun> of the <noun id="n13" gender="male">reapers</noun> shall be.</l>
             <l>Take hold of your reeds, till the secret be told,</l>
-            <l>If the <noun gender="unknown">old</noun> shall kiss <noun gender="unknown">young</noun>, and the <noun gender="unknown">young</noun> shall kiss <noun gender="unknown">old</noun></l>
-            <l>Take hold of your reeds, <noun gender="male">youths</noun> and <noun gender="female"
-                >maiden</noun>s! and see</l>
+            <l>If the <noun id="n14" gender="unknown">old</noun> shall kiss <noun gender="unknown" id="n15">young</noun>, and the <noun id ="n16" gender="unknown">young</noun> shall kiss <noun id="n17" gender="unknown">old</noun></l>
+            <l>Take hold of your reeds, <noun id="n18" gender="male">youths</noun> and <noun id="n19" gender="female"
+                >maidens</noun>! and see</l>
             <l>What fortune and chance to the drawers decree:</l>
-            <l>And if any refuse, may <noun gender="unknown">God</noun> smite <noun gender="plural">them</noun>--may <noun gender="plural">they</noun></l>
-            <l>Be cursed by <noun gender="female">Paraskeva</noun>, the <noun gender="female">saint</noun> of to-day!</l>
+            <l>And if any refuse, may <noun id="n20" gender="unknown">God</noun> smite <noun id="n21" gender="plural">them</noun>--may <noun id="n22" gender="plural">they</noun></l>
+            <l>Be cursed by <noun id="n23" type="name" gender="female">Paraskeva</noun>, the <noun gender="female">saint</noun> of to-day!</l>
             <l>Now loosen <noun gender="unknown">your</noun> hands--now loosen, and see</l>
             <l>Who the <noun gender="female">kissers</noun> and <noun gender="female">kiss'd</noun> of the <noun gender="male">reapers</noun> shall be.[6]</l>
         </stanza>
