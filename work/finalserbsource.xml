@@ -1,5 +1,4 @@
 <?xml-model href="../schema/serbsource.rnc" type="application/relax-ng-compact-syntax"?>
-<<<<<<< HEAD:work/finalserbsource.xml
 <serbsongs lang="srp"><title>Српске народне женске песме за певање</title>
     <arranger>приредила Светлана Спајић, вокална група Дрина</arranger>
     <email>drina@eunet.yu</email>
@@ -24,39 +23,6 @@
     <song>
         <name>Јесам ли ти говорила, миле</name>
         <l> Јесам ли ти говорила, <noun gender="female" relation="rom" type="gen" id="n1"
-=======
-<serbsongs lang="srp">
-<!--<title>Српске народне женске песме за певање</title>
-<arranger>приредила Светлана Спајић, вокална група Дрина</arranger>
-
-<email>drina@eunet.yu</email>
--->
-    <!--<TOC>
-
-<songnm>Јесам ли ти говорила, миле</songnm>
-<songnm>Које ли је ово доба ноћи</songnm>
-<songnm>Мобу зове Јово момче младо</songnm>
-<songnm>Чувам овце у ливади доле</songnm>
-<songnm>Девојчица цвеће брала па је заспала</songnm>
-<songnm>Ђевојко ружо румена</songnm>
-<songnm>Дођи, лоло, довече сам сама</songnm>
-<songnm>Ајде, драги, д'имо ближе брега</songnm>
-<songnm>Грабајте да грабамо</songnm>
-<songnm>Извор вода извирала, ладна ледена</songnm>
-<songnm>Ој убава, мала момо (Младо момче бога моли)</songnm>
-<songnm>Запали се Ивица планина</songnm>
-<songnm>Љиљче здравче, беру ли те моме</songnm>
-<songnm>Заспала Јока Богутовка</songnm>
-<songnm>Ој, девојко, коласта јабуко</songnm>
-<songnm>Чува мајка Јову и Јованку</songnm>
-<songnm>Ој, дивојко, мило моје</songnm>
-</TOC> 
--->
-    <song>
-        <number>1</number>
-        <name>Јесам ли ти говорила, миле</name>
-        <l>Јесам ли ти говорила, <noun gender="female" relation="rom" type="gen" id="n1"
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
                 >миле</noun></l>
         <l>јесам ли ти, јесам ли ти</l>
         <l>говорила <noun gender="female" relation="rom" type="gen" id="n2">миле</noun></l>
@@ -73,10 +39,6 @@
         <perfinstruct>канталица, Цулине, српско Подриње</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>2</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Мобу зове Јово момче младо</name>
 
         <l>Мобу зове <noun gender="male" relation="gen" type="name" id="n4">Јово</noun>
@@ -101,10 +63,6 @@
         <perfinstruct>жетелачка, на бас, Рибашевина код Ужица</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>3</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Чувам овце у ливади доле</name>
 
         <l>Чувам овце у ливади доле</l>
@@ -120,10 +78,6 @@
         <perfinstruct>чобанска, Јарменовци код Тополе</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>4</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Девојчица цвеће брала па је заспала</name>
 
         <l><noun gender="female" relation="gen" type="gen" id="n16">Девојчица</noun> цвеће
@@ -140,10 +94,6 @@
         <perfinstruct>жетелачка, на глас, Ваљевска Подгорина</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>5</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Ђевојко ружо румена</name>
 
         <l><noun gender="female" relation="gen" type="gen" id="n20">Ђевојко</noun>, ружо румена</l>
@@ -154,10 +104,6 @@
         <perfinstruct>сватовска, Рибашевина код Ужица</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>6</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Дођи, лоло, довече сам сама</name>
 
         <l>Дођи, лоло, довече сам сама</l>
@@ -169,10 +115,6 @@
         <perfinstruct> на бас, Брњци, Подриње</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>7</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Ајде, драги, д'имо ближе брега</name>
 
         <l>Ајде <noun gender="male" relation="rom" type="gen" id="n23">драги</noun>, д'имо ближе
@@ -184,10 +126,6 @@
         <perfinstruct>Милатовац, Хомоље</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>8</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Грабајте да грабамо</name>
 
         <l>Грабајте да грабамо,</l>
@@ -203,10 +141,6 @@
         <perfinstruct>жетелачка, Велики Крчимир, Заплање, код Ниша</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>9</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Извор вода извирала, ладна ледена</name>
 
         <l>Извор вода извирала,</l>
@@ -221,10 +155,6 @@
         <perfinstruct>жетелачка, на глас, Црнућа под Рудником</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>10</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Ој убава, мала момо (Младо момче бога моли)</name>
 
         <l>Ој убава <adj gender="female" posneg="positive" ref="n29">мала</adj>
@@ -252,10 +182,6 @@
         <perfinstruct>краљичка, Дадинци код Лесковца</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>11</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Запали се Ивица планина</name>
 
         <l>Запали се , запали се</l>
@@ -277,10 +203,6 @@
         <perfinstruct>Из Поповића код Неготина</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>12</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Заспала Јока Богутовка</name>
 
         <l>Заспала, <noun gender="female" relation="gen" type="name" id="n44">Јока Богутовка</noun>,
@@ -298,10 +220,6 @@
         <perfinstruct>на глас, Растошница, Подриње</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>13</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Ој, девојко, коласта јабуко</name>
 
         <l>Ој, <noun gender="female" relation="gen" type="gen" id="n52">девојко</noun>, коласта
@@ -317,10 +235,6 @@
         <l>појила ме вином и ракијом".</l>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>14</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Чува мајка Јову и Јованку</name>
 
         <l>Чува <noun gender="female" relation="fam" type="gen" id="n55">мајка</noun>
@@ -369,10 +283,6 @@
         <perfinstruct>из околине Пирота</perfinstruct>
     </song>
     <song>
-<<<<<<< HEAD:work/finalserbsource.xml
-=======
-        <number>15</number>
->>>>>>> 0f6a11284a367ba6eecd3103cc010f2002de81e0:work/SERBIAN/finalserbsource.xml
         <name>Ој, дивојко, мило моје</name>
 
         <l>Ој <noun gender="female" relation="rom" type="gen" id="n76">дивојко</noun>
