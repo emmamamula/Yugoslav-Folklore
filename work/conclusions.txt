@@ -1,0 +1,13 @@
+In our analysis of gender in the Serbian women's songs, we determined that
+our initial hypothesis was incorrect. We thought that women would be mentioned less
+frequently than men, and that their description would be more negative.
+
+This was not the case. Women are mentioned more frequently than men by far, with roughly
+three times the number of "noun" elements (either common nouns, names, or pronouns) having
+a female attribute than a male one. The number of adjectives used to describe these nouns
+was similarly disproportionate, with the same roughly three-to-one ratio in favor of women.
+
+The second surprise was how much more positive the female adjectives, on average, were
+than the male ones. While both men and women do have more positive than negative adjectives,
+women have more than three positive adjectives for every negative adjective, whereas men
+come in at slightly less than a two-to-one ratio.
