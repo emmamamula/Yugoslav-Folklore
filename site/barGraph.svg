@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(80,650)">
+      <line x1="0"
+            y1="0"
+            x2="650"
+            stroke="black"
+            stroke-width="2"
+            stroke-linecap="square"
+            y2="0"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="-600"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="0"
+            y1="-150"
+            x2="650"
+            y2="-150"
+            stroke="darkred"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <line x1="0"
+            y1="-300"
+            x2="650"
+            y2="-300"
+            stroke="darkred"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <line x1="0"
+            y1="-450"
+            x2="650"
+            y2="-450"
+            stroke="darkred"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <line x1="0"
+            y1="-600"
+            x2="650"
+            y2="-600"
+            stroke="darkred"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-5"
+            y="-150"
+            font-size="22"
+            text-anchor="end"
+            fill="darkred">25%</text>
+      <text x="-5"
+            y="-300"
+            font-size="22"
+            text-anchor="end"
+            fill="darkred">50%</text>
+      <text x="-5"
+            y="-450"
+            font-size="22"
+            text-anchor="end"
+            fill="darkred">75%</text>
+      <text x="-5"
+            y="-600"
+            font-size="22"
+            text-anchor="end"
+            fill="darkred">100%</text>
+      <rect x="150"
+            y="-394.2857142857142"
+            height="394.2857142857142"
+            width="25"
+            fill="red"
+            stroke="black"
+            stroke-width="2"/>
+      <rect x="150"
+            y="-600"
+            height="151.42857142857142"
+            width="25"
+            fill="blue"
+            stroke="black"
+            stroke-width="2"/>
+      <text x="187.5" y="-197.1428571428571">138 female
+        </text>
+      <text x="187.5" y="-524.2857142857143">53 male
+        </text>
+      <text x="162.5" y="20" text-anchor="middle">NOUNS</text>
+      <rect x="300"
+            y="-450"
+            height="450"
+            width="25"
+            fill="red"
+            stroke="black"
+            stroke-width="2"/>
+      <rect x="300"
+            y="-600"
+            height="134.21052631578948"
+            width="25"
+            fill="blue"
+            stroke="black"
+            stroke-width="2"/>
+      <text x="337.5" y="-225">57 female
+        </text>
+      <text x="337.5" y="-532.8947368421052">17 male
+        </text>
+      <text x="312.5" y="20" text-anchor="middle">ADJECTIVES</text>
+      <rect x="450"
+            y="-347.36842105263156"
+            height="347.36842105263156"
+            width="25"
+            fill="rgb(220,220,220)"
+            stroke="black"
+            stroke-width="2"/>
+      <rect x="450"
+            y="-600"
+            height="134.21052631578948"
+            width="25"
+            fill="rgb(80,80,80)"
+            stroke="black"
+            stroke-width="2"/>
+      <text x="487.5" y="-173.68421052631578">44 positive
+        </text>
+      <text x="487.5" y="-532.8947368421052">17 negative
+        </text>
+      <text x="462.5" y="20" text-anchor="middle">ADJECTIVES</text>
+   </g>
+</svg>
