@@ -347,16 +347,16 @@
 
         <l>Мобу зове <noun gender="male" relation="gen" type="name" id="n4">Јово</noun>
             <noun gender="male" relation="gen" type="gen" id="n5">момче</noun>
-            <adj gender="male" ref="n5">младо</adj></l>
+            <adj gender="male" ref="n5" posneg="positive">младо</adj></l>
         <l><noun gender="male" relation="gen" type="gen" id="n6">Јово</noun>
             <noun gender="male" relation="gen" type="gen" id="n7">момче</noun>
             <adj gender="male" posneg="positive" ref="n7">младо</adj> мобу зове</l>
         <l><noun gender="male" relation="gen" type="name" id="n8">Јово</noun>
             <noun gender="male" relation="gen" type="gen" id="n9">момче</noun>
-            <adj gender="male" ref="n9">младо</adj></l>
+            <adj gender="male" ref="n9" posneg="positive">младо</adj></l>
         <l>Мобу зове <noun gender="male" relation="gen" type="gen" id="n10">Јово</noun>
             <noun gender="male" relation="gen" type="gen" id="n11">момче</noun>
-            <adj gender="male" ref="n11">младо</adj></l>
+            <adj gender="male" ref="n11" posneg="positive">младо</adj></l>
         <l>Мобу зове и моби се нада</l>
         <l>Сва му моба пораније дошла</l>
         <l>Закаснила <noun gender="female" relation="gen" type="name" id="n12">Марија</noun>
@@ -467,7 +467,7 @@
             <noun gender="female" relation="fam" type="gen" id="n30">момо</noun>, лад.</l>
         <l>Ој убава <adj gender="female" posneg="positive" ref="n31">мала</adj>
             <noun gender="female" relation="fam" type="gen" id="n31">момо</noun>!</l>
-        <l><adj gender="male" ref="n32">Младо</adj>
+        <l><adj gender="male" ref="n32" posneg="positive">Младо</adj>
             <noun gender="male" relation="gen" type="gen" id="n32">момче</noun> Бога моли:</l>
         <l>"Дај ми, Боже, што те молим:</l>
         <l>претвори ме ситан бисер,</l>
@@ -496,7 +496,7 @@
         <l>Све изгоре, ништа не остаде,</l>
         <l>Сам' остаде дрво јаворово,</l>
         <l>И под њиме <noun gender="neutral" relation="gen" type="gen" id="n39">дете</noun>
-            <adj gender="male" ref="n39">мали</adj>
+            <adj gender="male" ref="n39" posneg="positive">мали</adj>
             <noun gender="male" relation="gen" type="name" id="n40">Јово</noun>.</l>
         <l><noun gender="female" relation="fam" type="gen" id="n41">Мајка</noun>
             <noun gender="male" relation="gen" type="name" id="n42">Јови</noun> тијо говорила:</l>
