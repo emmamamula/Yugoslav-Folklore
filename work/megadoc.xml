@@ -202,8 +202,8 @@
             <l>Shine on, and burn the <noun id="n94" relation="gen" type="gen" gender="female">maiden</noun>'s snowy
                 forehead.</l>
             <l>But I a gloomier dowry yet will give her;</l>
-            <l><adj ref="n95" gender="male">Evil</adj> to her shall be her <noun gender="male" type="gen" relation="fam" id="n95">husband's brother</noun>;</l>
-            <l><adj ref="n96" gender="male">Evil</adj> to her shall be her <noun gender="male" type="gen" relation="fam" id="n96">husband's father</noun>.</l>
+            <l><adj ref="n95" gender="male" posneg="negative">Evil</adj> to her shall be her <noun gender="male" type="gen" relation="fam" id="n95">husband's brother</noun>;</l>
+            <l><adj ref="n96" gender="male" posneg="negative">Evil</adj> to her shall be her <noun gender="male" type="gen" relation="fam" id="n96">husband's father</noun>.</l>
             <l>Then shall she think upon the affront she gave thee."</l>
         
 
@@ -244,7 +244,7 @@
             <l>One lonely day--another came in sadness;</l>
             <l>And the third dawn'd, and brought him sighs and sorrow:</l>
             <l>Then he address'd him to the forest <noun id="n107" gender="female" relation="gen" type="name">Vila</noun>:</l>
-            <l>"<adj posneg="positive" gender="male" ref="n108">Young</adj> <noun id="n108"  type="gen" relation="gen" gender="male">deer</noun>!" she said, "thou <adj gender="male" ref="n109">wild</adj> <noun gender="male" id="n109" type="gen" relation="gen">one</noun> of the forest,</l>
+            <l>"<adj posneg="positive" gender="male" ref="n108">Young</adj> <noun id="n108"  type="gen" relation="gen" gender="male">deer</noun>!" she said, "thou <adj gender="male" ref="n109" posneg="negative">wild</adj> <noun gender="male" id="n109" type="gen" relation="gen">one</noun> of the forest,</l>
             <l>Now tell me what great sorrow has oppress'd thee?</l>
             <l>Why wanderest thou thus in the forest lonely:</l>
             <l>Lonely one day,--another day in sadness,--</l>
