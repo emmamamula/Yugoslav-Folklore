@@ -12,12 +12,12 @@
                 </style>
             </head>
             <body>
-                <h1>Serb Songs</h1>
-                <h2>I spent five hours on xquery last night</h2>
+                <h1>Adjectives by Gender and Connotation</h1>
                 <table>
                     <tr>
-                        <th>Gender</th>
-                        <th>Positive/Negative</th>
+                        <th></th>
+                        <th>Female</th>
+                        <th>Male</th>
                     </tr>
                     <xsl:apply-templates select="//anthology"/>
                 </table>
@@ -26,19 +26,21 @@
     </xsl:template>
     <xsl:template match="anthology">
         <tr>
+            <td>Positive</td>
             <td>
-                <xsl:apply-templates select="count(descendant::adj[@gender='female', @posneg='positive'])"/>
+                <xsl:apply-templates select="count(descendant::adj[@gender='female' and @posneg='positive'])"/>
             </td>
             <td>
-                <xsl:apply-templates select="count(@gender='male')"/>
+                <xsl:apply-templates select="count(descendant::adj[@gender='male' and @posneg='positive'])"/>
             </td>
         </tr>
         <tr>
+            <td>Negative</td>
             <td>
-                <xsl:apply-templates select="count(@gender='female')"/>
+                <xsl:apply-templates select="count(descendant::adj[@gender='female' and @posneg='negative'])"/>
             </td>
             <td>
-                <xsl:apply-templates select="count(@gender='male')"/>
+                <xsl:apply-templates select="count(descendant::adj[@gender='male' and @posneg='negative'])"/>
             </td>
         </tr>
     </xsl:template>
