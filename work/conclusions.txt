@@ -11,3 +11,18 @@ The second surprise was how much more positive the female adjectives, on average
 than the male ones. While both men and women do have more positive than negative adjectives,
 women have more than three positive adjectives for every negative adjective, whereas men
 come in at slightly less than a two-to-one ratio.
+
+We think that this shows that the most popular songs, the ones that survived long enough
+to be written down, preserved, and even translated into English, were the ones that
+people survived and enjoyed. Seeing as these are Serbian women's songs, the ones that 
+
+
+---
+Research questions:
+
+Are men or women mentioned more in the Serbian women's songs, and are they described as being
+largely positive or negative? How do differences in connotation of adjectives show how the
+culture (or a subsection of it) viewed women?
+
+Our hypothesis was that women would be featured sparingly and in predominantly negative
+roles in the poems. This hypothesis is not supported by the data.
