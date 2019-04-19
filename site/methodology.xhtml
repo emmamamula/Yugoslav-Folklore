@@ -23,24 +23,29 @@
             </div>
             <div class="hasBackground">
                 <br />
-                <h2>#Methodology</h2>
+                <h2>Methodology</h2>
                 <br />
                 <br />
-                <h3>##Selection of Poems</h3>
+                <h3>Selection of Poems</h3>
                 <br />
-                <p>For this project, our group elected to use a mixture of poems in the original
-                    Serbian as well as translated English versions. While working solely in Serbian
-                    may have been preferable, the collective group's Serbian knowledge wasn't strong
-                    enough to gather a fully Serbian corpus while maintaining any sort of parity of
-                    work. Therefore, we decided to do half-English, half-Serbian.</p>
-                <p>The English-language *Anthology of Jugoslav Poetry* edited by Dr. Beatrice L.
-                    Stevenson was the best available source for English. It was both extensive, and
-                    old enough that it was outside copyright restrictions (as a plus, it was
-                    available in plain-text on Project Gutenburg, eliminating necessary
-                    transcription work).</p>
+                <p>For this project, our <a
+                        href="https://github.com/emmamamula/Yugoslav-Folklore/graphs/contributors"
+                        >*group*</a> elected to use a mixture of poems in the original Serbian as
+                    well as translated English versions. While working solely in Serbian may have
+                    been preferable, the collective group's Serbian knowledge wasn't strong enough
+                    to gather a fully Serbian corpus while maintaining any sort of parity of work.
+                    Therefore, we decided to do half-English, half-Serbian.</p>
+                <p>The English-language <a
+                        href="https://www.gutenberg.org/files/36091/36091-h/36091-h.htm">*Anthology
+                        of Jugoslav Poetry*</a> edited by Dr. Beatrice L. Stevenson was the best
+                    available source for English. It was both extensive, and old enough that it was
+                    outside copyright restrictions (as a plus, it was available in plain-text on
+                    Project Gutenburg, eliminating necessary transcription work).</p>
                 <br />
                 <p>However, there are two major concerns in the work. Firstly, the translations may
-                    not be as faithful to the original as we would like. For example, in poem VII of
+                    not be as faithful to the original as we would like. For example, in poem <a
+                        href="http://serb-songs.obdurodon.org/english-corpus.xhtml#PoemVII"
+                        >*VII*</a> of
                     the anthology, the line "And my drink metheglin sweet" appears. Metheglin is a
                     fairly specific adjective, referring to mead, and while Serbia and the Balkan
                     region does have an equivalent, "metheglin" itself is more common in British
@@ -53,13 +58,15 @@
                     drove our research in that direction, which influences strongly our
                     conclusions.</p>
                 <br />
-                <p>Our Serbian sources have a less complicated backstory. We draw them from Projekat
-                    Rastko, an online database of Serbian culture. The poems on this site are
+                <p>Our Serbian sources have a less complicated backstory. We draw them from <a
+                    href="https://www.rastko.rs/"
+                    >*Projekat
+                    Rastko*</a>, an online database of Serbian culture. The poems on this site are
                     generally much shorter than the ones in the *Anthology* and do not feature
                     stanzas. In total, we have 15 Serbian-language poems and 10 English-language
                     poems.</p>
                 <br />
-                <h3>##Markup</h3>
+                <h3>Markup</h3>
                 <br />
                 <p>The markup for this project includes fairly few different element types, but
                     quite a few attributes. We are not using many of these for the current phase of
@@ -75,12 +82,14 @@
                     standardized down to the level of line and below, which is where all our
                     relevant markup is located.</p>
                 <br />
-                <h3>###Nouns</h3>
+                <h3>Nouns</h3>
                 <br />
                 <p>Our noun element was `noun`. In this instance, noun referred not only to proper
                     and common nouns, but also, frequently, to pronouns as well. - `gender`: In our
                     project, we classified four gender: male, female, unknown, and plural. Male and
-                    female are fairly self-explanitory, but also not necessary easy. In poem V in
+                    female are fairly self-explanitory, but also not necessary easy. In poem <a
+                        href="http://serb-songs.obdurodon.org/english-corpus.xhtml#PoemV"
+                        >*V*</a> in
                     the English source, Harvest Song, for example, we had to puzzle out who was male
                     and female based on context cues and assumption about medieval Serbian farming
                     practices. Unknown was used largely for animals (not uncommon in the English
@@ -88,20 +97,20 @@
                     females. - `relation`: Relation could be set as "fam" for family, "rom" for
                     romantic, and "gen" for general, ie, anyone other than a family member or
                     romantic partner.</p>
-                <p>We wanted to see how descriptions changed based on whether
-                    characters were romantic partners or family members. Sometimes, this was harder
-                    to classify than one would think, given that a "bride", depending on the
-                    narrator could be a romantic partner, or a daughter-in-law, a family member.
-                    Given that we have too few of any individual kind to draw conclusions, this is
-                    not currently used. - `type`: Type was used to keep track of whether something
-                    was a name or not. Another researcher might think it was interesting what names
-                    popped up most frequently in the text but we did not end up using this
-                    attribute. Interestingly, proper names seem much more common in the Serbian
-                    sources. - `id`: the xsd:ID element let us give each noun a unique identifier so
-                    we could link it to one or more adjectives. This is not used in the current
-                    phase of the project.</p>
+                <p>We wanted to see how descriptions changed based on whether characters were
+                    romantic partners or family members. Sometimes, this was harder to classify than
+                    one would think, given that a "bride", depending on the narrator could be a
+                    romantic partner, or a daughter-in-law, a family member. Given that we have too
+                    few of any individual kind to draw conclusions, this is not currently used. -
+                    `type`: Type was used to keep track of whether something was a name or not.
+                    Another researcher might think it was interesting what names popped up most
+                    frequently in the text but we did not end up using this attribute.
+                    Interestingly, proper names seem much more common in the Serbian sources. -
+                    `id`: the xsd:ID element let us give each noun a unique identifier so we could
+                    link it to one or more adjectives. This is not used in the current phase of the
+                    project.</p>
                 <br />
-                <h3>###Adjectives</h3>
+                <h3>Adjectives</h3>
                 <br />
                 <p>Our adjective element was `adj`. It featured the following attributes. -
                     `posneg`: Posneg was either positive or negative. If something was neither
@@ -114,7 +123,9 @@
                     find the adjectives of a certain connotation and gender if both are attributes
                     within the same element so we thought it worth the trouble including it again. -
                     `ref`: xsd:IDREF allows us to match one or more adjectives to a single noun, so
-                    that Smilia of Poem IV can be a maiden that is not only sweet, but also young
+                    that Smilia of <a
+                        href="http://serb-songs.obdurodon.org/english-corpus.xhtml#PoemIV"
+                        >*Poem IV*</a> can be a maiden that is not only sweet, but also young
                     and fair.</p>
                 <br />
                 <p style="text-align:center;"><img
