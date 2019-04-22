@@ -1,0 +1,85 @@
+ol,
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2018/04/skyrim-vr.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    position: relative;
+}
+div.hasBackground {
+    background-color: rgba(183, 166, 157, 0.80);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 3%;
+    color: #060202;
+    font-family: "Georgia", sans-serif;
+    font-size: 18px;
+    overflow: auto;
+}
+
+span.NounFem {
+    color: darkred;
+    font-weight: bold;
+    border: 1px solid black;
+}
+span.NounMale {
+    color: darkblue;
+    font-weight: bold;
+    border: 1px solid black;
+}
+span.Noun {
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+span.AdjFemPos {
+    color: darkred;
+    font-weight: bold;
+    text-decoration: underline;
+}
+span.AdjFemNeg {
+    color: darkred;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+span.AdjMalePos {
+    color: darkblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+span.AdjMaleNeg {
+    color: darkblue;
+    font-style: italic;
+    text-decoration: underline;
+}
+span.AdjFem {
+    color: darkred;
+    text-decoration: underline;
+}
+span.AdjMale {
+    color: darkblue;
+    text-decoration: underline;
+}
+span.AdjPos {
+    font-weight: bold;
+    text-decoration: underline;
+}
+span.AdjNeg {
+    font-style: italic;
+    text-decoration: underline;
+}
+span.Adj {
+    color: orangered;
+}

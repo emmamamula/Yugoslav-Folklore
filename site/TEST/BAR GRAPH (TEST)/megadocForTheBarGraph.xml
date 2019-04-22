@@ -1,0 +1,742 @@
+﻿<?xml-stylesheet type="text/xsl" href="daniel_makes_a_bar_graph.xsl"?>
+<anthology>
+    <poem>
+        <number>IV</number>
+
+        <title><noun relation="gen" type="name" id="n2" gender="female">SMILIA</noun>[5]</title>
+
+
+        <l><adj ref="n3" gender="female" posneg="positive">Sweet</adj>
+            <noun relation="gen" id="n3" gender="female" type="name">Smilia</noun>-flowers did <noun
+                relation="gen" id="n8" gender="female" type="name">Smilia</noun> pull,</l>
+        <l>Her sleevelets and <des posneg="negative" gender="female">her bosom full</des>;</l>
+        <l>By the cool stream she gather'd them,</l>
+        <l>And twined her many a diadem--</l>
+        <l>A diadem of flowery-wreaths;--</l>
+        <l><des posneg="positive" gender="female">One round her brows its fragrance
+            breathes</des>;</l>
+        <l>One to her bosom-friend she throws;</l>
+        <l>The other where the streamlet flows</l>
+        <l>She flings, and says in gentlest tone--</l>
+        <l>"Swim on, thou odorous wreath! swim on,</l>
+        <l>Swim to my <noun type="name" id="n5" gender="male" relation="rom">Juris</noun>' home, and
+            there</l>
+        <l>O whisper in his <noun relation="fam" type="gen" id="n6" gender="female">mother</noun>'s
+            ear:</l>
+        <l>'Say, wilt thou not thy <noun type="name" id="n7" gender="male" relation="rom"
+                >Juris</noun> wed?--</l>
+        <l>Then give him not a widow's bed;</l>
+        <l>But some <adj gender="female" posneg="positive" ref="n4">sweet</adj>
+            <noun type="gen" relation="rom" gender="female" id="n4">maiden</noun>, <adj ref="n4"
+                gender="female" posneg="positive">young</adj> and <adj ref="n4" gender="female"
+                posneg="positive">fair</adj>.'"</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>V</number>
+
+        <title>HARVEST SONG</title>
+
+
+        <l>Take hold of your reeds, <noun relation="rom" id="n9" type="gen" gender="male"
+                >youths</noun> and <noun relation="rom" type="gen" id="n10" gender="female"
+                >maiden</noun>s! and see</l>
+        <l>Who the <noun id="n24" relation="rom" type="gen" gender="female">kissers</noun> and <noun
+                id="n12" gender="female" relation="rom" type="gen">kiss'd</noun> of the <noun
+                relation="rom" type="gen" id="n13" gender="male">reapers</noun> shall be.</l>
+        <l>Take hold of your reeds, till the secret be told,</l>
+        <l>If the <noun relation="rom" type="gen" id="n14" gender="unknown">old</noun> shall kiss
+                <noun relation="rom" type="gen" gender="unknown" id="n15">young</noun>, and the
+                <noun id="n16" relation="rom" gender="unknown" type="gen">young</noun> shall kiss
+                <noun id="n49" type="gen" relation="rom" gender="unknown">old</noun></l>
+        <l>Take hold of your reeds, <noun relation="rom" type="gen" id="n18" gender="male"
+                >youths</noun> and <noun id="n19" gender="female" relation="rom" type="gen"
+                >maidens</noun>! and see</l>
+        <l>What fortune and chance to the drawers decree:</l>
+        <l>And if any refuse, may <noun id="n20" relation="fam" type="name" gender="unknown"
+                >God</noun> smite <noun type="gen" relation="rom" id="n21" gender="plural"
+                >them</noun>--may <noun type="gen" relation="rom" id="n22" gender="plural"
+                >they</noun></l>
+        <l>Be cursed by <noun relation="gen" id="n23" type="name" gender="female">Paraskeva</noun>,
+            the <noun id="n25" type="gen" relation="gen" gender="female">saint</noun> of to-day!</l>
+        <l>Now loosen <noun id="n26" type="gen" relation="rom" gender="unknown">your</noun>
+            hands--now loosen, and see</l>
+        <l>Who the <noun id="n27" gender="female" type="gen" relation="rom">kissers</noun> and <noun
+                id="n28" type="gen" relation="rom" gender="female">kiss'd</noun> of the <noun
+                id="n29" type="gen" relation="gen" gender="male">reapers</noun> shall be.[6]</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>VII</number>
+
+        <title>KISSES</title>
+
+
+        <l>What's the time of night, <noun id="n32" type="gen" relation="rom" gender="female">my
+                dear</noun>?</l>
+        <l>For my <noun id="n33" type="gen" gender="female" relation="rom">maiden</noun> said,
+                "<noun type="gen" id="n34" relation="rom" gender="male">I</noun>'ll come"--</l>
+        <l>Said "<noun id="n35" type="gen" gender="male" relation="rom">I</noun>'ll come,"--but is
+            not here:</l>
+        <l>And 'tis now the midnight's gloom.</l>
+        <l>Lone and silent home <noun id="n36" type="gen" gender="male" relation="rom">I</noun>
+            turn'd;</l>
+        <l>But upon the bridge <noun type="gen" id="n37" gender="male" relation="rom">I</noun> met
+                <noun id="n38" type="gen" gender="female" relation="rom">her</noun>--</l>
+        <l>Kiss'd <noun id="n39" type="gen" gender="female" relation="rom">her</noun>: How my hot
+            lips burned!--</l>
+        <l>How forget it--how forget <noun id="n40" type="gen" gender="female" relation="rom"
+                >her</noun>!</l>
+        <l>In one kiss full ten <noun id="n41" type="gen" gender="male" relation="rom">I</noun>
+            drew:</l>
+        <l>And upon my lips there grew,</l>
+        <l>From that hour, a honey-dew,</l>
+        <l>
+            <des posneg="positive" gender="male">As if sugar were my meat,</des>
+        </l>
+        <l>
+            <des posneg="positive" gender="male">And my drink metheglin sweet.</des>
+        </l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>X</number>
+
+        <title>SALUTATION OF THE <adj ref="n46" gender="female">MORNING</adj>
+            <noun id="n46" gender="female" type="gen" relation="fam">STAR</noun></title>
+
+
+        <l>Lo! the <noun id="n42" type="gen" relation="fam" gender="female">maiden</noun> greets the
+                <noun id="n43" type="gen" relation="fam" gender="female">day-star</noun>! "<noun
+                id="n44" type="gen" relation="fam" gender="female">Sister</noun>!</l>
+        <l><adj ref="n45" gender="female">Sister</adj>
+            <noun id="n45" type="gen" relation="fam" gender="female">star</noun> of morning! well
+                <noun id="n47" type="gen" relation="fam" gender="female">I</noun> greet <noun
+                id="n48" type="gen" relation="fam" gender="female">thee</noun>;</l>
+        <l>Thou dost watch the world from thine uprising</l>
+        <l>To thy sinking hour. In Hercegovina,</l>
+        <l>Tell me didst thou see the princely <noun id="n50" relation="gen" type="name"
+                gender="male">Stephan</noun>?</l>
+        <l>Tell me, was his snowy palace open,</l>
+        <l>Were his steeds caparisoned, and ready;</l>
+        <l>And was he equipp'd his <noun id="n51" gender="female" type="gen" relation="rom"
+                >bride</noun> to visit?"</l>
+
+
+
+        <l>Gently then the <adj ref="n52" gender="female">morning</adj>
+            <noun id="n52" gender="female" relation="fam" type="gen">star</noun> responded:</l>
+        <l>"<adj ref="n53" posneg="positive" gender="female">Lovely</adj>
+            <noun id="n53" type="gen" relation="fam" gender="female">sister</noun>! beautiful <adj
+                ref="n54" gender="female" posneg="positive">young</adj>
+            <noun id="n54" type="gen" relation="rom" gender="female">maiden</noun>,</l>
+        <l>True, I watch the world from my uprising</l>
+        <l>To my setting;--and in Hercegovina</l>
+        <l>Saw the palace of the princely <noun id="n57" relation="gen" gender="male" type="name"
+                >Stephan</noun>;</l>
+        <l>And that snowy palace was wide open,</l>
+        <l>And his horse was saddled, and was ready,</l>
+        <l>And he was equipp'd his <noun id="n56" type="gen" relation="rom" gender="female"
+                >bride</noun> to visit:</l>
+        <l>But not thee--not thee--another <noun id="n55" relation="gen" type="gen" gender="female"
+                >maiden</noun>;</l>
+        <l><adj gender="unknown" posneg="negative" ref="n58">False</adj>
+            <noun id="n58" type="gen" relation="gen" gender="unknown">tongues</noun> three have
+            whisper'd evil of thee;</l>
+        <l>One has said--<adj ref="n59" gender="female">thine</adj>
+            <noun id="n59" gender="female" relation="gen" type="gen">origin</noun> is <adj ref="n59"
+                gender="female" posneg="negative">lowly</adj>;</l>
+        <l>One, that <noun gender="female" type="gen" relation="gen" id="n60">thou</noun> art <adj
+                ref="n60" gender="female" posneg="negative">treacherous</adj> as a serpent;</l>
+        <l>And the third, that <noun gender="female" id="n61" relation="gen" type="gen">thou</noun>
+            art <adj ref="n61" gender="female" posneg="negative">dull</adj> and <adj
+                posneg="negative" gender="female" ref="n61">dreamy</adj>."</l>
+
+
+
+        <l>Then the <noun id="n64" type="gen" relation="fam" gender="female">maiden</noun> pour'd
+            her imprecations:</l>
+        <l>"He who said my origin was lowly,</l>
+        <l>Never let a child of love be born him;</l>
+        <l>He who called me treacherous as a serpent,</l>
+        <l>Round his heart, O! let a serpent wreathe it;</l>
+        <l>Through hot summers in his hair be tangled,</l>
+        <l>Through cold winters in his bosom nestle;</l>
+        <l>He who dar'd to call me dull and dreamy,</l>
+        <l>Nine long years may he be worn by sickness,</l>
+        <l>And no sleep renew his strength to bear it."</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XI</number>
+
+        <title>THE <noun id="n62" type="gen" gender="female" relation="gen">KNITTER</noun></title>
+
+
+        <l>The <noun id="n63" gender="female" relation="gen" type="gen">maiden</noun> sat upon the
+            hill,</l>
+        <l>Upon the hill and far away,</l>
+        <l>Her fingers wove a silken cord,</l>
+        <l>And thus I heard the <noun id="n65" type="gen" relation="gen" gender="female"
+                >maiden</noun> say:</l>
+        <l>"O with what joy, what ready will,</l>
+        <l>If some <adj posneg="positive" ref="n67" gender="male">fond</adj>
+            <noun id="n67" relation="rom" type="gen" gender="male">youth</noun>, some <noun id="n66"
+                relation="rom" type="gen" gender="male">youth</noun>
+            <adj gender="male" ref="n66" posneg="positive">adored</adj>,</l>
+        <l>Might wear thee, should I weave thee now!</l>
+        <l>The finest gold I'd interblend,</l>
+        <l>The richest pearls as white as snow.</l>
+        <l>But if I knew, my silken friend,</l>
+        <l>That an <adj ref="n68" gender="male" posneg="negative">old</adj>
+            <noun id="n68" gender="male" relation="gen" type="gen">man</noun>[11] should wear thee,
+            I</l>
+        <l>The coarsest worsted would inweave,</l>
+        <l>Thy finest silk for dog-grass leave,</l>
+        <l>And all thy knots with nettles tie."</l>
+
+        <translator>S. J. B.</translator>
+        <!-- Translator not in original work but credited in title page -->
+    </poem>
+
+    <poem>
+        <number>XIII</number>
+
+        <title>
+            <noun gender="female" type="name" relation="gen" id="n69">ROSA</noun>
+        </title>
+
+
+        <l>Under roses slept the <noun type="gen" id="n70" gender="female" relation="gen"
+                >maiden</noun>
+            <noun type="gen" id="n71" relation="gen" gender="female">Rosa</noun>,</l>
+        <l>And a rose fell down and waken'd <noun id="n72" type="gen" gender="female" relation="gen"
+                >Rosa</noun>;</l>
+        <l>To the <noun gender="female" relation="gen" id="n73" type="gen">flower-rose</noun>, said
+            the <noun id="n74" type="gen" relation="gen" gender="female">maiden</noun>
+            <noun id="n75" relation="gen" type="name" gender="female">Rosa</noun>--</l>
+        <l>"<noun gender="female" type="gen" relation="gen" id="n76">Rose</noun> of mine! O fall,
+            not on the <noun id="n77" relation="gen" type="gen" gender="female">maiden</noun>,</l>
+        <l>I am in no tune of soul to love thee,</l>
+        <l>For a heavy grief o'erwhelms my spirit;</l>
+        <l><noun id="n78" type="gen" relation="rom" gender="male">youth</noun>would have me--but old
+            age hath won me.</l>
+        <l>An <adj ref="n79" gender="male" posneg="negative">old</adj>
+            <noun id="n79" gender="male" relation="rom" type="gen">bridegroom</noun> is a <adj
+                gender="unknown" posneg="negative" ref="n80">worthless</adj>
+            <noun gender="unknown" type="gen" relation="gen" id="n80">maple</noun>;</l>
+        <l>When the wind is up it faints and trembles;</l>
+        <l>When the rain descends, decay decays it:</l>
+        <l>But a <adj ref="n81" gender="female" posneg="negative">young</adj>
+            <noun id="n81" gender="female" relation="rom" type="gen">bride</noun>, is a <noun
+                id="n82" type="gen" relation="gen" gender="female">roselet</noun>
+            <adj gender="female" ref="n82" posneg="positive">budding</adj>;</l>
+        <l>When the wind is up, its fair leaves open,</l>
+        <l>When the rain descends, it shines in beauty,--</l>
+        <l>When the sun comes forth, it smiles and glories."</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XIV</number>
+
+        <title>THE <noun id="n83" type="gen" relation="gen" gender="female">maiden</noun> AND THE
+                <noun gender="unknown" relation="gen" type="gen" id="n84">SUN</noun></title>
+
+
+        <l>A <noun id="n85" relation="gen" type="gen" gender="female">maiden</noun> proudly thus the
+                <noun id="n86" gender="unknown" relation="gen" type="gen">sun</noun> accosted:</l>
+        <l>"<noun id="n87" type="gen" relation="gen" gender="unknown">Sun</noun>! <noun
+                gender="female" relation="gen" type="gen" id="n88">I</noun> am <adj gender="female"
+                posneg="positive" ref="n88">fairer</adj> far than thou,--far <adj gender="female"
+                posneg="positive" ref="n88">fairer</adj>;</l>
+        <l><adj ref="n88" posneg="positive" gender="female">Fairer</adj> than is thy sister[12] or
+            thy brethren,--</l>
+        <l><adj ref="n88" posneg="positive" gender="female">Fairer</adj> than yon bright moon at
+            midnight shining,</l>
+        <l><adj ref="n88" posneg="positive" gender="female">Fairer</adj> than yon gay star in
+            heav'n's arch twinkling,</l>
+        <l>That star, all other stars preceding proudly,</l>
+        <l>As walks before his sheep the careful shepherd."</l>
+        <l>The sun complain'd to God of such an insult:</l>
+        <l>"What shall be done with this <adj ref="n89" gender="female" posneg="negative"
+                >presumptuous</adj>
+            <noun relation="gen" id="n89" type="gen" gender="female">maiden</noun>?"</l>
+        <l>And to the <noun id="n90" gender="unknown" type="gen" relation="gen">sun</noun>
+            <noun relation="gen" type="name" gender="unknown" id="n91">God</noun> gave a speedy
+            answer:</l>
+        <l>"Thou glorious <noun id="n92" gender="female" type="gen" relation="fam">Sun</noun>! thou
+            my <adj gender="female" posneg="positive" ref="n93">beloved</adj>
+            <noun id="n93" relation="fam" gender="female" type="gen">daughter</noun>![13]</l>
+        <l>Be joyous yet! say, why art thou <adj ref="n92" posneg="negative" gender="female"
+                >dejected</adj>?</l>
+        <l>Wilt thou reward the <noun id="n128" type="gen" relation="gen" gender="female"
+                >maiden</noun> for her folly--</l>
+        <l>Shine on, and burn the <noun id="n94" relation="gen" type="gen" gender="female"
+                >maiden</noun>'s snowy forehead.</l>
+        <l>But I a gloomier dowry yet will give her;</l>
+        <l><adj ref="n95" gender="male">Evil</adj> to her shall be her <noun gender="male"
+                type="gen" relation="fam" id="n95">husband's brother</noun>;</l>
+        <l><adj ref="n96" gender="male">Evil</adj> to her shall be her <noun gender="male"
+                type="gen" relation="fam" id="n96">husband's father</noun>.</l>
+        <l>Then shall she think upon the affront she gave thee."</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+    <poem>
+        <number>XVI</number>
+
+        <title>THE <noun gender="unknown" relation="gen" type="gen" id="n103">FALCON</noun></title>
+
+
+        <l>The <noun id="n97" gender="unknown" relation="gen" type="gen">falcon</noun> soars both
+            far and high,</l>
+        <l>He spreads his pinions in the sky,</l>
+        <l>Then from his cloudy heights he lowers,</l>
+        <l>And seats him on the city's towers:</l>
+        <l>He sees a <adj gender="female" posneg="positive" ref="n98">laughing</adj>
+            <noun id="n98" type="gen" relation="gen" gender="female">girl</noun> of <adj ref="n98"
+                posneg="positive" gender="female">grace</adj>,</l>
+        <l>In crystal water bathe her face;</l>
+        <l>And looks with <adj ref="n99" gender="female" posneg="positive">open</adj>, <adj
+                posneg="positive" gender="female" ref="n99">eager</adj>
+            <noun id="n99" gender="female" relation="gen" type="gen">eye</noun></l>
+        <l>Upon her <noun gender="female" type="gen" relation="gen" id="n100">neck</noun>
+            <adj posneg="positive" gender="female" ref="n100">of ivory</adj>:</l>
+        <l><adj ref="n100" gender="female" posneg="positive">White</adj> as the snow upon the
+            mountain;</l>
+        <l>And there he hears a <noun id="n101" gender="male" relation="rom" type="gen"
+            >youth</noun>recounting</l>
+        <l>His tale of love.--"Now bend thy head</l>
+        <l>Upon thy <adj gender="female" posneg="positive" ref="n102">snowy</adj>
+            <noun id="n102" type="gen" relation="rom" gender="female">neck</noun>," he said;</l>
+        <l>"Its whiteness is too bright for me:</l>
+        <l>And 'neath it sorrowing heart may be."</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XVII</number>
+
+        <title><noun id="n104" type="gen" relation="gen" gender="male">DEER</noun> AND <noun
+                gender="female" relation="gen" type="name" id="n105">VILA</noun></title>
+
+
+        <l>A <adj ref="n106" gender="male" posneg="positive">young</adj>
+            <noun id="n106" type="gen" relation="gen" gender="unknown">deer</noun> tracked his way
+            through the green forest,</l>
+        <l>One lonely day--another came in sadness;</l>
+        <l>And the third dawn'd, and brought him sighs and sorrow:</l>
+        <l>Then he address'd him to the forest <noun id="n107" gender="female" relation="gen"
+                type="name">Vila</noun>:</l>
+        <l>"<adj posneg="positive" gender="male" ref="n108">Young</adj>
+            <noun id="n108" type="gen" relation="gen" gender="male">deer</noun>!" she said, "thou
+                <adj gender="male" ref="n109">wild</adj>
+            <noun gender="male" id="n109" type="gen" relation="gen">one</noun> of the forest,</l>
+        <l>Now tell me what great sorrow has oppress'd thee?</l>
+        <l>Why wanderest thou thus in the forest lonely:</l>
+        <l>Lonely one day,--another day in sadness,--</l>
+        <l>And the third day with sighs and anguish groaning?"</l>
+
+
+
+        <l>And thus the <adj posneg="positive" ref="n110" gender="male">young</adj>
+            <noun id="n110" type="gen" relation="gen" gender="male">deer</noun> to the <noun
+                id="n113" relation="gen" gender="female" type="name">Vila</noun> answer'd:</l>
+        <l>"O thou <adj posneg="positive" gender="female" ref="n111">sweet</adj>
+            <noun gender="female" relation="gen" type="gen" id="n111">sister</noun>! <noun
+                gender="female" type="name" relation="gen" id="n112">Vila</noun> of the forest!</l>
+        <l>Me has indeed a heavy grief befallen;</l>
+        <l>For I had once a <noun id="n114" type="gen" gender="female" relation="rom">fawn</noun>,
+            mine own <adj gender="female" ref="n114" posneg="positive">beloved</adj>,</l>
+        <l>And one sad day she sought the running water:</l>
+        <l>She enter'd it, but came not back to bless me:</l>
+        <l>Then tell me, had she lost her way and wander'd?</l>
+        <l>Was she pursued and captured by the huntsman?</l>
+        <l>Or has she left me?--has she wholly left me?--</l>
+        <l>Loving some other <noun id="n115" type="gen" relation="gen" gender="male"
+            >deer</noun>--and I forgotten.</l>
+        <l>O! if she has but lost her way, and wanders,</l>
+        <l>Teach her to find it--bring her back to love me.</l>
+        <l>O! if she has been captured by the huntsman,</l>
+        <l>Then may a fate as sad as mine await him.</l>
+        <l>But if <noun id="n116" gender="female" relation="rom" type="gen">she</noun> has forsaken
+            me--if, <adj gender="female" ref="n116">faithless</adj>,</l>
+        <l>She loves another <noun id="n117" type="gen" relation="gen" gender="male"
+            >deer</noun>--and I forgotten--</l>
+        <l>Then may the huntsman speedily o'er take her."</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XVIII</number>
+
+        <title><noun gender="female" type="gen" relation="gen" id="n118">VIRGIN</noun> AND <noun
+                gender="female" id="n119" relation="gen" type="gen">WIDOW</noun></title>
+
+
+        <l>Over Sarajevo flies a falcon,</l>
+        <l>Looking round for cooling shade to cool him.</l>
+        <l>Then he finds a pine on Sarajevo;</l>
+        <l>Under it a well of sparkling water;</l>
+        <l>By the water, <noun id="n120" type="name" relation="gen" gender="female">Hyacinth</noun>,
+            the <noun id="n121" gender="female" relation="fam" type="gen">widow</noun>,</l>
+        <l>And the <noun id="n122" type="name" relation="gen" gender="female">Rose</noun>, the <adj
+                ref="n123" gender="female" posneg="positive">young</adj>, <adj ref="n123"
+                gender="female">unmarried</adj>
+            <noun gender="female" relation="gen" type="gen" id="n123">virgin</noun>.</l>
+        <l>He look'd down--the falcon--and bethought him:</l>
+        <l>"Shall I kiss <adj gender="female" posneg="negative" ref="n124">grave</adj>
+            <noun gender="female" id="n124" type="name" relation="gen">Hyacinth</noun>, the <noun
+                id="n126" relation="gen" type="gen" gender="female">widow</noun>;</l>
+        <l>Or the <noun gender="female" type="name" relation="rom" id="n127">Rose</noun>, the <adj
+                gender="female" ref="n128" posneg="positive">young</adj>, <adj gender="female"
+                ref="n133">unmarried</adj>
+            <noun id="n133" gender="female" type="gen" relation="gen">virgin</noun>?"</l>
+        <l>Thinking thus--at last the bird determined--</l>
+        <l>And he whisper'd to himself sedately,</l>
+        <l>"Gold--though long employ'd, is far, far better</l>
+        <l>Than the finest silver freshly melted,"</l>
+        <l>So he kiss'd--kiss'd <noun gender="female" id="n130" relation="rom" type="name"
+                >Hyacinth</noun>, the <noun id="n131" type="gen" relation="rom" gender="female"
+                >widow</noun>.</l>
+        <l>Very <adj gender="female" posneg="negative" ref="n132">wroth</adj> wax'd then <adj
+                ref="n132" posneg="positive" gender="female">young</adj>
+            <noun id="n132" gender="female" relation="gen" type="name">Rose</noun>, the <noun
+                relation="gen" gender="female" type="gen" id="n134">virgin</noun>:</l>
+        <l>"Sarajevo! let a ban be on thee!</l>
+        <l>Cursed be thy strange and evil customs!</l>
+        <l>For thy <noun gender="male" id="n140" relation="rom" type="gen">youths</noun> they love
+            the bygone widows,</l>
+        <l>And thy <adj posneg="negative" gender="male" ref="n142">aged</adj>
+            <noun id="n142" type="gen" relation="rom" gender="male">men</noun> the <adj
+                gender="female" ref="n143" posneg="negative">untried</adj>
+            <noun gender="female" relation="rom" type="gen" id="n143">virgins</noun>."</l>
+
+
+        <translator>S. J. B.</translator>
+    </poem>
+    <title>Српске народне женске песме за певање</title>
+    <arranger>приредила Светлана Спајић, вокална група Дрина</arranger>
+    <email>drina@eunet.yu</email>
+    <TOC>
+
+        <songnm>Јесам ли ти говорила, миле</songnm>
+        <songnm>Мобу зове Јово момче младо</songnm>
+        <songnm>Чувам овце у ливади доле</songnm>
+        <songnm>Девојчица цвеће брала па је заспала</songnm>
+        <songnm>Ђевојко ружо румена</songnm>
+        <songnm>Дођи, лоло, довече сам сама</songnm>
+        <songnm>Ајде, драги, д'имо ближе брега</songnm>
+        <songnm>Грабајте да грабамо</songnm>
+        <songnm>Извор вода извирала, ладна ледена</songnm>
+        <songnm>Ој убава, мала момо (Младо момче бога моли)</songnm>
+        <songnm>Запали се Ивица планина</songnm>
+        <songnm>Заспала Јока Богутовка</songnm>
+        <songnm>Ој, девојко, коласта јабуко</songnm>
+        <songnm>Чува мајка Јову и Јованку</songnm>
+        <songnm>Ој, дивојко, мило моје</songnm>
+    </TOC>
+    <song>
+        <name>Јесам ли ти говорила, миле</name>
+        <l> Јесам ли ти говорила, <noun gender="female" relation="rom" type="gen" id="n1"
+                >миле</noun></l>
+        <l>јесам ли ти, јесам ли ти</l>
+        <l>говорила <noun gender="female" relation="rom" type="gen" id="n2">миле</noun></l>
+        <l>да не пијеш, да не пијеш</l>
+        <l>ладне воде Дрине,</l>
+        <l>да не пијеш, да не пијеш.</l>
+        <l>Дрину воду затровале виле,</l>
+        <l>Дрину воду, Дрину воду</l>
+        <l>затровале виле,</l>
+        <l>па се бојим, па се бојим</l>
+        <l>И тебе ће, <noun gender="female" relation="rom" type="gen" id="n3">миле</noun>,</l>
+        <l>па се бојим, па се бојим.</l>
+
+        <perfinstruct>канталица, Цулине, српско Подриње</perfinstruct>
+    </song>
+    <song>
+        <name>Мобу зове Јово момче младо</name>
+
+        <l>Мобу зове <noun gender="male" relation="gen" type="name" id="n4">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n5">момче</noun>
+            <adj gender="male" ref="n5">младо</adj></l>
+        <l><noun gender="male" relation="gen" type="gen" id="n6">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n7">момче</noun>
+            <adj gender="male" posneg="positive" ref="n7">младо</adj> мобу зове</l>
+        <l>
+            <noun gender="male" relation="gen" type="name" id="n8">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n9">момче</noun>
+            <adj gender="male" ref="n9">младо</adj>
+        </l>
+        <l>Мобу зове <noun gender="male" relation="gen" type="gen" id="n10">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n11">момче</noun>
+            <adj gender="male" ref="n11">младо</adj></l>
+        <l>Мобу зове и моби се нада</l>
+        <l>Сва му моба пораније дошла</l>
+        <l>Закаснила <noun gender="female" relation="gen" type="name" id="n12">Марија</noun>
+            <noun gender="female" type="gen" relation="gen" id="n13">девојка</noun></l>
+        <l>Закаснила чешљала је <noun gender="female" relation="fam" type="gen" id="n14"
+                >мајка</noun></l>
+
+        <perfinstruct>жетелачка, на бас, Рибашевина код Ужица</perfinstruct>
+    </song>
+    <song>
+        <name>Чувам овце у ливади доле</name>
+
+        <l>Чувам овце у ливади доле</l>
+        <l>у ливади доле</l>
+        <l>Чувам овце у ливади доле</l>
+        <l>Оре <noun gender="female" type="gen" relation="rom" id="n15">миле</noun>, виче на
+            волове</l>
+        <l>Окреће се и тамо и амо</l>
+        <l>Не би ли ме негде угледао</l>
+        <l>Ја га видим ал му се не јављам</l>
+        <l>Не смем само стадо да остављам</l>
+
+        <perfinstruct>чобанска, Јарменовци код Тополе</perfinstruct>
+    </song>
+    <song>
+        <name>Девојчица цвеће брала па је заспала</name>
+
+        <l><noun gender="female" relation="gen" type="gen" id="n16">Девојчица</noun> цвеће
+            брала,</l>
+        <l>па је заспала</l>
+        <l>па је заспала</l>
+        <l><noun gender="female" relation="gen" type="gen" id="n17">Девојчица</noun> цвеће брала</l>
+        <l>Па је заспала</l>
+        <l>Будило је младо <noun gender="female" relation="fam" type="gen" id="n18">момче</noun></l>
+        <l>Младо грађанче:</l>
+        <l>Устани де <noun gender="female" relation="gen" type="gen" id="n19">девојчице</noun></l>
+        <l>Што си заспала</l>
+
+        <perfinstruct>жетелачка, на глас, Ваљевска Подгорина</perfinstruct>
+    </song>
+    <song>
+        <name>Ђевојко ружо румена</name>
+
+        <l><noun gender="female" relation="gen" type="gen" id="n20">Ђевојко</noun>, ружо румена</l>
+        <l>За ког си лице белила</l>
+        <l>За мене и тебе, о мој <noun gender="female" relation="gen" type="gen" id="n21"
+                >драгане</noun></l>
+
+        <perfinstruct>сватовска, Рибашевина код Ужица</perfinstruct>
+    </song>
+    <song>
+        <name>Дођи, лоло, довече сам сама</name>
+
+        <l>Дођи, лоло, довече сам сама</l>
+        <l>еј, дођи лоло, довече сам сама</l>
+        <l>Дођи лоло, довече сам сама</l>
+        <l>Кад си сама, а де ти је нана?</l>
+        <l>Моја <noun gender="female" relation="fam" type="gen" id="n22">нана</noun> пијана па
+            спава</l>
+        <perfinstruct> на бас, Брњци, Подриње</perfinstruct>
+    </song>
+    <song>
+        <name>Ајде, драги, д'имо ближе брега</name>
+
+        <l>Ајде <noun gender="male" relation="rom" type="gen" id="n23">драги</noun>, д'имо ближе
+            брега</l>
+        <l>Да видимо како вила бега</l>
+        <l>Вила бега пред ноге не гледа</l>
+        <l>Осуђена није више вила</l>
+        <l>Што да љуби у гори пастира</l>
+        <perfinstruct>Милатовац, Хомоље</perfinstruct>
+    </song>
+    <song>
+        <name>Грабајте да грабамо</name>
+
+        <l>Грабајте да грабамо,</l>
+        <l>куј може, куј не може,</l>
+        <l>ја мога, ја уграба,</l>
+        <l>а <noun gender="female" relation="gen" type="gen" id="n24">девојке</noun> не могаше,</l>
+        <l>китке им попадаше,</l>
+        <l><noun gender="male" relation="gen" type="gen" id="n25">момчета</noun> покупише,</l>
+        <l>у џепове натураше.</l>
+        <l>Ој убава, убава <noun gender="female" relation="gen" type="gen" id="n26"
+            >девојко</noun>!</l>
+
+        <perfinstruct>жетелачка, Велики Крчимир, Заплање, код Ниша</perfinstruct>
+    </song>
+    <song>
+        <name>Извор вода извирала, ладна ледена</name>
+
+        <l>Извор вода извирала,</l>
+        <l>ладна ледена,</l>
+        <l>ладна ледена.</l>
+        <l>Извор вода извирала ладна ледена,</l>
+        <l>ту <noun gender="female" relation="gen" type="gen" id="n27">девојке</noun>
+            <des posneg="positive">шећер мећу да је медена</des>,</l>
+        <l>а <noun gender="male" relation="gen" type="gen" id="n28">момци</noun> су водоноше, воду
+            попише.</l>
+
+        <perfinstruct>жетелачка, на глас, Црнућа под Рудником</perfinstruct>
+    </song>
+    <song>
+        <name>Ој убава, мала момо (Младо момче бога моли)</name>
+
+        <l>Ој убава <adj gender="female" posneg="positive" ref="n29">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n29">момо</noun>, ладо, ладо,</l>
+        <l>ој убава <adj gender="female" posneg="positive" ref="n30">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n30">момо</noun>, лад.</l>
+        <l>Ој убава <adj gender="female" posneg="positive" ref="n31">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n31">момо</noun>!</l>
+        <l><adj gender="male" ref="n32">Младо</adj>
+            <noun gender="male" relation="gen" type="gen" id="n32">момче</noun> Бога моли:</l>
+        <l>"Дај ми, Боже, што те молим:</l>
+        <l>претвори ме ситан бисер,</l>
+        <l>расипи ме пред кладенце,</l>
+        <l>где <noun gender="female" relation="gen" type="gen" id="n33">девојке</noun> воду
+            точе,</l>
+        <l>где <noun gender="female" relation="rom" type="gen" id="n34">невесте</noun>
+            <des posneg="positive">платно беле</des>,</l>
+        <l>да ме нижу, да ме носе,</l>
+        <l>да ме носе око грло,</l>
+        <l>за грло сам загинуо,</l>
+        <l>за <noun gender="female" relation="gen" type="gen" id="n35">девојче</noun> душу дао."</l>
+        <l>Ој убава <adj gender="female" posneg="positive" ref="n36">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n36">момо</noun>!</l>
+
+        <perfinstruct>краљичка, Дадинци код Лесковца</perfinstruct>
+    </song>
+    <song>
+        <name>Запали се Ивица планина</name>
+
+        <l>Запали се , запали се</l>
+        <l>запали се <noun gender="female" relation="gen" type="name" id="n37">Ивица
+            планина</noun></l>
+        <l>Запали се <noun gender="female" relation="gen" type="name" id="n38">Ивица
+            планина</noun>,</l>
+        <l>Све изгоре, ништа не остаде,</l>
+        <l>Сам' остаде дрво јаворово,</l>
+        <l>И под њиме <noun gender="neutral" relation="gen" type="gen" id="n39">дете</noun>
+            <adj gender="male" ref="n39">мали</adj>
+            <noun gender="male" relation="gen" type="name" id="n40">Јово</noun>.</l>
+        <l><noun gender="female" relation="fam" type="gen" id="n41">Мајка</noun>
+            <noun gender="male" relation="gen" type="name" id="n42">Јови</noun> тијо говорила:</l>
+        <l>"Расти, <noun gender="male" relation="fam" type="gen" id="n43">сине</noun>, за недељу
+            дана,</l>
+        <l>За недељу кано за годину."</l>
+
+        <perfinstruct>Из Поповића код Неготина</perfinstruct>
+    </song>
+    <song>
+        <name>Заспала Јока Богутовка</name>
+
+        <l>Заспала, <noun gender="female" relation="gen" type="name" id="n44">Јока Богутовка</noun>,
+            заспала,</l>
+        <l><noun gender="female" relation="gen" type="name" id="n45">Јова</noun>, <noun
+                gender="female" relation="gen" type="name" id="n46">Јовина</noun>.</l>
+        <l><noun gender="female" relation="gen" type="name" id="n47">Јела</noun>, <noun
+                gender="female" relation="gen" type="name" id="n48">Јелина</noun></l>
+        <l><noun gender="female" relation="gen" type="name" id="n49">Јока Богутовка</noun>.</l>
+        <l>Заспала <noun gender="female" relation="gen" type="name" id="n50">Јока
+            Богутовка</noun>,</l>
+        <l>буди је <noun gender="female" relation="gen" type="name" id="n51">Јово
+            Богутово</noun></l>
+
+        <perfinstruct>на глас, Растошница, Подриње</perfinstruct>
+    </song>
+    <song>
+        <name>Ој, девојко, коласта јабуко</name>
+
+        <l>Ој, <noun gender="female" relation="gen" type="gen" id="n52">девојко</noun>, коласта
+            јабуко,</l>
+        <l>коласта јабуко</l>
+        <l>Ој <noun gender="female" relation="gen" type="gen" id="n53">девојко</noun> коласта
+            јабуко,</l>
+        <l>Где си расла па си тако <adj gender="female" posneg="positive" ref="n53"
+            >красна</adj>?</l>
+        <l>"Ја сам расла на <noun gender="female" relation="fam" type="gen" id="n54">мајкина</noun>
+            крила,</l>
+        <l>ранила ме <des posneg="positive">медом и шећером</des>,</l>
+        <l>појила ме вином и ракијом".</l>
+    </song>
+    <song>
+        <name>Чува мајка Јову и Јованку</name>
+
+        <l>Чува <noun gender="female" relation="fam" type="gen" id="n55">мајка</noun>
+            <noun gender="female" relation="gen" type="name" id="n56">Јову</noun> и <noun
+                gender="female" relation="gen" type="name" id="n57">Јованку</noun>,</l>
+        <l>Чувала их петнаест године.</l>
+        <l>Расте <noun gender="female" relation="gen" type="name" id="n58">Јова</noun>
+            <adj gender="female" posneg="positive" ref="n58">лепи</adj> и <adj gender="female"
+                posneg="positive" ref="n58">прелепи</adj>,</l>
+        <l>А <noun gender="female" relation="gen" type="name" id="n59">Јованка</noun>
+            <adj gender="female" posneg="positive" ref="n59">лепа</adj> и <adj gender="female"
+                posneg="positive" ref="n59">прелепа</adj>.</l>
+        <l><noun gender="male" relation="fam" type="gen" id="n60">Братац</noun> сеји тиома
+            говори:</l>
+        <l>"Чујеш мене, моја <noun gender="female" relation="rom" type="gen" id="n61">мила</noun>
+            сејо,</l>
+        <l>Не да <noun gender="male" relation="fam" type="gen" id="n62">братац</noun>
+            <noun gender="male" relation="rom" type="gen" id="n63">другом</noun> љуба бити".</l>
+        <l>Проговара <adj gender="female" posneg="positive" ref="n64">лијепа</adj>
+            <noun gender="female" relation="rom" type="name" id="n64">Јованка</noun>:</l>
+        <l>"Ој <noun gender="male" relation="fam" type="name" id="n65">Јоване</noun>, мој мио <noun
+                gender="male" relation="fam" type="gen" id="n66">брајане</noun>,</l>
+        <l>Ја не волим теби љуба бити,</l>
+        <l>Веће волим смерно погинути".</l>
+        <l>Мораш, сејо, мени љуба бити,</l>
+        <l>Ил, ћеш сада главу изгубити."</l>
+        <l>Макну ножем одсјече јој главу.</l>
+        <l>Мртва глава по ливади ваља,</l>
+        <l>Мртва уста по тијем говоре:</l>
+        <l>"Ој, <noun gender="male" relation="fam" type="name" id="n67">Јоване</noun>, мој мио <noun
+                gender="male" relation="fam" type="gen" id="n68">брајане</noun>,</l>
+        <l>Кад отидеш мојој <adj gender="female" posneg="negative" ref="n69">старој</adj>
+            <noun gender="female" relation="fam" type="gen" id="n69">мајци</noun>,</l>
+        <l>Заблејаће моја <adj gender="female" posneg="negative" ref="n70">стара</adj>
+            <noun gender="female" relation="gen" type="name" id="n70">Ранка</noun></l>
+        <l>Питаће те моја <adj gender="female" posneg="positive" ref="n71">мила</adj>
+            <noun gender="female" relation="fam" type="gen" id="n71">мајка</noun>:</l>
+        <l>"<noun gender="male" relation="fam" type="gen" id="n72">Чедо</noun>, <noun gender="male"
+                relation="fam" type="name" id="n73">Јово</noun>, ди ти је <noun gender="female"
+                relation="rom" type="name" id="n74">Јованка</noun>?"</l>
+        <l>Ти <noun gender="female" relation="rom" type="gen" id="n75">јој</noun> брале, њој овако
+            кажи:</l>
+        <l>"Везак везла, иглу изгубила,</l>
+        <l>Остала је по ливади тражит".</l>
+
+        <perfinstruct>из околине Пирота</perfinstruct>
+    </song>
+    <song>
+        <name>Ој, дивојко, мило моје</name>
+
+        <l>Ој <noun gender="female" relation="rom" type="gen" id="n76">дивојко</noun>
+            <adj gender="female" posneg="positive" ref="n76">мило</adj> моје</l>
+        <l>За планином заноћило стадо</l>
+        <l>Ој <noun gender="female" relation="rom" type="gen" id="n77">девојко</noun>
+            <adj gender="female" posneg="positive" ref="n77">мило</adj> моје</l>
+        <l>За планином заноћило стадо,</l>
+        <l>Чујеш ли ме <noun gender="female" relation="rom" type="gen" id="n78">мило</noun> моје
+                <noun gender="female" relation="rom" type="gen" id="n79">драго</noun></l>
+        <l>Чујеш ли ме де ја певам сад</l>
+        <l>Ја би дошла ал ми не да нана</l>
+        <l>Све се се боји побећ ћу сама</l>
+        <l>За онога <noun gender="female" relation="rom" type="name" id="n80">Милана</noun>
+            овчара</l>
+
+        <perfinstruct>чобанска, бројаница, Доња Шаторња код Тополе</perfinstruct>
+    </song>
+</anthology>

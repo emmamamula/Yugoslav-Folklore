@@ -1,0 +1,451 @@
+﻿<!--<?xml-model href="../schema/anthology_schema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<!--<?xml-model href="../schema/antholog_schema_consolidated.rnc" type="application/relax-ng-compact-syntax"?>-->
+<!-- Poem X has issue with nouns and adjs -->
+<?xml-stylesheet type="text/xsl" href="Anthology_of_Jugoslav_Poetry_marked_up.xsl"?>
+<anthology>
+    <poem>
+        <number>IV</number>
+
+        <title><noun relation="gen" type="name" id="n2" gender="female">SMILIA</noun>[5]</title>
+
+        <stanza>
+            <l><adj ref="n3" gender="female" posneg="positive">Sweet</adj>
+                <noun relation="gen" id="n3" gender="female" type="name">Smilia</noun>-flowers did
+                    <noun relation="gen" id="n8" gender="female" type="name">Smilia</noun> pull,</l>
+            <l>Her sleevelets and <des posneg="negative" gender="female">her bosom full</des>;</l>
+            <l>By the cool stream she gather'd them,</l>
+            <l>And twined her many a diadem--</l>
+            <l>A diadem of flowery-wreaths;--</l>
+            <l><des posneg="positive" gender="female">One round her brows its fragrance
+                    breathes</des>;</l>
+            <l>One to her bosom-friend she throws;</l>
+            <l>The other where the streamlet flows</l>
+            <l>She flings, and says in gentlest tone--</l>
+            <l>"Swim on, thou odorous wreath! swim on,</l>
+            <l>Swim to my <noun type="name" id="n5" gender="male" relation="rom">Juris</noun>' home,
+                and there</l>
+            <l>O whisper in his <noun relation="fam" type="gen" id="n6" gender="female"
+                    >mother</noun>'s ear:</l>
+            <l>'Say, wilt thou not thy <noun type="name" id="n7" gender="male" relation="rom"
+                    >Juris</noun> wed?--</l>
+            <l>Then give him not a widow's bed;</l>
+            <l>But some <adj gender="female" posneg="positive" ref="n4">sweet</adj>
+                <noun type="gen" relation="rom" gender="female" id="n4">maiden</noun>, <adj ref="n4"
+                    gender="female" posneg="positive">young</adj> and <adj ref="n4" gender="female"
+                    posneg="positive">fair</adj>.'"</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>V</number>
+
+        <title>HARVEST SONG</title>
+
+        <stanza>
+            <l>Take hold of your reeds, <noun relation="rom" id="n9" type="gen" gender="male"
+                    >youths</noun> and <noun relation="rom" type="gen" id="n10" gender="female"
+                    >maiden</noun>s! and see</l>
+            <l>Who the <noun id="n24" relation="rom" type="gen" gender="female">kissers</noun> and
+                    <noun id="n12" gender="female" relation="rom" type="gen">kiss'd</noun> of the
+                    <noun relation="rom" type="gen" id="n13" gender="male">reapers</noun> shall
+                be.</l>
+            <l>Take hold of your reeds, till the secret be told,</l>
+            <l>If the <noun relation="rom" type="gen" id="n14" gender="unknown">old</noun> shall
+                kiss <noun relation="rom" type="gen" gender="unknown" id="n15">young</noun>, and the
+                    <noun id="n16" relation="rom" gender="unknown" type="gen">young</noun> shall
+                kiss <noun id="n49" type="gen" relation="rom" gender="unknown">old</noun></l>
+            <l>Take hold of your reeds, <noun relation="rom" type="gen" id="n18" gender="male"
+                    >youths</noun> and <noun id="n19" gender="female" relation="rom" type="gen"
+                    >maidens</noun>! and see</l>
+            <l>What fortune and chance to the drawers decree:</l>
+            <l>And if any refuse, may <noun id="n20" relation="fam" type="name" gender="unknown"
+                    >God</noun> smite <noun type="gen" relation="rom" id="n21" gender="plural"
+                    >them</noun>--may <noun type="gen" relation="rom" id="n22" gender="plural"
+                    >they</noun></l>
+            <l>Be cursed by <noun relation="gen" id="n23" type="name" gender="female"
+                    >Paraskeva</noun>, the <noun id="n25" type="gen" relation="gen" gender="female"
+                    >saint</noun> of to-day!</l>
+            <l>Now loosen <noun id="n26" type="gen" relation="rom" gender="unknown">your</noun>
+                hands--now loosen, and see</l>
+            <l>Who the <noun id="n27" gender="female" type="gen" relation="rom">kissers</noun> and
+                    <noun id="n28" type="gen" relation="rom" gender="female">kiss'd</noun> of the
+                    <noun id="n29" type="gen" relation="gen" gender="male">reapers</noun> shall
+                be.[6]</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>VII</number>
+
+        <title>KISSES</title>
+
+        <stanza>
+            <l>What's the time of night, <noun id="n32" type="gen" relation="rom" gender="female">my
+                    dear</noun>?</l>
+            <l>For my <noun id="n33" type="gen" gender="female" relation="rom">maiden</noun> said,
+                    "<noun type="gen" id="n34" relation="rom" gender="male">I</noun>'ll come"--</l>
+            <l>Said "<noun id="n35" type="gen" gender="male" relation="rom">I</noun>'ll come,"--but
+                is not here:</l>
+            <l>And 'tis now the midnight's gloom.</l>
+            <l>Lone and silent home <noun id="n36" type="gen" gender="male" relation="rom">I</noun>
+                turn'd;</l>
+            <l>But upon the bridge <noun type="gen" id="n37" gender="male" relation="rom">I</noun>
+                met <noun id="n38" type="gen" gender="female" relation="rom">her</noun>--</l>
+            <l>Kiss'd <noun id="n39" type="gen" gender="female" relation="rom">her</noun>: How my
+                hot lips burned!--</l>
+            <l>How forget it--how forget <noun id="n40" type="gen" gender="female" relation="rom"
+                    >her</noun>!</l>
+            <l>In one kiss full ten <noun id="n41" type="gen" gender="male" relation="rom">I</noun>
+                drew:</l>
+            <l>And upon my lips there grew,</l>
+            <l>From that hour, a honey-dew,</l>
+            <l>
+                <des posneg="positive" gender="male">As if sugar were my meat,</des>
+            </l>
+            <l>
+                <des posneg="positive" gender="male">And my drink metheglin sweet.</des>
+            </l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>X</number>
+
+        <title>SALUTATION OF THE <adj ref="n46" gender="female">MORNING</adj>
+            <noun id="n46" gender="female" type="gen" relation="fam">STAR</noun></title>
+
+        <stanza>
+            <l>Lo! the <noun id="n42" type="gen" relation="fam" gender="female">maiden</noun> greets
+                the <noun id="n43" type="gen" relation="fam" gender="female">day-star</noun>! "<noun
+                    id="n44" type="gen" relation="fam" gender="female">Sister</noun>!</l>
+            <l><adj ref="n45" gender="female">Sister</adj>
+                <noun id="n45" type="gen" relation="fam" gender="female">star</noun> of morning!
+                well <noun id="n47" type="gen" relation="fam" gender="female">I</noun> greet <noun
+                    id="n48" type="gen" relation="fam" gender="female">thee</noun>;</l>
+            <l>Thou dost watch the world from thine uprising</l>
+            <l>To thy sinking hour. In Hercegovina,</l>
+            <l>Tell me didst thou see the princely <noun id="n50" relation="gen" type="name"
+                    gender="male">Stephan</noun>?</l>
+            <l>Tell me, was his snowy palace open,</l>
+            <l>Were his steeds caparisoned, and ready;</l>
+            <l>And was he equipp'd his <noun id="n51" gender="female" type="gen" relation="rom"
+                    >bride</noun> to visit?"</l>
+        </stanza>
+
+        <stanza>
+            <l>Gently then the <adj ref="n52" gender="female">morning</adj>
+                <noun id="n52" gender="female" relation="fam" type="gen">star</noun> responded:</l>
+            <l>"<adj ref="n53" posneg="positive" gender="female">Lovely</adj>
+                <noun id="n53" type="gen" relation="fam" gender="female">sister</noun>! beautiful
+                    <adj ref="n54" gender="female" posneg="positive">young</adj>
+                <noun id="n54" type="gen" relation="rom" gender="female">maiden</noun>,</l>
+            <l>True, I watch the world from my uprising</l>
+            <l>To my setting;--and in Hercegovina</l>
+            <l>Saw the palace of the princely <noun id="n57" relation="gen" gender="male"
+                    type="name">Stephan</noun>;</l>
+            <l>And that snowy palace was wide open,</l>
+            <l>And his horse was saddled, and was ready,</l>
+            <l>And he was equipp'd his <noun id="n56" type="gen" relation="rom" gender="female"
+                    >bride</noun> to visit:</l>
+            <l>But not thee--not thee--another <noun id="n55" relation="gen" type="gen"
+                    gender="female">maiden</noun>;</l>
+            <l><adj gender="unknown" posneg="negative" ref="n58">False</adj>
+                <noun id="n58" type="gen" relation="gen" gender="unknown">tongues</noun> three have
+                whisper'd evil of thee;</l>
+            <l>One has said--<adj ref="n59" gender="female">thine</adj>
+                <noun id="n59" gender="female" relation="gen" type="gen">origin</noun> is <adj
+                    ref="n59" gender="female" posneg="negative">lowly</adj>;</l>
+            <l>One, that <noun gender="female" type="gen" relation="gen" id="n60">thou</noun> art
+                    <adj ref="n60" gender="female" posneg="negative">treacherous</adj> as a
+                serpent;</l>
+            <l>And the third, that <noun gender="female" id="n61" relation="gen" type="gen"
+                    >thou</noun> art <adj ref="n61" gender="female" posneg="negative">dull</adj> and
+                    <adj posneg="negative" gender="female" ref="n61">dreamy</adj>."</l>
+        </stanza>
+
+        <stanza>
+            <l>Then the <noun id="n64" type="gen" relation="fam" gender="female">maiden</noun>
+                pour'd her imprecations:</l>
+            <l>"He who said my origin was lowly,</l>
+            <l>Never let a child of love be born him;</l>
+            <l>He who called me treacherous as a serpent,</l>
+            <l>Round his heart, O! let a serpent wreathe it;</l>
+            <l>Through hot summers in his hair be tangled,</l>
+            <l>Through cold winters in his bosom nestle;</l>
+            <l>He who dar'd to call me dull and dreamy,</l>
+            <l>Nine long years may he be worn by sickness,</l>
+            <l>And no sleep renew his strength to bear it."</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XI</number>
+
+        <title>THE <noun id="n62" type="gen" gender="female" relation="gen">KNITTER</noun></title>
+
+        <stanza>
+            <l>The <noun id="n63" gender="female" relation="gen" type="gen">maiden</noun> sat upon
+                the hill,</l>
+            <l>Upon the hill and far away,</l>
+            <l>Her fingers wove a silken cord,</l>
+            <l>And thus I heard the <noun id="n65" type="gen" relation="gen" gender="female"
+                    >maiden</noun> say:</l>
+            <l>"O with what joy, what ready will,</l>
+            <l>If some <adj posneg="positive" ref="n67" gender="male">fond</adj>
+                <noun id="n67" relation="rom" type="gen" gender="male">youth</noun>, some <noun
+                    id="n66" relation="rom" type="gen" gender="male">youth</noun>
+                <adj gender="male" ref="n66" posneg="positive">adored</adj>,</l>
+            <l>Might wear thee, should I weave thee now!</l>
+            <l>The finest gold I'd interblend,</l>
+            <l>The richest pearls as white as snow.</l>
+            <l>But if I knew, my silken friend,</l>
+            <l>That an <adj ref="n68" gender="male" posneg="negative">old</adj>
+                <noun id="n68" gender="male" relation="gen" type="gen">man</noun>[11] should wear
+                thee, I</l>
+            <l>The coarsest worsted would inweave,</l>
+            <l>Thy finest silk for dog-grass leave,</l>
+            <l>And all thy knots with nettles tie."</l>
+        </stanza>
+        <translator>S. J. B.</translator>
+        <!-- Translator not in original work but credited in title page -->
+    </poem>
+
+    <poem>
+        <number>XIII</number>
+
+        <title>
+            <noun gender="female" type="name" relation="gen" id="n69">ROSA</noun>
+        </title>
+
+        <stanza>
+            <l>Under roses slept the <noun type="gen" id="n70" gender="female" relation="gen"
+                    >maiden</noun>
+                <noun type="gen" id="n71" relation="gen" gender="female">Rosa</noun>,</l>
+            <l>And a rose fell down and waken'd <noun id="n72" type="gen" gender="female"
+                    relation="gen">Rosa</noun>;</l>
+            <l>To the <noun gender="female" relation="gen" id="n73" type="gen">flower-rose</noun>,
+                said the <noun id="n74" type="gen" relation="gen" gender="female">maiden</noun>
+                <noun id="n75" relation="gen" type="name" gender="female">Rosa</noun>--</l>
+            <l>"<noun gender="female" type="gen" relation="gen" id="n76">Rose</noun> of mine! O
+                fall, not on the <noun id="n77" relation="gen" type="gen" gender="female"
+                    >maiden</noun>,</l>
+            <l>I am in no tune of soul to love thee,</l>
+            <l>For a heavy grief o'erwhelms my spirit;</l>
+            <l><noun id="n78" type="gen" relation="rom" gender="male">youth</noun>would have me--but
+                old age hath won me.</l>
+            <l>An <adj ref="n79" gender="male" posneg="negative">old</adj>
+                <noun id="n79" gender="male" relation="rom" type="gen">bridegroom</noun> is a <adj
+                    gender="unknown" posneg="negative" ref="n80">worthless</adj>
+                <noun gender="unknown" type="gen" relation="gen" id="n80">maple</noun>;</l>
+            <l>When the wind is up it faints and trembles;</l>
+            <l>When the rain descends, decay decays it:</l>
+            <l>But a <adj ref="n81" gender="female" posneg="negative">young</adj>
+                <noun id="n81" gender="female" relation="rom" type="gen">bride</noun>, is a <noun
+                    id="n82" type="gen" relation="gen" gender="female">roselet</noun>
+                <adj gender="female" ref="n82" posneg="positive">budding</adj>;</l>
+            <l>When the wind is up, its fair leaves open,</l>
+            <l>When the rain descends, it shines in beauty,--</l>
+            <l>When the sun comes forth, it smiles and glories."</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XIV</number>
+
+        <title>THE <noun id="n83" type="gen" relation="gen" gender="female">maiden</noun> AND THE
+                <noun gender="unknown" relation="gen" type="gen" id="n84">SUN</noun></title>
+
+        <stanza>
+            <l>A <noun id="n85" relation="gen" type="gen" gender="female">maiden</noun> proudly thus
+                the <noun id="n86" gender="unknown" relation="gen" type="gen">sun</noun>
+                accosted:</l>
+            <l>"<noun id="n87" type="gen" relation="gen" gender="unknown">Sun</noun>! <noun
+                    gender="female" relation="gen" type="gen" id="n88">I</noun> am <adj
+                    gender="female" posneg="positive" ref="n88">fairer</adj> far than thou,--far
+                    <adj gender="female" posneg="positive" ref="n88">fairer</adj>;</l>
+            <l><adj ref="n88" posneg="positive" gender="female">Fairer</adj> than is thy sister[12]
+                or thy brethren,--</l>
+            <l><adj ref="n88" posneg="positive" gender="female">Fairer</adj> than yon bright moon at
+                midnight shining,</l>
+            <l><adj ref="n88" posneg="positive" gender="female">Fairer</adj> than yon gay star in
+                heav'n's arch twinkling,</l>
+            <l>That star, all other stars preceding proudly,</l>
+            <l>As walks before his sheep the careful shepherd."</l>
+            <l>The sun complain'd to God of such an insult:</l>
+            <l>"What shall be done with this <adj ref="n89" gender="female" posneg="negative"
+                    >presumptuous</adj>
+                <noun relation="gen" id="n89" type="gen" gender="female">maiden</noun>?"</l>
+            <l>And to the <noun id="n90" gender="unknown" type="gen" relation="gen">sun</noun>
+                <noun relation="gen" type="name" gender="unknown" id="n91">God</noun> gave a speedy
+                answer:</l>
+            <l>"Thou glorious <noun id="n92" gender="female" type="gen" relation="fam">Sun</noun>!
+                thou my <adj gender="female" posneg="positive" ref="n93">beloved</adj>
+                <noun id="n93" relation="fam" gender="female" type="gen">daughter</noun>![13]</l>
+            <l>Be joyous yet! say, why art thou <adj ref="n92" posneg="negative" gender="female"
+                    >dejected</adj>?</l>
+            <l>Wilt thou reward the <noun id="n128" type="gen" relation="gen" gender="female"
+                    >maiden</noun> for her folly--</l>
+            <l>Shine on, and burn the <noun id="n94" relation="gen" type="gen" gender="female"
+                    >maiden</noun>'s snowy forehead.</l>
+            <l>But I a gloomier dowry yet will give her;</l>
+            <l><adj ref="n95" gender="male">Evil</adj> to her shall be her <noun gender="male"
+                    type="gen" relation="fam" id="n95">husband's brother</noun>;</l>
+            <l><adj ref="n96" gender="male">Evil</adj> to her shall be her <noun gender="male"
+                    type="gen" relation="fam" id="n96">husband's father</noun>.</l>
+            <l>Then shall she think upon the affront she gave thee."</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+    <poem>
+        <number>XVI</number>
+
+        <title>THE <noun gender="unknown" relation="gen" type="gen" id="n103">FALCON</noun></title>
+
+        <stanza>
+            <l>The <noun id="n97" gender="unknown" relation="gen" type="gen">falcon</noun> soars
+                both far and high,</l>
+            <l>He spreads his pinions in the sky,</l>
+            <l>Then from his cloudy heights he lowers,</l>
+            <l>And seats him on the city's towers:</l>
+            <l>He sees a <adj gender="female" posneg="positive" ref="n98">laughing</adj>
+                <noun id="n98" type="gen" relation="gen" gender="female">girl</noun> of <adj
+                    ref="n98" posneg="positive" gender="female">grace</adj>,</l>
+            <l>In crystal water bathe her face;</l>
+            <l>And looks with <adj ref="n99" gender="female" posneg="positive">open</adj>, <adj
+                    posneg="positive" gender="female" ref="n99">eager</adj>
+                <noun id="n99" gender="female" relation="gen" type="gen">eye</noun></l>
+            <l>Upon her <noun gender="female" type="gen" relation="gen" id="n100">neck</noun>
+                <adj posneg="positive" gender="female" ref="n100">of ivory</adj>:</l>
+            <l><adj ref="n100" gender="female" posneg="positive">White</adj> as the snow upon the
+                mountain;</l>
+            <l>And there he hears a <noun id="n101" gender="male" relation="rom" type="gen"
+                    >youth</noun>recounting</l>
+            <l>His tale of love.--"Now bend thy head</l>
+            <l>Upon thy <adj gender="female" posneg="positive" ref="n102">snowy</adj>
+                <noun id="n102" type="gen" relation="rom" gender="female">neck</noun>," he said;</l>
+            <l>"Its whiteness is too bright for me:</l>
+            <l>And 'neath it sorrowing heart may be."</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XVII</number>
+
+        <title><noun id="n104" type="gen" relation="gen" gender="male">DEER</noun> AND <noun
+                gender="female" relation="gen" type="name" id="n105">VILA</noun></title>
+
+        <stanza>
+            <l>A <adj ref="n106" gender="male" posneg="positive">young</adj>
+                <noun id="n106" type="gen" relation="gen" gender="unknown">deer</noun> tracked his
+                way through the green forest,</l>
+            <l>One lonely day--another came in sadness;</l>
+            <l>And the third dawn'd, and brought him sighs and sorrow:</l>
+            <l>Then he address'd him to the forest <noun id="n107" gender="female" relation="gen"
+                    type="name">Vila</noun>:</l>
+            <l>"<adj posneg="positive" gender="male" ref="n108">Young</adj>
+                <noun id="n108" type="gen" relation="gen" gender="male">deer</noun>!" she said,
+                "thou <adj gender="male" ref="n109">wild</adj>
+                <noun gender="male" id="n109" type="gen" relation="gen">one</noun> of the
+                forest,</l>
+            <l>Now tell me what great sorrow has oppress'd thee?</l>
+            <l>Why wanderest thou thus in the forest lonely:</l>
+            <l>Lonely one day,--another day in sadness,--</l>
+            <l>And the third day with sighs and anguish groaning?"</l>
+        </stanza>
+
+        <stanza>
+            <l>And thus the <adj posneg="positive" ref="n110" gender="male">young</adj>
+                <noun id="n110" type="gen" relation="gen" gender="male">deer</noun> to the <noun
+                    id="n113" relation="gen" gender="female" type="name">Vila</noun> answer'd:</l>
+            <l>"O thou <adj posneg="positive" gender="female" ref="n111">sweet</adj>
+                <noun gender="female" relation="gen" type="gen" id="n111">sister</noun>! <noun
+                    gender="female" type="name" relation="gen" id="n112">Vila</noun> of the
+                forest!</l>
+            <l>Me has indeed a heavy grief befallen;</l>
+            <l>For I had once a <noun id="n114" type="gen" gender="female" relation="rom"
+                    >fawn</noun>, mine own <adj gender="female" ref="n114" posneg="positive"
+                    >beloved</adj>,</l>
+            <l>And one sad day she sought the running water:</l>
+            <l>She enter'd it, but came not back to bless me:</l>
+            <l>Then tell me, had she lost her way and wander'd?</l>
+            <l>Was she pursued and captured by the huntsman?</l>
+            <l>Or has she left me?--has she wholly left me?--</l>
+            <l>Loving some other <noun id="n115" type="gen" relation="gen" gender="male"
+                >deer</noun>--and I forgotten.</l>
+            <l>O! if she has but lost her way, and wanders,</l>
+            <l>Teach her to find it--bring her back to love me.</l>
+            <l>O! if she has been captured by the huntsman,</l>
+            <l>Then may a fate as sad as mine await him.</l>
+            <l>But if <noun id="n116" gender="female" relation="rom" type="gen">she</noun> has
+                forsaken me--if, <adj gender="female" ref="n116">faithless</adj>,</l>
+            <l>She loves another <noun id="n117" type="gen" relation="gen" gender="male"
+                >deer</noun>--and I forgotten--</l>
+            <l>Then may the huntsman speedily o'er take her."</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+
+    <poem>
+        <number>XVIII</number>
+
+        <title><noun gender="female" type="gen" relation="gen" id="n118">VIRGIN</noun> AND <noun
+                gender="female" id="n119" relation="gen" type="gen">WIDOW</noun></title>
+
+        <stanza>
+            <l>Over Sarajevo flies a falcon,</l>
+            <l>Looking round for cooling shade to cool him.</l>
+            <l>Then he finds a pine on Sarajevo;</l>
+            <l>Under it a well of sparkling water;</l>
+            <l>By the water, <noun id="n120" type="name" relation="gen" gender="female"
+                    >Hyacinth</noun>, the <noun id="n121" gender="female" relation="fam" type="gen"
+                    >widow</noun>,</l>
+            <l>And the <noun id="n122" type="name" relation="gen" gender="female">Rose</noun>, the
+                    <adj ref="n123" gender="female" posneg="positive">young</adj>, <adj ref="n123"
+                    gender="female">unmarried</adj>
+                <noun gender="female" relation="gen" type="gen" id="n123">virgin</noun>.</l>
+            <l>He look'd down--the falcon--and bethought him:</l>
+            <l>"Shall I kiss <adj gender="female" posneg="negative" ref="n124">grave</adj>
+                <noun gender="female" id="n124" type="name" relation="gen">Hyacinth</noun>, the
+                    <noun id="n126" relation="gen" type="gen" gender="female">widow</noun>;</l>
+            <l>Or the <noun gender="female" type="name" relation="rom" id="n127">Rose</noun>, the
+                    <adj gender="female" ref="n128" posneg="positive">young</adj>, <adj
+                    gender="female" ref="n133">unmarried</adj>
+                <noun id="n133" gender="female" type="gen" relation="gen">virgin</noun>?"</l>
+            <l>Thinking thus--at last the bird determined--</l>
+            <l>And he whisper'd to himself sedately,</l>
+            <l>"Gold--though long employ'd, is far, far better</l>
+            <l>Than the finest silver freshly melted,"</l>
+            <l>So he kiss'd--kiss'd <noun gender="female" id="n130" relation="rom" type="name"
+                    >Hyacinth</noun>, the <noun id="n131" type="gen" relation="rom" gender="female"
+                    >widow</noun>.</l>
+            <l>Very <adj gender="female" posneg="negative" ref="n132">wroth</adj> wax'd then <adj
+                    ref="n132" posneg="positive" gender="female">young</adj>
+                <noun id="n132" gender="female" relation="gen" type="name">Rose</noun>, the <noun
+                    relation="gen" gender="female" type="gen" id="n134">virgin</noun>:</l>
+            <l>"Sarajevo! let a ban be on thee!</l>
+            <l>Cursed be thy strange and evil customs!</l>
+            <l>For thy <noun gender="male" id="n140" relation="rom" type="gen">youths</noun> they
+                love the bygone widows,</l>
+            <l>And thy <adj posneg="negative" gender="male" ref="n142">aged</adj>
+                <noun id="n142" type="gen" relation="rom" gender="male">men</noun> the <adj
+                    gender="female" ref="n143" posneg="negative">untried</adj>
+                <noun gender="female" relation="rom" type="gen" id="n143">virgins</noun>."</l>
+        </stanza>
+
+        <translator>S. J. B.</translator>
+    </poem>
+</anthology>
