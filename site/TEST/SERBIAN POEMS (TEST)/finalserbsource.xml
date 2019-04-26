@@ -1,0 +1,294 @@
+<!--<?xml-model href="../schema/serbsource.rnc" type="application/relax-ng-compact-syntax"?>-->
+<serbsongs lang="srp">
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <title>Српске народне женске песме за певање</title>
+    <TOC>
+        <songnm>Јесам ли ти говорила, миле</songnm>
+        <songnm>Мобу зове Јово момче младо</songnm>
+        <songnm>Чувам овце у ливади доле</songnm>
+        <songnm>Девојчица цвеће брала па је заспала</songnm>
+        <songnm>Ђевојко ружо румена</songnm>
+        <songnm>Дођи, лоло, довече сам сама</songnm>
+        <songnm>Ајде, драги, д'имо ближе брега</songnm>
+        <songnm>Грабајте да грабамо</songnm>
+        <songnm>Извор вода извирала, ладна ледена</songnm>
+        <songnm>Ој убава, мала момо (Младо момче бога моли)</songnm>
+        <songnm>Запали се Ивица планина</songnm>
+        <songnm>Заспала Јока Богутовка</songnm>
+        <songnm>Ој, девојко, коласта јабуко</songnm>
+        <songnm>Чува мајка Јову и Јованку</songnm>
+        <songnm>Ој, дивојко, мило моје</songnm>
+    </TOC>
+    <song>
+        <number>1</number>
+        <name>Јесам ли ти говорила, миле</name>
+        <l> Јесам ли ти говорила, <noun gender="female" relation="rom" type="gen" id="n1"
+                >миле</noun></l>
+        <l>јесам ли ти, јесам ли ти</l>
+        <l>говорила <noun gender="female" relation="rom" type="gen" id="n2">миле</noun></l>
+        <l>да не пијеш, да не пијеш</l>
+        <l>ладне воде Дрине,</l>
+        <l>да не пијеш, да не пијеш.</l>
+        <l>Дрину воду затровале виле,</l>
+        <l>Дрину воду, Дрину воду</l>
+        <l>затровале виле,</l>
+        <l>па се бојим, па се бојим</l>
+        <l>И тебе ће, <noun gender="female" relation="rom" type="gen" id="n3">миле</noun>,</l>
+        <l>па се бојим, па се бојим.</l>
+        <perfinstruct>канталица, Цулине, српско Подриње</perfinstruct>
+    </song>
+    <song>
+        <number>2</number>
+        <name>Мобу зове Јово момче младо</name>
+        <l>Мобу зове <noun gender="male" relation="gen" type="name" id="n4">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n5">момче</noun>
+            <adj gender="male" ref="n5">младо</adj></l>
+        <l><noun gender="male" relation="gen" type="gen" id="n6">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n7">момче</noun>
+            <adj gender="male" posneg="positive" ref="n7">младо</adj> мобу зове</l>
+        <l>
+            <noun gender="male" relation="gen" type="name" id="n8">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n9">момче</noun>
+            <adj gender="male" ref="n9">младо</adj>
+        </l>
+        <l>Мобу зове <noun gender="male" relation="gen" type="gen" id="n10">Јово</noun>
+            <noun gender="male" relation="gen" type="gen" id="n11">момче</noun>
+            <adj gender="male" ref="n11">младо</adj></l>
+        <l>Мобу зове и моби се нада</l>
+        <l>Сва му моба пораније дошла</l>
+        <l>Закаснила <noun gender="female" relation="gen" type="name" id="n12">Марија</noun>
+            <noun gender="female" type="gen" relation="gen" id="n13">девојка</noun></l>
+        <l>Закаснила чешљала је <noun gender="female" relation="fam" type="gen" id="n14"
+                >мајка</noun></l>
+        <perfinstruct>жетелачка, на бас, Рибашевина код Ужица</perfinstruct>
+    </song>
+    <song>
+        <number>3</number>
+        <name>Чувам овце у ливади доле</name>
+        <l>Чувам овце у ливади доле</l>
+        <l>у ливади доле</l>
+        <l>Чувам овце у ливади доле</l>
+        <l>Оре <noun gender="female" type="gen" relation="rom" id="n15">миле</noun>, виче на
+            волове</l>
+        <l>Окреће се и тамо и амо</l>
+        <l>Не би ли ме негде угледао</l>
+        <l>Ја га видим ал му се не јављам</l>
+        <l>Не смем само стадо да остављам</l>
+        <perfinstruct>чобанска, Јарменовци код Тополе</perfinstruct>
+    </song>
+    <song>
+        <number>4</number>
+        <name>Девојчица цвеће брала па је заспала</name>
+        <l><noun gender="female" relation="gen" type="gen" id="n16">Девојчица</noun> цвеће
+            брала,</l>
+        <l>па је заспала</l>
+        <l>па је заспала</l>
+        <l><noun gender="female" relation="gen" type="gen" id="n17">Девојчица</noun> цвеће брала</l>
+        <l>Па је заспала</l>
+        <l>Будило је младо <noun gender="female" relation="fam" type="gen" id="n18">момче</noun></l>
+        <l>Младо грађанче:</l>
+        <l>Устани де <noun gender="female" relation="gen" type="gen" id="n19">девојчице</noun></l>
+        <l>Што си заспала</l>
+        <perfinstruct>жетелачка, на глас, Ваљевска Подгорина</perfinstruct>
+    </song>
+    <song>
+        <number>5</number>
+        <name>Ђевојко ружо румена</name>
+        <l><noun gender="female" relation="gen" type="gen" id="n20">Ђевојко</noun>, ружо румена</l>
+        <l>За ког си лице белила</l>
+        <l>За мене и тебе, о мој <noun gender="female" relation="gen" type="gen" id="n21"
+                >драгане</noun></l>
+        <perfinstruct>сватовска, Рибашевина код Ужица</perfinstruct>
+    </song>
+    <song>
+        <number>6</number>
+        <name>Дођи, лоло, довече сам сама</name>
+        <l>Дођи, лоло, довече сам сама</l>
+        <l>еј, дођи лоло, довече сам сама</l>
+        <l>Дођи лоло, довече сам сама</l>
+        <l>Кад си сама, а де ти је нана?</l>
+        <l>Моја <noun gender="female" relation="fam" type="gen" id="n22">нана</noun> пијана па
+            спава</l>
+        <perfinstruct> на бас, Брњци, Подриње</perfinstruct>
+    </song>
+    <song>
+        <number>7</number>
+        <name>Ајде, драги, д'имо ближе брега</name>
+        <l>Ајде <noun gender="male" relation="rom" type="gen" id="n23">драги</noun>, д'имо ближе
+            брега</l>
+        <l>Да видимо како вила бега</l>
+        <l>Вила бега пред ноге не гледа</l>
+        <l>Осуђена није више вила</l>
+        <l>Што да љуби у гори пастира</l>
+        <perfinstruct>Милатовац, Хомоље</perfinstruct>
+    </song>
+    <song>
+        <number>8</number>
+        <name>Грабајте да грабамо</name>
+        <l>Грабајте да грабамо,</l>
+        <l>куј може, куј не може,</l>
+        <l>ја мога, ја уграба,</l>
+        <l>а <noun gender="female" relation="gen" type="gen" id="n24">девојке</noun> не могаше,</l>
+        <l>китке им попадаше,</l>
+        <l><noun gender="male" relation="gen" type="gen" id="n25">момчета</noun> покупише,</l>
+        <l>у џепове натураше.</l>
+        <l>Ој убава, убава <noun gender="female" relation="gen" type="gen" id="n26"
+            >девојко</noun>!</l>
+        <perfinstruct>жетелачка, Велики Крчимир, Заплање, код Ниша</perfinstruct>
+    </song>
+    <song>
+        <number>9</number>
+        <name>Извор вода извирала, ладна ледена</name>
+        <l>Извор вода извирала,</l>
+        <l>ладна ледена,</l>
+        <l>ладна ледена.</l>
+        <l>Извор вода извирала ладна ледена,</l>
+        <l>ту <noun gender="female" relation="gen" type="gen" id="n27">девојке</noun>
+            <des posneg="positive">шећер мећу да је медена</des>,</l>
+        <l>а <noun gender="male" relation="gen" type="gen" id="n28">момци</noun> су водоноше, воду
+            попише.</l>
+        <perfinstruct>жетелачка, на глас, Црнућа под Рудником</perfinstruct>
+    </song>
+    <song>
+        <number>10</number>
+        <name>Ој убава, мала момо (Младо момче бога моли)</name>
+        <l>Ој убава <adj gender="female" posneg="positive" ref="n29">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n29">момо</noun>, ладо, ладо,</l>
+        <l>ој убава <adj gender="female" posneg="positive" ref="n30">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n30">момо</noun>, лад.</l>
+        <l>Ој убава <adj gender="female" posneg="positive" ref="n31">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n31">момо</noun>!</l>
+        <l><adj gender="male" ref="n32">Младо</adj>
+            <noun gender="male" relation="gen" type="gen" id="n32">момче</noun> Бога моли:</l>
+        <l>"Дај ми, Боже, што те молим:</l>
+        <l>претвори ме ситан бисер,</l>
+        <l>расипи ме пред кладенце,</l>
+        <l>где <noun gender="female" relation="gen" type="gen" id="n33">девојке</noun> воду
+            точе,</l>
+        <l>где <noun gender="female" relation="rom" type="gen" id="n34">невесте</noun>
+            <des posneg="positive">платно беле</des>,</l>
+        <l>да ме нижу, да ме носе,</l>
+        <l>да ме носе око грло,</l>
+        <l>за грло сам загинуо,</l>
+        <l>за <noun gender="female" relation="gen" type="gen" id="n35">девојче</noun> душу дао."</l>
+        <l>Ој убава <adj gender="female" posneg="positive" ref="n36">мала</adj>
+            <noun gender="female" relation="fam" type="gen" id="n36">момо</noun>!</l>
+        <perfinstruct>краљичка, Дадинци код Лесковца</perfinstruct>
+    </song>
+    <song>
+        <number>11</number>
+        <name>Запали се Ивица планина</name>
+        <l>Запали се , запали се</l>
+        <l>запали се <noun gender="female" relation="gen" type="name" id="n37">Ивица
+            планина</noun></l>
+        <l>Запали се <noun gender="female" relation="gen" type="name" id="n38">Ивица
+            планина</noun>,</l>
+        <l>Све изгоре, ништа не остаде,</l>
+        <l>Сам' остаде дрво јаворово,</l>
+        <l>И под њиме <noun gender="neutral" relation="gen" type="gen" id="n39">дете</noun>
+            <adj gender="male" ref="n39">мали</adj>
+            <noun gender="male" relation="gen" type="name" id="n40">Јово</noun>.</l>
+        <l><noun gender="female" relation="fam" type="gen" id="n41">Мајка</noun>
+            <noun gender="male" relation="gen" type="name" id="n42">Јови</noun> тијо говорила:</l>
+        <l>"Расти, <noun gender="male" relation="fam" type="gen" id="n43">сине</noun>, за недељу
+            дана,</l>
+        <l>За недељу кано за годину."</l>
+        <perfinstruct>Из Поповића код Неготина</perfinstruct>
+    </song>
+    <song>
+        <number>12</number>
+        <name>Заспала Јока Богутовка</name>
+        <l>Заспала, <noun gender="female" relation="gen" type="name" id="n44">Јока Богутовка</noun>,
+            заспала,</l>
+        <l><noun gender="female" relation="gen" type="name" id="n45">Јова</noun>, <noun
+                gender="female" relation="gen" type="name" id="n46">Јовина</noun>.</l>
+        <l><noun gender="female" relation="gen" type="name" id="n47">Јела</noun>, <noun
+                gender="female" relation="gen" type="name" id="n48">Јелина</noun></l>
+        <l><noun gender="female" relation="gen" type="name" id="n49">Јока Богутовка</noun>.</l>
+        <l>Заспала <noun gender="female" relation="gen" type="name" id="n50">Јока
+            Богутовка</noun>,</l>
+        <l>буди је <noun gender="female" relation="gen" type="name" id="n51">Јово
+            Богутово</noun></l>
+        <perfinstruct>на глас, Растошница, Подриње</perfinstruct>
+    </song>
+    <song>
+        <number>13</number>
+        <name>Ој, девојко, коласта јабуко</name>
+        <l>Ој, <noun gender="female" relation="gen" type="gen" id="n52">девојко</noun>, коласта
+            јабуко,</l>
+        <l>коласта јабуко</l>
+        <l>Ој <noun gender="female" relation="gen" type="gen" id="n53">девојко</noun> коласта
+            јабуко,</l>
+        <l>Где си расла па си тако <adj gender="female" posneg="positive" ref="n53"
+            >красна</adj>?</l>
+        <l>"Ја сам расла на <noun gender="female" relation="fam" type="gen" id="n54">мајкина</noun>
+            крила,</l>
+        <l>ранила ме <des posneg="positive">медом и шећером</des>,</l>
+        <l>појила ме вином и ракијом".</l>
+    </song>
+    <song>
+        <number>14</number>
+        <name>Чува мајка Јову и Јованку</name>
+        <l>Чува <noun gender="female" relation="fam" type="gen" id="n55">мајка</noun>
+            <noun gender="female" relation="gen" type="name" id="n56">Јову</noun> и <noun
+                gender="female" relation="gen" type="name" id="n57">Јованку</noun>,</l>
+        <l>Чувала их петнаест године.</l>
+        <l>Расте <noun gender="female" relation="gen" type="name" id="n58">Јова</noun>
+            <adj gender="female" posneg="positive" ref="n58">лепи</adj> и <adj gender="female"
+                posneg="positive" ref="n58">прелепи</adj>,</l>
+        <l>А <noun gender="female" relation="gen" type="name" id="n59">Јованка</noun>
+            <adj gender="female" posneg="positive" ref="n59">лепа</adj> и <adj gender="female"
+                posneg="positive" ref="n59">прелепа</adj>.</l>
+        <l><noun gender="male" relation="fam" type="gen" id="n60">Братац</noun> сеји тиома
+            говори:</l>
+        <l>"Чујеш мене, моја <noun gender="female" relation="rom" type="gen" id="n61">мила</noun>
+            сејо,</l>
+        <l>Не да <noun gender="male" relation="fam" type="gen" id="n62">братац</noun>
+            <noun gender="male" relation="rom" type="gen" id="n63">другом</noun> љуба бити".</l>
+        <l>Проговара <adj gender="female" posneg="positive" ref="n64">лијепа</adj>
+            <noun gender="female" relation="rom" type="name" id="n64">Јованка</noun>:</l>
+        <l>"Ој <noun gender="male" relation="fam" type="name" id="n65">Јоване</noun>, мој мио <noun
+                gender="male" relation="fam" type="gen" id="n66">брајане</noun>,</l>
+        <l>Ја не волим теби љуба бити,</l>
+        <l>Веће волим смерно погинути".</l>
+        <l>Мораш, сејо, мени љуба бити,</l>
+        <l>Ил, ћеш сада главу изгубити."</l>
+        <l>Макну ножем одсјече јој главу.</l>
+        <l>Мртва глава по ливади ваља,</l>
+        <l>Мртва уста по тијем говоре:</l>
+        <l>"Ој, <noun gender="male" relation="fam" type="name" id="n67">Јоване</noun>, мој мио <noun
+                gender="male" relation="fam" type="gen" id="n68">брајане</noun>,</l>
+        <l>Кад отидеш мојој <adj gender="female" posneg="negative" ref="n69">старој</adj>
+            <noun gender="female" relation="fam" type="gen" id="n69">мајци</noun>,</l>
+        <l>Заблејаће моја <adj gender="female" posneg="negative" ref="n70">стара</adj>
+            <noun gender="female" relation="gen" type="name" id="n70">Ранка</noun></l>
+        <l>Питаће те моја <adj gender="female" posneg="positive" ref="n71">мила</adj>
+            <noun gender="female" relation="fam" type="gen" id="n71">мајка</noun>:</l>
+        <l>"<noun gender="male" relation="fam" type="gen" id="n72">Чедо</noun>, <noun gender="male"
+                relation="fam" type="name" id="n73">Јово</noun>, ди ти је <noun gender="female"
+                relation="rom" type="name" id="n74">Јованка</noun>?"</l>
+        <l>Ти <noun gender="female" relation="rom" type="gen" id="n75">јој</noun> брале, њој овако
+            кажи:</l>
+        <l>"Везак везла, иглу изгубила,</l>
+        <l>Остала је по ливади тражит".</l>
+        <perfinstruct>из околине Пирота</perfinstruct>
+    </song>
+    <song>
+        <number>15</number>
+        <name>Ој, дивојко, мило моје</name>
+        <l>Ој <noun gender="female" relation="rom" type="gen" id="n76">дивојко</noun>
+            <adj gender="female" posneg="positive" ref="n76">мило</adj> моје</l>
+        <l>За планином заноћило стадо</l>
+        <l>Ој <noun gender="female" relation="rom" type="gen" id="n77">девојко</noun>
+            <adj gender="female" posneg="positive" ref="n77">мило</adj> моје</l>
+        <l>За планином заноћило стадо,</l>
+        <l>Чујеш ли ме <noun gender="female" relation="rom" type="gen" id="n78">мило</noun> моје
+                <noun gender="female" relation="rom" type="gen" id="n79">драго</noun></l>
+        <l>Чујеш ли ме де ја певам сад</l>
+        <l>Ја би дошла ал ми не да нана</l>
+        <l>Све се се боји побећ ћу сама</l>
+        <l>За онога <noun gender="female" relation="rom" type="name" id="n80">Милана</noun>
+            овчара</l>
+        <perfinstruct>чобанска, бројаница, Доња Шаторња код Тополе</perfinstruct>
+    </song>
+</serbsongs>

@@ -1,0 +1,27 @@
+start = serbsongs
+serbsongs =
+    element serbsongs {
+        mixed { lang, title, arranger+, email, TOC, song* }
+    }
+lang = attribute lang { text }
+title = element title { text }
+arranger = element arranger { text }
+email = element email { text }
+TOC = element TOC { songnm* }
+song = element song { name*, l*, perfinstruct* }
+name = element name { text }
+songnm = element songnm { text }
+l =
+    element l {
+        mixed { noun* & adj* & des* }
+    }
+perfinstruct = element perfinstruct { text }
+noun = element noun { gender, relation?, type?, id, text }
+adj = element adj { posneg?, gender, ref*, text }
+gender = attribute gender { "male" | "female" | "neutral" }
+relation = attribute relation { "fam" | "rom" | "gen" }
+posneg = attribute posneg { "positive" | "negative" }
+type = attribute type { "name" | "gen" }
+des = element des { posneg* & text? }
+id = attribute id { xsd:ID }
+ref = attribute ref { xsd:IDREF }
