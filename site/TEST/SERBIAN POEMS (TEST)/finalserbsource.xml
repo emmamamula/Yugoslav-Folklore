@@ -1,24 +1,6 @@
 <!--<?xml-model href="../schema/serbsource.rnc" type="application/relax-ng-compact-syntax"?>-->
 <serbsongs lang="srp">
     <link rel="stylesheet" type="text/css" href="index.css" />
-    <title>Српске народне женске песме за певање</title>
-    <TOC>
-        <songnm>Јесам ли ти говорила, миле</songnm>
-        <songnm>Мобу зове Јово момче младо</songnm>
-        <songnm>Чувам овце у ливади доле</songnm>
-        <songnm>Девојчица цвеће брала па је заспала</songnm>
-        <songnm>Ђевојко ружо румена</songnm>
-        <songnm>Дођи, лоло, довече сам сама</songnm>
-        <songnm>Ајде, драги, д'имо ближе брега</songnm>
-        <songnm>Грабајте да грабамо</songnm>
-        <songnm>Извор вода извирала, ладна ледена</songnm>
-        <songnm>Ој убава, мала момо (Младо момче бога моли)</songnm>
-        <songnm>Запали се Ивица планина</songnm>
-        <songnm>Заспала Јока Богутовка</songnm>
-        <songnm>Ој, девојко, коласта јабуко</songnm>
-        <songnm>Чува мајка Јову и Јованку</songnm>
-        <songnm>Ој, дивојко, мило моје</songnm>
-    </TOC>
     <song>
         <number>1</number>
         <name>Јесам ли ти говорила, миле</name>
